@@ -6,13 +6,13 @@ $repoName = Split-Path (Get-Location).Path -Leaf
 
 switch ($repoName) {
     'taichi-wiki' {
-        $ghRepo = 'taichi'
-        $pagesUrl = 'https://henryPhamDuc.github.io/taichi/'
+        $ghRepo = 'taichi-wiki'
+        $pagesUrl = 'https://henryPhamDuc.github.io/taichi-wiki/'
         $desc = 'VI: Bach khoa toan thu mo ve Thai Cuc Quyen'
     }
     'taichi-wiki-en' {
-        $ghRepo = 'taichi-en'
-        $pagesUrl = 'https://henryPhamDuc.github.io/taichi-en/'
+        $ghRepo = 'taichi-wiki-en'
+        $pagesUrl = 'https://henryPhamDuc.github.io/taichi-wiki-en/'
         $desc = 'EN: Open encyclopedia of Tai Chi Chuan'
     }
     default {

@@ -1039,20 +1039,68 @@
   ],
   "edges": [
     {
-      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "source": "essentials/qi-chen-dan-tian-qi-sinks",
       "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "foundations/tai-chi-chuan",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "target": "essentials/han-xiong-ba-bei-chest-back"
+    },
+    {
+      "source": "foundations/tai-chi-chuan",
+      "target": "technique/jin-li-internal-power"
+    },
+    {
+      "source": "essentials/chen-jian-zhui-zhou-sinking-shoulders",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "essentials/han-xiong-ba-bei-chest-back",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "essentials/chen-jian-zhui-zhou-sinking-shoulders",
+      "target": "technique/jin-li-internal-power"
+    },
+    {
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "target": "essentials/chen-jian-zhui-zhou-sinking-shoulders"
+    },
+    {
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "target": "essentials/qi-chen-dan-tian-qi-sinks"
+    },
+    {
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "target": "essentials/yi-yong-bu-yong-li-intention-not-force"
     },
     {
       "source": "essentials/ten-essentials-of-tai-chi-chuan",
       "target": "essentials/xu-ling-ding-jin-empty-spirit"
     },
     {
-      "source": "technique/jin-li-internal-power",
-      "target": "essentials/yi-yong-bu-yong-li-intention-not-force"
+      "source": "technique/tui-shou-push-hands",
+      "target": "essentials/qi-chen-dan-tian-qi-sinks"
     },
     {
-      "source": "essentials/han-xiong-ba-bei-chest-back",
+      "source": "essentials/qi-chen-dan-tian-qi-sinks",
       "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "essentials/qi-chen-dan-tian-qi-sinks",
+      "target": "technique/jin-li-internal-power"
+    },
+    {
+      "source": "essentials/yi-yong-bu-yong-li-intention-not-force",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "history/yang-style-tai-chi-chuan",
+      "target": "foundations/tai-chi-chuan"
     },
     {
       "source": "foundations/tai-chi-chuan",
@@ -1060,6 +1108,14 @@
     },
     {
       "source": "essentials/han-xiong-ba-bei-chest-back",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "forms/lan-que-wei-lame-stork",
+      "target": "history/yang-style-tai-chi-chuan"
+    },
+    {
+      "source": "foundations/taichi-knowledge-base",
       "target": "foundations/tai-chi-chuan"
     },
     {
@@ -1067,12 +1123,16 @@
       "target": "history/yang-style-tai-chi-chuan"
     },
     {
-      "source": "technique/tui-shou-push-hands",
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
       "target": "foundations/tai-chi-chuan"
     },
     {
-      "source": "forms/lan-que-wei-lame-stork",
-      "target": "history/yang-style-tai-chi-chuan"
+      "source": "essentials/qi-chen-dan-tian-qi-sinks",
+      "target": "essentials/han-xiong-ba-bei-chest-back"
+    },
+    {
+      "source": "technique/jin-li-internal-power",
+      "target": "essentials/qi-chen-dan-tian-qi-sinks"
     },
     {
       "source": "history/yang-style-tai-chi-chuan",
@@ -1080,38 +1140,26 @@
     },
     {
       "source": "technique/jin-li-internal-power",
-      "target": "foundations/tai-chi-chuan"
-    },
-    {
-      "source": "technique/tui-shou-push-hands",
-      "target": "technique/jin-li-internal-power"
-    },
-    {
-      "source": "essentials/ten-essentials-of-tai-chi-chuan",
-      "target": "essentials/qi-chen-dan-tian-qi-sinks"
-    },
-    {
-      "source": "foundations/tai-chi-chuan",
-      "target": "essentials/ten-essentials-of-tai-chi-chuan"
-    },
-    {
-      "source": "history/yang-style-tai-chi-chuan",
-      "target": "foundations/tai-chi-chuan"
+      "target": "essentials/yi-yong-bu-yong-li-intention-not-force"
     },
     {
       "source": "history/yang-style-tai-chi-chuan",
       "target": "technique/jin-li-internal-power"
     },
     {
-      "source": "essentials/chen-jian-zhui-zhou-sinking-shoulders",
+      "source": "essentials/yi-yong-bu-yong-li-intention-not-force",
       "target": "essentials/ten-essentials-of-tai-chi-chuan"
     },
     {
-      "source": "technique/tui-shou-push-hands",
-      "target": "essentials/qi-chen-dan-tian-qi-sinks"
+      "source": "essentials/xu-ling-ding-jin-empty-spirit",
+      "target": "foundations/tai-chi-chuan"
     },
     {
-      "source": "forms/lan-que-wei-lame-stork",
+      "source": "essentials/yi-yong-bu-yong-li-intention-not-force",
+      "target": "technique/jin-li-internal-power"
+    },
+    {
+      "source": "technique/tui-shou-push-hands",
       "target": "foundations/tai-chi-chuan"
     },
     {
@@ -1119,75 +1167,27 @@
       "target": "essentials/qi-chen-dan-tian-qi-sinks"
     },
     {
-      "source": "essentials/qi-chen-dan-tian-qi-sinks",
-      "target": "essentials/han-xiong-ba-bei-chest-back"
+      "source": "forms/lan-que-wei-lame-stork",
+      "target": "foundations/tai-chi-chuan"
     },
     {
-      "source": "foundations/tai-chi-chuan",
-      "target": "technique/jin-li-internal-power"
+      "source": "essentials/xu-ling-ding-jin-empty-spirit",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
     },
     {
       "source": "essentials/chen-jian-zhui-zhou-sinking-shoulders",
       "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "technique/tui-shou-push-hands",
+      "target": "technique/jin-li-internal-power"
     },
     {
       "source": "technique/jin-li-internal-power",
-      "target": "essentials/qi-chen-dan-tian-qi-sinks"
-    },
-    {
-      "source": "essentials/ten-essentials-of-tai-chi-chuan",
-      "target": "essentials/chen-jian-zhui-zhou-sinking-shoulders"
-    },
-    {
-      "source": "essentials/xu-ling-ding-jin-empty-spirit",
-      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+      "target": "foundations/tai-chi-chuan"
     },
     {
       "source": "forms/lan-que-wei-lame-stork",
-      "target": "technique/jin-li-internal-power"
-    },
-    {
-      "source": "essentials/chen-jian-zhui-zhou-sinking-shoulders",
-      "target": "technique/jin-li-internal-power"
-    },
-    {
-      "source": "essentials/yi-yong-bu-yong-li-intention-not-force",
-      "target": "essentials/ten-essentials-of-tai-chi-chuan"
-    },
-    {
-      "source": "foundations/taichi-knowledge-base",
-      "target": "foundations/tai-chi-chuan"
-    },
-    {
-      "source": "essentials/qi-chen-dan-tian-qi-sinks",
-      "target": "essentials/ten-essentials-of-tai-chi-chuan"
-    },
-    {
-      "source": "essentials/xu-ling-ding-jin-empty-spirit",
-      "target": "foundations/tai-chi-chuan"
-    },
-    {
-      "source": "essentials/ten-essentials-of-tai-chi-chuan",
-      "target": "essentials/han-xiong-ba-bei-chest-back"
-    },
-    {
-      "source": "essentials/yi-yong-bu-yong-li-intention-not-force",
-      "target": "foundations/tai-chi-chuan"
-    },
-    {
-      "source": "essentials/qi-chen-dan-tian-qi-sinks",
-      "target": "foundations/tai-chi-chuan"
-    },
-    {
-      "source": "essentials/yi-yong-bu-yong-li-intention-not-force",
-      "target": "technique/jin-li-internal-power"
-    },
-    {
-      "source": "essentials/ten-essentials-of-tai-chi-chuan",
-      "target": "essentials/yi-yong-bu-yong-li-intention-not-force"
-    },
-    {
-      "source": "essentials/qi-chen-dan-tian-qi-sinks",
       "target": "technique/jin-li-internal-power"
     }
   ],

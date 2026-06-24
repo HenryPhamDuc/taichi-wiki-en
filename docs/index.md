@@ -2,7 +2,11 @@
 
 > **Open encyclopedia of Tai Chi Chuan — English**
 
-> 🌐 **[Read in Vietnamese](https://henryPhamDuc.github.io/taichi/)** — Vietnamese version of this wiki
+> 🌐 **[Read in Vietnamese](https://henryPhamDuc.github.io/taichi-wiki/)** — Vietnamese version of this wiki
+>
+> 🧘 **[Henry's Taichi Practice Vault](https://henryPhamDuc.github.io/taichi/)** — Curated bilingual resource library
+>
+> 🎾 **[Tennis Wiki](https://henryPhamDuc.github.io/tennis-wiki-en/)** — Companion English tennis wiki
 
 Curated by **Henry Phạm** from the Taichi Knowledge Vault, the Taichi Wiki Project, and the Taichi-QiGong-Taoism library. This site is the English counterpart to the Vietnamese Taichi Wiki.
 

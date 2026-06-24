@@ -9,12 +9,11 @@ site_description: Open encyclopedia of Tai Chi Chuan — English
 site_author: Henry Phạm
 
 # The URL where the site will be hosted
-site_url: https://henryPhamDuc.github.io/taichi-en/
+site_url: https://henryPhamDuc.github.io/taichi-wiki-en/
 
 # Use the directory 'docs/' as source
 docs_dir: docs
 site_dir: site
-
 # Don't build archived/raw exports
 exclude_docs: |
 

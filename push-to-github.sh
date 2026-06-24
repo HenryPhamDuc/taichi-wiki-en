@@ -7,12 +7,12 @@ REPO_NAME="$(basename "$REPO_DIR")"
 
 case "$REPO_NAME" in
     taichi-wiki)
-        GH_REPO="taichi"
-        PAGES_URL="https://henryPhamDuc.github.io/taichi/"
+        GH_REPO="taichi-wiki"
+        PAGES_URL="https://henryPhamDuc.github.io/taichi-wiki/"
         ;;
     taichi-wiki-en)
-        GH_REPO="taichi-en"
-        PAGES_URL="https://henryPhamDuc.github.io/taichi-en/"
+        GH_REPO="taichi-wiki-en"
+        PAGES_URL="https://henryPhamDuc.github.io/taichi-wiki-en/"
         ;;
     *)
         echo "ERROR: unknown repo folder $REPO_NAME"
