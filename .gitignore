@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# OS temp
+*.tmp
+*.bak
+*~
+
+# Build artifacts
+*.log
+.env
+.env.local
+.env.*.local
+
+# MkDocs build output
+site/
+
+# Local user notes
+TODO.md
+NOTES.md
+drafts/
+
+# Build script (kept locally; not needed in the live repo)
+build_taichi_sites.py
+expand_articles.py

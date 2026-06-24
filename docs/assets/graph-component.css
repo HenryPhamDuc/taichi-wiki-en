@@ -1,0 +1,144 @@
+/* ===================================================================
+   Tennis WIKI — Graph View Styles
+   =================================================================== */
+
+.graph-view {
+  position: relative;
+  width: 100%;
+  background: var(--md-default-bg-color, #ffffff);
+  border: 1px solid rgba(0, 0, 0, .07);
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1rem 0;
+  /* height set inline */
+}
+
+.graph-view .graph-svg {
+  display: block;
+  width: 100%;
+  background: var(--md-default-bg-color, #ffffff);
+}
+
+.graph-view .graph-controls {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  z-index: 10;
+}
+
+.graph-view .graph-controls button {
+  background: var(--md-primary-fg-color, #2e7d32);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 6px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  font-family: inherit;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, .15);
+  transition: opacity 0.15s;
+}
+
+.graph-view .graph-controls button:hover {
+  opacity: 0.85;
+}
+
+.graph-view .graph-controls button.active {
+  background: var(--md-accent-fg-color, #d4e157);
+  color: #1a472a;
+}
+
+.graph-view .graph-legend {
+  position: absolute;
+  bottom: 12px;
+  left: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.88);
+  padding: 8px 10px;
+  border-radius: 4px;
+  font-size: 11px;
+  max-width: calc(100% - 100px);
+  border: 1px solid rgba(0, 0, 0, .06);
+}
+
+[data-md-color-scheme="slate"] .graph-view .graph-legend {
+  background: rgba(30, 30, 30, 0.92);
+  border-color: rgba(255, 255, 255, .1);
+}
+
+.graph-view .graph-legend .legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  padding: 2px 4px;
+  border-radius: 3px;
+  user-select: none;
+  transition: background 0.15s;
+}
+
+.graph-view .graph-legend .legend-item:hover {
+  background: rgba(0, 0, 0, .05);
+}
+
+[data-md-color-scheme="slate"] .graph-view .graph-legend .legend-item:hover {
+  background: rgba(255, 255, 255, .08);
+}
+
+.graph-view .graph-legend .legend-item.disabled {
+  opacity: 0.35;
+}
+
+.graph-view .graph-legend .legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.graph-view .graph-tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.88);
+  color: white;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  pointer-events: none;
+  z-index: 20;
+  max-width: 280px;
+  display: none;
+  line-height: 1.4;
+}
+
+.graph-view .graph-tooltip a {
+  color: #d4e157;
+  text-decoration: none;
+}
+
+.graph-view .graph-tooltip a:hover {
+  text-decoration: underline;
+}
+
+.graph-loading {
+  padding: 40px;
+  text-align: center;
+  color: var(--md-default-fg-color--light, #777);
+  font-style: italic;
+}
+
+/* Local graph variant (smaller, in article page) */
+.graph-local {
+  height: 380px;
+  margin: 1.5rem 0;
+}
+
+/* Landing-page full graph */
+.graph-landing {
+  height: 600px;
+}

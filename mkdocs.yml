@@ -1,0 +1,268 @@
+# MkDocs configuration for Taichi WIKI (English)
+# ============================================================================
+# Builds a beautiful static documentation site from the Taichi Wiki vault.
+# Deploys to GitHub Pages automatically via .github/workflows/deploy.yml
+# ============================================================================
+
+site_name: 🌿 Taichi WIKI
+site_description: Open encyclopedia of Tai Chi Chuan — English
+site_author: Henry Phạm
+
+# The URL where the site will be hosted
+site_url: https://henryPhamDuc.github.io/taichi-en/
+
+# Use the directory 'docs/' as source
+docs_dir: docs
+site_dir: site
+
+# Don't build archived/raw exports
+exclude_docs: |
+
+# Theme: Material
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/yin-yang
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-\.\_]+'
+
+# Markdown extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.smartsymbols
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.caret
+
+nav:
+  - Home: index.md
+  - 🌱 Foundations:
+      - Overview: foundations/index.md
+      - Tai Chi Chuan: foundations/tai-chi-chuan.md
+      - Taichi Knowledge Base: foundations/taichi-knowledge-base.md
+      - phan-1-triet-ly: foundations/phan-1-triet-ly.md
+  - 📜 History & Philosophy:
+      - Overview: history/index.md
+      - Bối cảnh lịch sử: history/tcq-luan-boi-canh.md
+      - Mô hình toán học Split Step Thái Cực: history/chuong-18-ong-bo.md
+      - Mô hình toán học Split Step Thái Cực: history/chuong-3-dong-phai.md
+      - Nội dung Thái Cực Quyền Luận: history/tcq-luan-noi-dung.md
+      - Yang Style Tai Chi Chuan: history/yang-style-tai-chi-chuan.md
+      - chuong-1-lich-su: history/chuong-1-lich-su.md
+  - 🎯 Ten Essentials & Principles:
+      - Overview: essentials/index.md
+      - 30-Day Practice Calendar — Printable (Duplicated Twice) / Lịch Tập 30 Ngày — In Được (Lặp 2 Lần): essentials/30-day-practice-calendar-printable-duplicated-twice-lich-tap-30-ngay-in-duoc-lap.md
+      - Appendix B — Master Cue Card: essentials/appendix-b-master-cue-card.md
+      - Appendix C — 30-Day Practice Calendar: essentials/appendix-c-30-day-practice-calendar.md
+      - Chen Jian Zhui Zhou (Sinking Shoulders): essentials/chen-jian-zhui-zhou-sinking-shoulders.md
+      - Han Xiong Ba Bei (Chest-Back): essentials/han-xiong-ba-bei-chest-back.md
+      - How to Use the 5 Tiers / Cách Dùng 5 Tầng: essentials/how-to-use-the-5-tiers-cach-dung-5-tang.md
+      - Master Cue Card — Printable (Duplicated Twice) / Thẻ Câu Nhắc Tổng — In Được (Lặp 2 Lần): essentials/master-cue-card-printable-duplicated-twice-the-cau-nhac-tong-in-duoc-lap-2-lan.md
+      - Mô hình toán học Split Step Thái Cực: essentials/chuong-12-tinh-than.md
+      - Mô hình toán học Split Step Thái Cực: essentials/chuong-13-thien.md
+      - Mô hình toán học Split Step Thái Cực: essentials/chuong-2-nguyen-ly.md
+      - Mô hình toán học Split Step Thái Cực: essentials/chuong-8-tam-ly.md
+      - Qi Chen Dan Tian (Qi Sinks): essentials/qi-chen-dan-tian-qi-sinks.md
+      - Ten Essentials of Tai Chi Chuan: essentials/ten-essentials-of-tai-chi-chuan.md
+      - The 5 Color Tiers / 5 Tầng Màu: essentials/the-5-color-tiers-5-tang-mau.md
+      - Xu Ling Ding Jin (Empty Spirit): essentials/xu-ling-ding-jin-empty-spirit.md
+      - Yi Yong Bu Yong Li (Intention Not Force): essentials/yi-yong-bu-yong-li-intention-not-force.md
+      - chinh-khi-ton-noi: essentials/chinh-khi-ton-noi.md
+      - chuyen-khi-chi-nhu: essentials/chuyen-khi-chi-nhu.md
+      - khi-tram-dan-dien-sau: essentials/khi-tram-dan-dien-sau.md
+      - menh-mon-hoa: essentials/menh-mon-hoa.md
+      - tcq-am-duong: essentials/tcq-am-duong.md
+      - tcq-dong-tinh: essentials/tcq-dong-tinh.md
+      - tcq-trung-hoa: essentials/tcq-trung-hoa.md
+      - troi-dat-bat-nhan: essentials/troi-dat-bat-nhan.md
+      - tu-oai-nghi: essentials/tu-oai-nghi.md
+      - 🌟 THE TAICHI VOW / LỜi Thề Thái Cực: essentials/the-taichi-vow-loi-the-thai-cuc.md
+      - 🏁 END OF MANUAL / HẾT CẨM NANG: essentials/end-of-manual-het-cam-nang.md
+  - 💪 Technique & Internal Power:
+      - Overview: technique/index.md
+      - Jin Li — Internal Power: technique/jin-li-internal-power.md
+      - Tui Shou — Push Hands: technique/tui-shou-push-hands.md
+      - chi-cong: technique/chi-cong.md
+      - di-hinh-ta-than: technique/di-hinh-ta-than.md
+      - dung-y-dan-khi: technique/dung-y-dan-khi.md
+      - khi-huyet: technique/khi-huyet.md
+      - khung-vuong-van-tron: technique/khung-vuong-van-tron.md
+      - luc-tinh-huyet: technique/luc-tinh-huyet.md
+      - noi-cong-do-thuyet: technique/noi-cong-do-thuyet.md
+      - tan-cong: technique/tan-cong.md
+      - tcq-chiem-tau: technique/tcq-chiem-tau.md
+      - than-chi-cung: technique/than-chi-cung.md
+      - than-chua-co-goc: technique/than-chua-co-goc.md
+      - tuong-hinh: technique/tuong-hinh.md
+  - 🌊 Forms & Applications:
+      - Overview: forms/index.md
+      - Lan Que Wei (Lame Stork): forms/lan-que-wei-lame-stork.md
+      - Mô hình toán học Split Step Thái Cực: forms/chuong-17-chi-tiet-24.md
+      - Mô hình toán học Split Step Thái Cực: forms/chuong-4-24-thuc.md
+  - 🧘 Training & Drills:
+      - Overview: training/index.md
+      - "Chapter 10: The 24-Form at a glance": training/chapter-10-the-24-form-at-a-glance.md
+      - "Chapter 11: The Commencement Form (Khởi Thức) and the First Ward Off": training/chapter-11-the-commencement-form-khoi-thuc-and-the-first-ward-off.md
+      - "Chapter 12: Hư (Empty) vs Thực (Solid) — the core operating principle": training/chapter-12-hu-empty-vs-thuc-solid-the-core-operating-principle.md
+      - "Chapter 13: Substantial and Insubstantial stepping (Tấn Hư Tấn Thực)": training/chapter-13-substantial-and-insubstantial-stepping-tan-hu-tan-thuc.md
+      - "Chapter 14: Dan Tian breathing: lower abdomen, lower Dantian": training/chapter-14-dan-tian-breathing-lower-abdomen-lower-dantian.md
+      - "Chapter 15: Reverse breathing (Nghịch Thở) for 3.0+": training/chapter-15-reverse-breathing-nghich-tho-for-30.md
+      - "Chapter 16: The 9 Points of relaxation": training/chapter-16-the-9-points-of-relaxation.md
+      - "Chapter 17: Distinguish Sōng (松) from Sūi (Sụp đổ)": training/chapter-17-distinguish-sng-from-si-sup-do.md
+      - "Chapter 18: Ý dẫn Khí, Khí dẫn Thân (Intention leads energy)": training/chapter-18-y-dan-khi-khi-dan-than-intention-leads-energy.md
+      - "Chapter 19: Mushin (Vô Tâm) — the mind of no-mind": training/chapter-19-mushin-vo-tam-the-mind-of-no-mind.md
+      - "Chapter 1: What is Taichi, really?": training/chapter-1-what-is-taichi-really.md
+      - "Chapter 20: The \"Hugging the Tree\" posture (Ôm Thụ)": training/chapter-20-the-hugging-the-tree-posture-om-thu.md
+      - "Chapter 21: The 5-minute Standing practice that changes everything": training/chapter-21-the-5-minute-standing-practice-that-changes-everything.md
+      - "Chapter 22: Why slow is fast (and slow is real)": training/chapter-22-why-slow-is-fast-and-slow-is-real.md
+      - "Chapter 23: The 30-minute daily form: structure, focus, and recovery": training/chapter-23-the-30-minute-daily-form-structure-focus-and-recovery.md
+      - "Chapter 24: What Taichi does to your body after 50": training/chapter-24-what-taichi-does-to-your-body-after-50.md
+      - "Chapter 25: The 3 conditions Taichi heals: balance, blood pressure, sleep": training/chapter-25-the-3-conditions-taichi-heals-balance-blood-pressure-sleep.md
+      - "Chapter 26: The 20-minute home practice (no teacher needed)": training/chapter-26-the-20-minute-home-practice-no-teacher-needed.md
+      - "Chapter 27: The 5-minute \"Reset\" practice for busy days": training/chapter-27-the-5-minute-reset-practice-for-busy-days.md
+      - "Chapter 28: The 3-Anchor Check, 3-Question Diagnostic, One-Word Cues": training/chapter-28-the-3-anchor-check-3-question-diagnostic-one-word-cues.md
+      - "Chapter 29: The 7 Deadly Sins of the 3.0 Taichi student": training/chapter-29-the-7-deadly-sins-of-the-30-taichi-student.md
+      - "Chapter 2: The Three Treasures (Tam Bảo) — Jing, Qi, Shen": training/chapter-2-the-three-treasures-tam-bao-jing-qi-shen.md
+      - "Chapter 30: The Tension Paradox: why strong muscles make weak Taichi": training/chapter-30-the-tension-paradox-why-strong-muscles-make-weak-taichi.md
+      - "Chapter 31: The 3-year promise": training/chapter-31-the-3-year-promise.md
+      - "Chapter 32: The 50+ body as Taichi's perfect instrument": training/chapter-32-the-50-body-as-taichis-perfect-instrument.md
+      - "Chapter 3: Yin-Yang and the dance of opposites": training/chapter-3-yin-yang-and-the-dance-of-opposites.md
+      - "Chapter 4: The Body Schema — Weight, Ground, Alignment": training/chapter-4-the-body-schema-weight-ground-alignment.md
+      - "Chapter 5: The \"Wu Wei\" Stance (Vô Vi) and the Standing Post (Trụ Thế)": training/chapter-5-the-wu-wei-stance-vo-vi-and-the-standing-post-tru-the.md
+      - "Chapter 6: Peng (Phòng) — Ward Off: the sphere of organized readiness": training/chapter-6-peng-phong-ward-off-the-sphere-of-organized-readiness.md
+      - "Chapter 7: Lu (Lãy) — Rollback: yielding and redirecting": training/chapter-7-lu-lay-rollback-yielding-and-redirecting.md
+      - "Chapter 8: Ji (Tỳ) — Press: whole-body expression": training/chapter-8-ji-ty-press-whole-body-expression.md
+      - "Chapter 9: An (Án) — Push: grounding and finishing": training/chapter-9-an-an-push-grounding-and-finishing.md
+      - Drills for 3.0: training/drills-for-30.md
+      - Mô hình toán học Split Step Thái Cực: training/chuong-14-bai-tap.md
+      - Mô hình toán học Split Step Thái Cực: training/chuong-15-tho-am.md
+      - Mô hình toán học Split Step Thái Cực: training/chuong-16-tuan-thu.md
+      - Mô hình toán học Split Step Thái Cực: training/chuong-5-khi-cong.md
+      - The 3 Golden Rules of 3.0 Taichi: training/the-3-golden-rules-of-30-taichi.md
+      - 🎯 FINAL WORD / LỜI CUỐI: training/final-word-loi-cuoi.md
+      - 📋 Chapter 1 Card — Printable / Thẻ In Được Chương 1: training/chapter-1-card-printable-the-in-duoc-chuong-1.md
+      - 📋 Chapter 10 Card — Printable / Thẻ In Được Chương 10: training/chapter-10-card-printable-the-in-duoc-chuong-10.md
+      - 📋 Chapter 11 Card — Printable / Thẻ In Được Chương 11: training/chapter-11-card-printable-the-in-duoc-chuong-11.md
+      - 📋 Chapter 12 Card — Printable / Thẻ In Được Chương 12: training/chapter-12-card-printable-the-in-duoc-chuong-12.md
+      - 📋 Chapter 13 Card — Printable / Thẻ In Được Chương 13: training/chapter-13-card-printable-the-in-duoc-chuong-13.md
+      - 📋 Chapter 14 Card — Printable / Thẻ In Được Chương 14: training/chapter-14-card-printable-the-in-duoc-chuong-14.md
+      - 📋 Chapter 15 Card — Printable / Thẻ In Được Chương 15: training/chapter-15-card-printable-the-in-duoc-chuong-15.md
+      - 📋 Chapter 16 Card — Printable / Thẻ In Được Chương 16: training/chapter-16-card-printable-the-in-duoc-chuong-16.md
+      - 📋 Chapter 17 Card — Printable / Thẻ In Được Chương 17: training/chapter-17-card-printable-the-in-duoc-chuong-17.md
+      - 📋 Chapter 18 Card — Printable / Thẻ In Được Chương 18: training/chapter-18-card-printable-the-in-duoc-chuong-18.md
+      - 📋 Chapter 19 Card — Printable / Thẻ In Được Chương 19: training/chapter-19-card-printable-the-in-duoc-chuong-19.md
+      - 📋 Chapter 2 Card — Printable / Thẻ In Được Chương 2: training/chapter-2-card-printable-the-in-duoc-chuong-2.md
+      - 📋 Chapter 20 Card — Printable / Thẻ In Được Chương 20: training/chapter-20-card-printable-the-in-duoc-chuong-20.md
+      - 📋 Chapter 21 Card — Printable / Thẻ In Được Chương 21: training/chapter-21-card-printable-the-in-duoc-chuong-21.md
+      - 📋 Chapter 22 Card — Printable / Thẻ In Được Chương 22: training/chapter-22-card-printable-the-in-duoc-chuong-22.md
+      - 📋 Chapter 23 Card — Printable / Thẻ In Được Chương 23: training/chapter-23-card-printable-the-in-duoc-chuong-23.md
+      - 📋 Chapter 24 Card — Printable / Thẻ In Được Chương 24: training/chapter-24-card-printable-the-in-duoc-chuong-24.md
+      - 📋 Chapter 25 Card — Printable / Thẻ In Được Chương 25: training/chapter-25-card-printable-the-in-duoc-chuong-25.md
+      - 📋 Chapter 26 Card — Printable / Thẻ In Được Chương 26: training/chapter-26-card-printable-the-in-duoc-chuong-26.md
+      - 📋 Chapter 27 Card — Printable / Thẻ In Được Chương 27: training/chapter-27-card-printable-the-in-duoc-chuong-27.md
+      - 📋 Chapter 28 Card — Printable / Thẻ In Được Chương 28: training/chapter-28-card-printable-the-in-duoc-chuong-28.md
+      - 📋 Chapter 29 Card — Printable / Thẻ In Được Chương 29: training/chapter-29-card-printable-the-in-duoc-chuong-29.md
+      - 📋 Chapter 3 Card — Printable / Thẻ In Được Chương 3: training/chapter-3-card-printable-the-in-duoc-chuong-3.md
+      - 📋 Chapter 30 Card — Printable / Thẻ In Được Chương 30: training/chapter-30-card-printable-the-in-duoc-chuong-30.md
+      - 📋 Chapter 31 Card — Printable / Thẻ In Được Chương 31: training/chapter-31-card-printable-the-in-duoc-chuong-31.md
+      - 📋 Chapter 32 Card — Printable / Thẻ In Được Chương 32: training/chapter-32-card-printable-the-in-duoc-chuong-32.md
+      - 📋 Chapter 4 Card — Printable / Thẻ In Được Chương 4: training/chapter-4-card-printable-the-in-duoc-chuong-4.md
+      - 📋 Chapter 5 Card — Printable / Thẻ In Được Chương 5: training/chapter-5-card-printable-the-in-duoc-chuong-5.md
+      - 📋 Chapter 6 Card — Printable / Thẻ In Được Chương 6: training/chapter-6-card-printable-the-in-duoc-chuong-6.md
+      - 📋 Chapter 7 Card — Printable / Thẻ In Được Chương 7: training/chapter-7-card-printable-the-in-duoc-chuong-7.md
+      - 📋 Chapter 8 Card — Printable / Thẻ In Được Chương 8: training/chapter-8-card-printable-the-in-duoc-chuong-8.md
+      - 📋 Chapter 9 Card — Printable / Thẻ In Được Chương 9: training/chapter-9-card-printable-the-in-duoc-chuong-9.md
+      - 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU: training/document-map-ban-do-tai-lieu.md
+  - 🌿 Health & Longevity:
+      - Overview: health/index.md
+      - Mô hình toán học Split Step Thái Cực: health/chuong-10-tuoi-tho.md
+      - Mô hình toán học Split Step Thái Cực: health/chuong-11-thuong-ton.md
+      - Mô hình toán học Split Step Thái Cực: health/chuong-6-the-duc.md
+      - Mô hình toán học Split Step Thái Cực: health/chuong-7-dinh-duong.md
+      - chuong-9-phong-benh: health/chuong-9-phong-benh.md
+      - hinh-thai-nguyen-so: health/hinh-thai-nguyen-so.md
+      - huyet-u: health/huyet-u.md
+      - ngu-cam-hi: health/ngu-cam-hi.md
+      - thong-tam-quan: health/thong-tam-quan.md
+  - 🎾 Tennis Applications:
+      - Overview: tennis/index.md
+      - chuong-21-footwork: tennis/chuong-21-footwork.md
+      - chuong-22-forehand: tennis/chuong-22-forehand.md
+      - chuong-23-backhand: tennis/chuong-23-backhand.md
+      - chuong-24-volley: tennis/chuong-24-volley.md
+      - chuong-25-smash: tennis/chuong-25-smash.md
+      - chuong-26-serve: tennis/chuong-26-serve.md
+      - nghe-thuat-song-khoe-backhand: tennis/nghe-thuat-song-khoe-backhand.md
+      - nghe-thuat-song-khoe-can-bang: tennis/nghe-thuat-song-khoe-can-bang.md
+      - nghe-thuat-song-khoe-footwork: tennis/nghe-thuat-song-khoe-footwork.md
+      - nghe-thuat-song-khoe-forehand: tennis/nghe-thuat-song-khoe-forehand.md
+      - nghe-thuat-song-khoe-serve: tennis/nghe-thuat-song-khoe-serve.md
+      - nghe-thuat-song-khoe-smash: tennis/nghe-thuat-song-khoe-smash.md
+      - nghe-thuat-song-khoe-tam-ly: tennis/nghe-thuat-song-khoe-tam-ly.md
+      - nghe-thuat-song-khoe-tennis-ky-thuat: tennis/nghe-thuat-song-khoe-tennis-ky-thuat.md

@@ -1,0 +1,1386 @@
+{
+  "nodes": [
+    {
+      "id": "foundations/phan-1-triet-ly",
+      "name": "phan-1-triet-ly",
+      "cluster": "foundations",
+      "url": "foundations/phan-1-triet-ly/",
+      "description": "---\ntitle: Phần 1: Triết lý Thái Cực Quyền\ncluster: foundations\nlanguage: en\ntags: [taichi, foundations, introduction]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và cuộc sống - Cẩm nang giữ gìn s"
+    },
+    {
+      "id": "foundations/tai-chi-chuan",
+      "name": "Tai Chi Chuan",
+      "cluster": "foundations",
+      "url": "foundations/tai-chi-chuan/",
+      "description": "Tai Chi Chuan là một môn võ thuật nội phát nổi tiếng của Trung Quốc, có nguồn gốc từ Đạo gia và được truyền tụng do Tổ sư Zhang Sanfeng sáng lập tại núi Wudang. Môn võ này không chỉ là một hệ thống cá"
+    },
+    {
+      "id": "foundations/taichi-knowledge-base",
+      "name": "Taichi Knowledge Base",
+      "cluster": "foundations",
+      "url": "foundations/taichi-knowledge-base/",
+      "description": "Taichi Knowledge Base là trung tâm lưu trữ và kết nối các khái niệm về Tai Chi Chuan. Đây là điểm khởi đầu để khám phá lịch sử, kỹ thuật, yếu lĩnh và các bài tập đối luyện của môn võ thuật nội phát nà"
+    },
+    {
+      "id": "history/chuong-1-lich-su",
+      "name": "chuong-1-lich-su",
+      "cluster": "history",
+      "url": "history/chuong-1-lich-su/",
+      "description": "---\ntitle: Lịch sử và triết lý Thái Cực Quyền\ncluster: history\nlanguage: en\ntags: [taichi, history, philosophy]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và cuộc sống - Cẩm nang giữ gìn sức khỏe"
+    },
+    {
+      "id": "history/chuong-18-ong-bo",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "history",
+      "url": "history/chuong-18-ong-bo/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "history/chuong-3-dong-phai",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "history",
+      "url": "history/chuong-3-dong-phai/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "history/tcq-luan-boi-canh",
+      "name": "Bối cảnh lịch sử",
+      "cluster": "history",
+      "url": "history/tcq-luan-boi-canh/",
+      "description": "Nhắc đến Thái Cực Quyền Luận \\- bài luận văn ngắn được toàn bộ các phái Thái Cực tôn thờ như kinh thánh \\- mọi người đều biết tên tác giả: Vương Tông Nhạc. Nhưng ngoài cái tên đó ra các nhà nghiên cứu"
+    },
+    {
+      "id": "history/tcq-luan-noi-dung",
+      "name": "Nội dung Thái Cực Quyền Luận",
+      "cluster": "history",
+      "url": "history/tcq-luan-noi-dung/",
+      "description": "*\"Thái Cực giả, Vô Cực nhi sinh, động tĩnh chi cơ, âm dương chi mẫu dã.\"*  \nGiải nghĩa:  \n太極 (Thái Cực): trạng thái khởi nguyên của vũ trụ, khi âm dương đã phân nhưng chưa tách hẳn. Trong võ học, chỉ "
+    },
+    {
+      "id": "history/yang-style-tai-chi-chuan",
+      "name": "Yang Style Tai Chi Chuan",
+      "cluster": "history",
+      "url": "history/yang-style-tai-chi-chuan/",
+      "description": "Yang Style Tai Chi Chuan là một trong những dòng phái Tai Chi Chuan phổ biến nhất, được sáng lập bởi Yang Luchan (1799-1872) (1799-1872) và phát triển bởi con cháu ông, đặc biệt là Yang Chengfu (1883-"
+    },
+    {
+      "id": "essentials/30-day-practice-calendar-printable-duplicated-twice-lich-tap-30-ngay-in-duoc-lap",
+      "name": "30-Day Practice Calendar — Printable (Duplicated Twice) / Lịch Tập 30 Ngày — In Được (Lặp 2 Lần)",
+      "cluster": "essentials",
+      "url": "essentials/30-day-practice-calendar-printable-duplicated-twice-lich-tap-30-ngay-in-duoc-lap/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║      📅 30-DAY PRACTICE CALENDAR / LỊCH TẬP 30 NGÀY        ║\n    ║      Print. Tape to refrigerator. X off each day.          ║\n    ║"
+    },
+    {
+      "id": "essentials/appendix-b-master-cue-card",
+      "name": "Appendix B — Master Cue Card",
+      "cluster": "essentials",
+      "url": "essentials/appendix-b-master-cue-card/",
+      "description": "The Master Cue Card is the *single most important* printable artifact. It contains EVERY key cue from EVERY chapter. Print it. Laminate it. Carry it. Tape it to the bathroom mirror. It is your pocket "
+    },
+    {
+      "id": "essentials/appendix-c-30-day-practice-calendar",
+      "name": "Appendix C — 30-Day Practice Calendar",
+      "cluster": "essentials",
+      "url": "essentials/appendix-c-30-day-practice-calendar/",
+      "description": "The 30-Day Practice Calendar maps weeks 1-2, 3-4, 5-6, 7-8, 9-10, 11-12, 13-14, 15 to a focus area, a daily 5-min routine, and a weekly 30-min drill. **Print this. Tape it to your refrigerator. Cross "
+    },
+    {
+      "id": "essentials/chen-jian-zhui-zhou-sinking-shoulders",
+      "name": "Chen Jian Zhui Zhou (Sinking Shoulders)",
+      "cluster": "essentials",
+      "url": "essentials/chen-jian-zhui-zhou-sinking-shoulders/",
+      "description": "Chen Jian Zhui Zhou (Sinking Shoulders) là một yếu lĩnh quan trọng trong Tai Chi Chuan, có nghĩa là vai buông lỏng và khuỷu tay chùng xuống. Yếu lĩnh này giúp tránh gồng vai, cho phép khí lực truyền x"
+    },
+    {
+      "id": "essentials/chinh-khi-ton-noi",
+      "name": "chinh-khi-ton-noi",
+      "cluster": "essentials",
+      "url": "essentials/chinh-khi-ton-noi/",
+      "description": "---\ntitle: Chính Khí Tồn Nội, Tà Bất Khả Can\ncluster: essentials\nlanguage: en\ntags: [taichi, essentials, principles]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và Khảo"
+    },
+    {
+      "id": "essentials/chuong-12-tinh-than",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "essentials",
+      "url": "essentials/chuong-12-tinh-than/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "essentials/chuong-13-thien",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "essentials",
+      "url": "essentials/chuong-13-thien/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "essentials/chuong-2-nguyen-ly",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "essentials",
+      "url": "essentials/chuong-2-nguyen-ly/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "essentials/chuong-8-tam-ly",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "essentials",
+      "url": "essentials/chuong-8-tam-ly/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "essentials/chuyen-khi-chi-nhu",
+      "name": "chuyen-khi-chi-nhu",
+      "cluster": "essentials",
+      "url": "essentials/chuyen-khi-chi-nhu/",
+      "description": "---\ntitle: Chuyên Khí Chí Nhu — Luyện thở hay chuyện cuộc sống\ncluster: essentials\nlanguage: en\ntags: [taichi, essentials, principles]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Tru"
+    },
+    {
+      "id": "essentials/end-of-manual-het-cam-nang",
+      "name": "🏁 END OF MANUAL / HẾT CẨM NANG",
+      "cluster": "essentials",
+      "url": "essentials/end-of-manual-het-cam-nang/",
+      "description": "**Total concepts integrated from your materials**: 250+ covering philosophy (Tam Bảo, Âm Dương, Hư Thực), foundation (body schema, alignment, 4 stances, 5 adjustments), 8 Gates (Peng, Lu, Ji, An), 24-"
+    },
+    {
+      "id": "essentials/han-xiong-ba-bei-chest-back",
+      "name": "Han Xiong Ba Bei (Chest-Back)",
+      "cluster": "essentials",
+      "url": "essentials/han-xiong-ba-bei-chest-back/",
+      "description": "Han Xiong Ba Bei (Chest-Back) là một yếu lĩnh quan trọng trong Tai Chi Chuan, có nghĩa là ngực hơi hóp vào và lưng hơi ưỡn ra. Yếu lĩnh này giúp khí trầm xuống đan điền, tăng cường sức mạnh và sự ổn đ"
+    },
+    {
+      "id": "essentials/how-to-use-the-5-tiers-cach-dung-5-tang",
+      "name": "How to Use the 5 Tiers / Cách Dùng 5 Tầng",
+      "cluster": "essentials",
+      "url": "essentials/how-to-use-the-5-tiers-cach-dung-5-tang/",
+      "description": "1. **Tag your raw notes**: When you write in a Taichi journal, highlight or color-code by tier. | Khi viết nhật ký, tô màu theo tầng. |\n| 2. **Tag what you re-read**: When you revisit a chapter, mark "
+    },
+    {
+      "id": "essentials/khi-tram-dan-dien-sau",
+      "name": "khi-tram-dan-dien-sau",
+      "cluster": "essentials",
+      "url": "essentials/khi-tram-dan-dien-sau/",
+      "description": "---\ntitle: Bàn về Khí trầm đan điền (sâu)\ncluster: essentials\nlanguage: en\ntags: [taichi, essentials, principles]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và Khảo ch"
+    },
+    {
+      "id": "essentials/master-cue-card-printable-duplicated-twice-the-cau-nhac-tong-in-duoc-lap-2-lan",
+      "name": "Master Cue Card — Printable (Duplicated Twice) / Thẻ Câu Nhắc Tổng — In Được (Lặp 2 Lần)",
+      "cluster": "essentials",
+      "url": "essentials/master-cue-card-printable-duplicated-twice-the-cau-nhac-tong-in-duoc-lap-2-lan/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║           🎴 MASTER CUE CARD / THẺ CÂU NHẮC TỔNG           ║\n    ║                  32 KEY CUES / 32 CÂU NHẮC CHÍNH             ║\n   "
+    },
+    {
+      "id": "essentials/menh-mon-hoa",
+      "name": "menh-mon-hoa",
+      "cluster": "essentials",
+      "url": "essentials/menh-mon-hoa/",
+      "description": "---\ntitle: Mệnh Môn Hỏa — Cánh cửa của Sinh Mệnh\ncluster: essentials\nlanguage: en\ntags: [taichi, essentials, principles]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và "
+    },
+    {
+      "id": "essentials/qi-chen-dan-tian-qi-sinks",
+      "name": "Qi Chen Dan Tian (Qi Sinks)",
+      "cluster": "essentials",
+      "url": "essentials/qi-chen-dan-tian-qi-sinks/",
+      "description": "Qi Chen Dan Tian (Qi Sinks) là một yếu lĩnh cốt lõi trong Tai Chi Chuan, đề cập đến việc tập trung khí lực vào vùng đan điền (bụng dưới). Yếu lĩnh này giúp tăng cường nội lực, củng cố sự vững chãi của"
+    },
+    {
+      "id": "essentials/tcq-am-duong",
+      "name": "tcq-am-duong",
+      "cluster": "essentials",
+      "url": "essentials/tcq-am-duong/",
+      "description": "---\ntitle: Nguyên lý Âm Dương trong Thái Cực Quyền\ncluster: essentials\nlanguage: en\ntags: [taichi, essentials, principles]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết v"
+    },
+    {
+      "id": "essentials/tcq-dong-tinh",
+      "name": "tcq-dong-tinh",
+      "cluster": "essentials",
+      "url": "essentials/tcq-dong-tinh/",
+      "description": "---\ntitle: Động và Tĩnh — Cặp đôi cốt lõi\ncluster: essentials\nlanguage: en\ntags: [taichi, essentials, principles]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và Khảo ch"
+    },
+    {
+      "id": "essentials/tcq-trung-hoa",
+      "name": "tcq-trung-hoa",
+      "cluster": "essentials",
+      "url": "essentials/tcq-trung-hoa/",
+      "description": "---\ntitle: Nguyên tắc Trung Hòa trong Thái Cực Quyền\ncluster: essentials\nlanguage: en\ntags: [taichi, essentials, principles]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết"
+    },
+    {
+      "id": "essentials/ten-essentials-of-tai-chi-chuan",
+      "name": "Ten Essentials of Tai Chi Chuan",
+      "cluster": "essentials",
+      "url": "essentials/ten-essentials-of-tai-chi-chuan/",
+      "description": "Ten Essentials of Tai Chi Chuan là mười yếu lĩnh quan trọng mà người học cần nắm vững để đạt được hiệu quả cao nhất trong luyện tập Tai Chi Chuan. Các yếu lĩnh này được Yang Chengfu (1883-1936) đề ra,"
+    },
+    {
+      "id": "essentials/the-5-color-tiers-5-tang-mau",
+      "name": "The 5 Color Tiers / 5 Tầng Màu",
+      "cluster": "essentials",
+      "url": "essentials/the-5-color-tiers-5-tang-mau/",
+      "description": "| Tier | Color | Meaning | What it covers | Vietnamese |\n|------|-------|---------|----------------|------------|\n| 1 | 🔴 Red (Đỏ) | Foundation (Nền tảng) | Body schema, alignment, weight, 5-point adj"
+    },
+    {
+      "id": "essentials/the-taichi-vow-loi-the-thai-cuc",
+      "name": "🌟 THE TAICHI VOW / LỜi Thề Thái Cực",
+      "cluster": "essentials",
+      "url": "essentials/the-taichi-vow-loi-the-thai-cuc/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| I, the practitioner of Taichi, do solemnly vow: | Tôi, người tập Thái Cực Quyền, thành tâm thề: |\n| **To stand** for 5 minutes every d"
+    },
+    {
+      "id": "essentials/troi-dat-bat-nhan",
+      "name": "troi-dat-bat-nhan",
+      "cluster": "essentials",
+      "url": "essentials/troi-dat-bat-nhan/",
+      "description": "---\ntitle: Trời đất bất nhân — Đọc lại Lão Tử\ncluster: essentials\nlanguage: en\ntags: [taichi, essentials, principles]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và Khả"
+    },
+    {
+      "id": "essentials/tu-oai-nghi",
+      "name": "tu-oai-nghi",
+      "cluster": "essentials",
+      "url": "essentials/tu-oai-nghi/",
+      "description": "---\ntitle: Tứ Oai Nghi trong Phật giáo, Hành Trụ Tọa Ngoạ trong Đạo gia\ncluster: essentials\nlanguage: en\ntags: [taichi, essentials, principles]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN "
+    },
+    {
+      "id": "essentials/xu-ling-ding-jin-empty-spirit",
+      "name": "Xu Ling Ding Jin (Empty Spirit)",
+      "cluster": "essentials",
+      "url": "essentials/xu-ling-ding-jin-empty-spirit/",
+      "description": "Xu Ling Ding Jin (Empty Spirit) là một trong mười yếu lĩnh quan trọng của Tai Chi Chuan, nhấn mạnh việc giữ đầu ngay thẳng, tinh thần tập trung và không gồng cứng cổ. Yếu lĩnh này giúp khí huyết lưu t"
+    },
+    {
+      "id": "essentials/yi-yong-bu-yong-li-intention-not-force",
+      "name": "Yi Yong Bu Yong Li (Intention Not Force)",
+      "cluster": "essentials",
+      "url": "essentials/yi-yong-bu-yong-li-intention-not-force/",
+      "description": "Yi Yong Bu Yong Li (Intention Not Force) là một nguyên tắc cơ bản trong Tai Chi Chuan, có nghĩa là dùng ý dẫn dắt động tác, không dùng sức mạnh cơ bắp thô bạo. Nguyên tắc này là chìa khóa để đạt được "
+    },
+    {
+      "id": "technique/chi-cong",
+      "name": "chi-cong",
+      "cluster": "technique",
+      "url": "technique/chi-cong/",
+      "description": "---\ntitle: Chỉ Công — Khai Tỉnh huyệt, dẫn khí thâm\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyế"
+    },
+    {
+      "id": "technique/di-hinh-ta-than",
+      "name": "di-hinh-ta-than",
+      "cluster": "technique",
+      "url": "technique/di-hinh-ta-than/",
+      "description": "---\ntitle: Dĩ Hình Tả Thần — Từ mỹ học Trung Hoa đến Nội Gia quyền\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬ"
+    },
+    {
+      "id": "technique/dung-y-dan-khi",
+      "name": "dung-y-dan-khi",
+      "cluster": "technique",
+      "url": "technique/dung-y-dan-khi/",
+      "description": "---\ntitle: Dùng Ý Dẫn Khí — Sai lầm tinh vi của người tập\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền"
+    },
+    {
+      "id": "technique/jin-li-internal-power",
+      "name": "Jin Li — Internal Power",
+      "cluster": "technique",
+      "url": "technique/jin-li-internal-power/",
+      "description": "Jin Li — Internal Power (Jin) trong Tai Chi Chuan không phải là sức mạnh cơ bắp thô thiển mà là một loại lực nội tại, được phát ra từ sự vận động của ý và khí. Nó bắt nguồn từ chân, phát tại đùi, điều"
+    },
+    {
+      "id": "technique/khi-huyet",
+      "name": "khi-huyet",
+      "cluster": "technique",
+      "url": "technique/khi-huyet/",
+      "description": "---\ntitle: Khí và Huyết — Một hay hai?\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và Khảo chứ"
+    },
+    {
+      "id": "technique/khung-vuong-van-tron",
+      "name": "khung-vuong-van-tron",
+      "cluster": "technique",
+      "url": "technique/khung-vuong-van-tron/",
+      "description": "---\ntitle: Khung Vuông, Vận Tròn trong Thái Cực Quyền\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thu"
+    },
+    {
+      "id": "technique/luc-tinh-huyet",
+      "name": "luc-tinh-huyet",
+      "cluster": "technique",
+      "url": "technique/luc-tinh-huyet/",
+      "description": "---\ntitle: Lục Tỉnh Huyệt — 6 cửa ngõ Khí Huyết\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và"
+    },
+    {
+      "id": "technique/noi-cong-do-thuyet",
+      "name": "noi-cong-do-thuyet",
+      "cluster": "technique",
+      "url": "technique/noi-cong-do-thuyet/",
+      "description": "---\ntitle: Nội Công Đồ Thuyết\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và Khảo chứng.md\n---"
+    },
+    {
+      "id": "technique/tan-cong",
+      "name": "tan-cong",
+      "cluster": "technique",
+      "url": "technique/tan-cong/",
+      "description": "---\ntitle: Tán Công — Tình trạng mất lực trong luyện tập\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền "
+    },
+    {
+      "id": "technique/tcq-chiem-tau",
+      "name": "tcq-chiem-tau",
+      "cluster": "technique",
+      "url": "technique/tcq-chiem-tau/",
+      "description": "---\ntitle: Kỹ thuật Chiêm Tẩu trong Thái Cực Quyền\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết"
+    },
+    {
+      "id": "technique/than-chi-cung",
+      "name": "than-chi-cung",
+      "cluster": "technique",
+      "url": "technique/than-chi-cung/",
+      "description": "---\ntitle: Thân Chi Cung và Tích-Phát trong Thái Cực Quyền\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyề"
+    },
+    {
+      "id": "technique/than-chua-co-goc",
+      "name": "than-chua-co-goc",
+      "cluster": "technique",
+      "url": "technique/than-chua-co-goc/",
+      "description": "---\ntitle: Thân chưa có Gốc — Hiểu thế nào?\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và Khả"
+    },
+    {
+      "id": "technique/tui-shou-push-hands",
+      "name": "Tui Shou — Push Hands",
+      "cluster": "technique",
+      "url": "technique/tui-shou-push-hands/",
+      "description": "Tui Shou — Push Hands (Push Hands) là một phần quan trọng của Tai Chi Chuan, giúp người luyện tập phát triển cảm giác, sự nhạy bén và khả năng ứng biến trong giao đấu. Nó bao gồm các kỹ thuật đẩy tay,"
+    },
+    {
+      "id": "technique/tuong-hinh",
+      "name": "tuong-hinh",
+      "cluster": "technique",
+      "url": "technique/tuong-hinh/",
+      "description": "---\ntitle: Tượng Hình — Mấu chốt của việc luyện quyền\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thu"
+    },
+    {
+      "id": "forms/chuong-17-chi-tiet-24",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "forms",
+      "url": "forms/chuong-17-chi-tiet-24/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "forms/chuong-4-24-thuc",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "forms",
+      "url": "forms/chuong-4-24-thuc/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "forms/lan-que-wei-lame-stork",
+      "name": "Lan Que Wei (Lame Stork)",
+      "cluster": "forms",
+      "url": "forms/lan-que-wei-lame-stork/",
+      "description": "Lan Que Wei (Lame Stork) (Grasp the Sparrow's Tail) là một trong những quyền thức phức tạp và quan trọng nhất trong Tai Chi Chuan, đặc biệt là trong Yang Style Tai Chi Chuan. Thức này bao gồm bốn tiểu"
+    },
+    {
+      "id": "training/chapter-1-card-printable-the-in-duoc-chuong-1",
+      "name": "📋 Chapter 1 Card — Printable / Thẻ In Được Chương 1",
+      "cluster": "training",
+      "url": "training/chapter-1-card-printable-the-in-duoc-chuong-1/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 1 CARD — WHAT IS TAICHI, REALLY?                 ║\n    ║  THẺ CHƯƠNG 1 — THÁI CỰC QUYỀN THỰC SỰ LÀ GÌ?            ║\n    ╠══"
+    },
+    {
+      "id": "training/chapter-1-what-is-taichi-really",
+      "name": "Chapter 1: What is Taichi, really?",
+      "cluster": "training",
+      "url": "training/chapter-1-what-is-taichi-really/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Taichi (Tai Chi Chuan) is not a stretching exercise. It is a 1,500-year-old internal martial art (Nội Công) built on"
+    },
+    {
+      "id": "training/chapter-10-card-printable-the-in-duoc-chuong-10",
+      "name": "📋 Chapter 10 Card — Printable / Thẻ In Được Chương 10",
+      "cluster": "training",
+      "url": "training/chapter-10-card-printable-the-in-duoc-chuong-10/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 10 CARD — THE 24-FORM AT A GLANCE                 ║\n    ║  THẺ CHƯƠNG 10 — NHÌN QUA 24 THỨC                          ║\n    "
+    },
+    {
+      "id": "training/chapter-10-the-24-form-at-a-glance",
+      "name": "Chapter 10: The 24-Form at a glance",
+      "cluster": "training",
+      "url": "training/chapter-10-the-24-form-at-a-glance/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: The 24-Form (Nhị Thập Tứ Thức / 二十四式) is the *simplified* Tai Chi form, compiled in 1956 by the Chinese National Spo"
+    },
+    {
+      "id": "training/chapter-11-card-printable-the-in-duoc-chuong-11",
+      "name": "📋 Chapter 11 Card — Printable / Thẻ In Được Chương 11",
+      "cluster": "training",
+      "url": "training/chapter-11-card-printable-the-in-duoc-chuong-11/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 11 CARD — COMMENCEMENT & FIRST WARD OFF          ║\n    ║  THẺ CHƯƠNG 11 — KHỞI THỨC & DÃ MÃ PHÂN TUNG             ║\n    ╠══"
+    },
+    {
+      "id": "training/chapter-11-the-commencement-form-khoi-thuc-and-the-first-ward-off",
+      "name": "Chapter 11: The Commencement Form (Khởi Thức) and the First Ward Off",
+      "cluster": "training",
+      "url": "training/chapter-11-the-commencement-form-khoi-thuc-and-the-first-ward-off/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: The first form (Khởi Thức / 起勢) is the *opening* of the entire 24-Form. It is not a \"stretch\" or a \"warm-up\" — it is"
+    },
+    {
+      "id": "training/chapter-12-card-printable-the-in-duoc-chuong-12",
+      "name": "📋 Chapter 12 Card — Printable / Thẻ In Được Chương 12",
+      "cluster": "training",
+      "url": "training/chapter-12-card-printable-the-in-duoc-chuong-12/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 12 CARD — HƯ & THỰC                              ║\n    ║  THẺ CHƯƠNG 12 — HƯ VÀ THỰC                              ║\n    ╠══"
+    },
+    {
+      "id": "training/chapter-12-hu-empty-vs-thuc-solid-the-core-operating-principle",
+      "name": "Chapter 12: Hư (Empty) vs Thực (Solid) — the core operating principle",
+      "cluster": "training",
+      "url": "training/chapter-12-hu-empty-vs-thuc-solid-the-core-operating-principle/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Hư (Hư / 虛) and Thực (Thực / 實) are the most-used words in Taichi. They are not \"light\" and \"heavy\" in the casual se"
+    },
+    {
+      "id": "training/chapter-13-card-printable-the-in-duoc-chuong-13",
+      "name": "📋 Chapter 13 Card — Printable / Thẻ In Được Chương 13",
+      "cluster": "training",
+      "url": "training/chapter-13-card-printable-the-in-duoc-chuong-13/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 13 CARD — SUBSTANTIAL & INSUBSTANTIAL STEPPING   ║\n    ║  THẺ CHƯƠNG 13 — BƯỚC CHÂN HƯ THỰC                        ║\n    ╠═"
+    },
+    {
+      "id": "training/chapter-13-substantial-and-insubstantial-stepping-tan-hu-tan-thuc",
+      "name": "Chapter 13: Substantial and Insubstantial stepping (Tấn Hư Tấn Thực)",
+      "cluster": "training",
+      "url": "training/chapter-13-substantial-and-insubstantial-stepping-tan-hu-tan-thuc/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Every step in Taichi is a *Hư → Thực* transition. The foot leaves the ground as Hư (light, empty), travels through s"
+    },
+    {
+      "id": "training/chapter-14-card-printable-the-in-duoc-chuong-14",
+      "name": "📋 Chapter 14 Card — Printable / Thẻ In Được Chương 14",
+      "cluster": "training",
+      "url": "training/chapter-14-card-printable-the-in-duoc-chuong-14/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 14 CARD — DAN TIAN BREATHING                      ║\n    ║  THẺ CHƯƠNG 14 — THỞ ĐAN ĐIỀN                              ║\n    "
+    },
+    {
+      "id": "training/chapter-14-dan-tian-breathing-lower-abdomen-lower-dantian",
+      "name": "Chapter 14: Dan Tian breathing: lower abdomen, lower Dantian",
+      "cluster": "training",
+      "url": "training/chapter-14-dan-tian-breathing-lower-abdomen-lower-dantian/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Dan Tian (Đan Điền / 丹田) means \"elixir field\" — the body's energy center. The Lower Dantian (Hạ Đan Điền / 下丹田) is l"
+    },
+    {
+      "id": "training/chapter-15-card-printable-the-in-duoc-chuong-15",
+      "name": "📋 Chapter 15 Card — Printable / Thẻ In Được Chương 15",
+      "cluster": "training",
+      "url": "training/chapter-15-card-printable-the-in-duoc-chuong-15/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 15 CARD — REVERSE BREATHING (3.0+)               ║\n    ║  THẺ CHƯƠNG 15 — NGHỊCH THỞ (3.0+)                          ║\n    "
+    },
+    {
+      "id": "training/chapter-15-reverse-breathing-nghich-tho-for-30",
+      "name": "Chapter 15: Reverse breathing (Nghịch Thở) for 3.0+",
+      "cluster": "training",
+      "url": "training/chapter-15-reverse-breathing-nghich-tho-for-30/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Once you have mastered natural Dantian breathing (Chapter 14), you can progress to *reverse breathing* (Nghịch Thở /"
+    },
+    {
+      "id": "training/chapter-16-card-printable-the-in-duoc-chuong-16",
+      "name": "📋 Chapter 16 Card — Printable / Thẻ In Được Chương 16",
+      "cluster": "training",
+      "url": "training/chapter-16-card-printable-the-in-duoc-chuong-16/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 16 CARD — THE 9 POINTS OF RELAXATION              ║\n    ║  THẺ CHƯƠNG 16 — 9 ĐIỂM THẢ LỎNG                           ║\n    "
+    },
+    {
+      "id": "training/chapter-16-the-9-points-of-relaxation",
+      "name": "Chapter 16: The 9 Points of relaxation",
+      "cluster": "training",
+      "url": "training/chapter-16-the-9-points-of-relaxation/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Sōng (松) is the foundational concept of all internal arts. It means *relaxation* — but not \"slack\" or \"loose.\" It me"
+    },
+    {
+      "id": "training/chapter-17-card-printable-the-in-duoc-chuong-17",
+      "name": "📋 Chapter 17 Card — Printable / Thẻ In Được Chương 17",
+      "cluster": "training",
+      "url": "training/chapter-17-card-printable-the-in-duoc-chuong-17/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 17 CARD — SŌNG vs SŪI                              ║\n    ║  THẺ CHƯƠNG 17 — SŌNG vs SỤP ĐỔ                             ║\n  "
+    },
+    {
+      "id": "training/chapter-17-distinguish-sng-from-si-sup-do",
+      "name": "Chapter 17: Distinguish Sōng (松) from Sūi (Sụp đổ)",
+      "cluster": "training",
+      "url": "training/chapter-17-distinguish-sng-from-si-sup-do/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Sōng (松) is *relaxed structure*. Sūi (Tụy / 墜 — sometimes written 隨 or 垂) is *collapse*. They look similar but are c"
+    },
+    {
+      "id": "training/chapter-18-card-printable-the-in-duoc-chuong-18",
+      "name": "📋 Chapter 18 Card — Printable / Thẻ In Được Chương 18",
+      "cluster": "training",
+      "url": "training/chapter-18-card-printable-the-in-duoc-chuong-18/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 18 CARD — INTENTION LEADS THE BODY                ║\n    ║  THẺ CHƯƠNG 18 — Ý DẪN KHÍ, KHÍ DẪN THÂN                   ║\n    "
+    },
+    {
+      "id": "training/chapter-18-y-dan-khi-khi-dan-than-intention-leads-energy",
+      "name": "Chapter 18: Ý dẫn Khí, Khí dẫn Thân (Intention leads energy)",
+      "cluster": "training",
+      "url": "training/chapter-18-y-dan-khi-khi-dan-than-intention-leads-energy/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: The classical Taichi axiom is: **\"Ý dẫn Khí, Khí dẫn Thân\"** (意引氣, 氣引身) — \"Intention leads the Qi, Qi leads the body"
+    },
+    {
+      "id": "training/chapter-19-card-printable-the-in-duoc-chuong-19",
+      "name": "📋 Chapter 19 Card — Printable / Thẻ In Được Chương 19",
+      "cluster": "training",
+      "url": "training/chapter-19-card-printable-the-in-duoc-chuong-19/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 19 CARD — MUSHIN (VÔ TÂM)                          ║\n    ║  THẺ CHƯƠNG 19 — VÔ TÂM                                     ║\n  "
+    },
+    {
+      "id": "training/chapter-19-mushin-vo-tam-the-mind-of-no-mind",
+      "name": "Chapter 19: Mushin (Vô Tâm) — the mind of no-mind",
+      "cluster": "training",
+      "url": "training/chapter-19-mushin-vo-tam-the-mind-of-no-mind/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Mushin (Vô Tâm / 無心) is a Zen/Taichi concept meaning \"no-mind\" or \"mind of no-mind.\" It is *not* empty-headedness. I"
+    },
+    {
+      "id": "training/chapter-2-card-printable-the-in-duoc-chuong-2",
+      "name": "📋 Chapter 2 Card — Printable / Thẻ In Được Chương 2",
+      "cluster": "training",
+      "url": "training/chapter-2-card-printable-the-in-duoc-chuong-2/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 2 CARD — THE THREE TREASURES                     ║\n    ║  THẺ CHƯƠNG 2 — TAM BẢO (TINH, KHÍ, THẦN)                ║\n    ╠══"
+    },
+    {
+      "id": "training/chapter-2-the-three-treasures-tam-bao-jing-qi-shen",
+      "name": "Chapter 2: The Three Treasures (Tam Bảo) — Jing, Qi, Shen",
+      "cluster": "training",
+      "url": "training/chapter-2-the-three-treasures-tam-bao-jing-qi-shen/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Traditional Chinese medicine and Taichi share a model of human energy organized in three layers, from densest to mos"
+    },
+    {
+      "id": "training/chapter-20-card-printable-the-in-duoc-chuong-20",
+      "name": "📋 Chapter 20 Card — Printable / Thẻ In Được Chương 20",
+      "cluster": "training",
+      "url": "training/chapter-20-card-printable-the-in-duoc-chuong-20/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 20 CARD — HUGGING THE TREE                        ║\n    ║  THẺ CHƯƠNG 20 — ÔM THỤ                                    ║\n    "
+    },
+    {
+      "id": "training/chapter-20-the-hugging-the-tree-posture-om-thu",
+      "name": "Chapter 20: The \"Hugging the Tree\" posture (Ôm Thụ)",
+      "cluster": "training",
+      "url": "training/chapter-20-the-hugging-the-tree-posture-om-thu/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Zhan Zhuang (Trụ Thế / 站樁) literally means \"standing post\" or \"standing like a stake/pole.\" The most common 3.0 form"
+    },
+    {
+      "id": "training/chapter-21-card-printable-the-in-duoc-chuong-21",
+      "name": "📋 Chapter 21 Card — Printable / Thẻ In Được Chương 21",
+      "cluster": "training",
+      "url": "training/chapter-21-card-printable-the-in-duoc-chuong-21/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 21 CARD — THE 5-MINUTE STANDING PRACTICE          ║\n    ║  THẺ CHƯƠNG 21 — 5 PHÚT TRỤ THẾ                            ║\n    "
+    },
+    {
+      "id": "training/chapter-21-the-5-minute-standing-practice-that-changes-everything",
+      "name": "Chapter 21: The 5-minute Standing practice that changes everything",
+      "cluster": "training",
+      "url": "training/chapter-21-the-5-minute-standing-practice-that-changes-everything/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: If you do ONLY this practice for the next 90 days, every other aspect of Taichi will improve. The 5-minute standing "
+    },
+    {
+      "id": "training/chapter-22-card-printable-the-in-duoc-chuong-22",
+      "name": "📋 Chapter 22 Card — Printable / Thẻ In Được Chương 22",
+      "cluster": "training",
+      "url": "training/chapter-22-card-printable-the-in-duoc-chuong-22/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 22 CARD — WHY SLOW IS FAST                        ║\n    ║  THẺ CHƯƠNG 22 — TẠI SAO CHẬM LÀ NHANH                    ║\n    ╠"
+    },
+    {
+      "id": "training/chapter-22-why-slow-is-fast-and-slow-is-real",
+      "name": "Chapter 22: Why slow is fast (and slow is real)",
+      "cluster": "training",
+      "url": "training/chapter-22-why-slow-is-fast-and-slow-is-real/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Slow is not \"easy.\" Slow is *revealing*. When you move fast, you can't see your mistakes. When you move slowly, ever"
+    },
+    {
+      "id": "training/chapter-23-card-printable-the-in-duoc-chuong-23",
+      "name": "📋 Chapter 23 Card — Printable / Thẻ In Được Chương 23",
+      "cluster": "training",
+      "url": "training/chapter-23-card-printable-the-in-duoc-chuong-23/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 23 CARD — THE 30-MINUTE DAILY FORM               ║\n    ║  THẺ CHƯƠNG 23 — BÀI 30 PHÚT MỖI NGÀY                      ║\n    ╠"
+    },
+    {
+      "id": "training/chapter-23-the-30-minute-daily-form-structure-focus-and-recovery",
+      "name": "Chapter 23: The 30-minute daily form: structure, focus, and recovery",
+      "cluster": "training",
+      "url": "training/chapter-23-the-30-minute-daily-form-structure-focus-and-recovery/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: The 30-minute daily form is *the* workhorse practice. It includes everything: standing, form, and recovery. For most"
+    },
+    {
+      "id": "training/chapter-24-card-printable-the-in-duoc-chuong-24",
+      "name": "📋 Chapter 24 Card — Printable / Thẻ In Được Chương 24",
+      "cluster": "training",
+      "url": "training/chapter-24-card-printable-the-in-duoc-chuong-24/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 24 CARD — 7 AGING DECLINES                        ║\n    ║  THẺ CHƯƠNG 24 — 7 SUY GIẢM LÃO HÓA                        ║\n    "
+    },
+    {
+      "id": "training/chapter-24-what-taichi-does-to-your-body-after-50",
+      "name": "Chapter 24: What Taichi does to your body after 50",
+      "cluster": "training",
+      "url": "training/chapter-24-what-taichi-does-to-your-body-after-50/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: After 50, the body is in a \"use it or lose it\" mode. Taichi is the *only* practice that addresses ALL 7 of the body'"
+    },
+    {
+      "id": "training/chapter-25-card-printable-the-in-duoc-chuong-25",
+      "name": "📋 Chapter 25 Card — Printable / Thẻ In Được Chương 25",
+      "cluster": "training",
+      "url": "training/chapter-25-card-printable-the-in-duoc-chuong-25/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 25 CARD — THE TRIAD (BALANCE, BP, SLEEP)         ║\n    ║  THẺ CHƯƠNG 25 — BỘ BA (THĂNG BẰNG, HA, NGỦ)               ║\n    ╠"
+    },
+    {
+      "id": "training/chapter-25-the-3-conditions-taichi-heals-balance-blood-pressure-sleep",
+      "name": "Chapter 25: The 3 conditions Taichi heals: balance, blood pressure, sleep",
+      "cluster": "training",
+      "url": "training/chapter-25-the-3-conditions-taichi-heals-balance-blood-pressure-sleep/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Of all the health benefits of Taichi, three stand out as the *most evidence-supported* by Western medical research: "
+    },
+    {
+      "id": "training/chapter-26-card-printable-the-in-duoc-chuong-26",
+      "name": "📋 Chapter 26 Card — Printable / Thẻ In Được Chương 26",
+      "cluster": "training",
+      "url": "training/chapter-26-card-printable-the-in-duoc-chuong-26/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 26 CARD — 20-MINUTE HOME PRACTICE                 ║\n    ║  THẺ CHƯƠNG 26 — TẬP 20 PHÚT TẠI NHÀ                       ║\n    "
+    },
+    {
+      "id": "training/chapter-26-the-20-minute-home-practice-no-teacher-needed",
+      "name": "Chapter 26: The 20-minute home practice (no teacher needed)",
+      "cluster": "training",
+      "url": "training/chapter-26-the-20-minute-home-practice-no-teacher-needed/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: After 6-12 months of class practice, you should be able to do a complete 20-minute practice at home *without a teach"
+    },
+    {
+      "id": "training/chapter-27-card-printable-the-in-duoc-chuong-27",
+      "name": "📋 Chapter 27 Card — Printable / Thẻ In Được Chương 27",
+      "cluster": "training",
+      "url": "training/chapter-27-card-printable-the-in-duoc-chuong-27/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 27 CARD — 5-MINUTE RESET                           ║\n    ║  THẺ CHƯƠNG 27 — RESET 5 PHÚT                              ║\n   "
+    },
+    {
+      "id": "training/chapter-27-the-5-minute-reset-practice-for-busy-days",
+      "name": "Chapter 27: The 5-minute \"Reset\" practice for busy days",
+      "cluster": "training",
+      "url": "training/chapter-27-the-5-minute-reset-practice-for-busy-days/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: There will be days when you \"don't have time\" for the 20-minute practice. The 5-minute Reset is the *minimum effecti"
+    },
+    {
+      "id": "training/chapter-28-card-printable-the-in-duoc-chuong-28",
+      "name": "📋 Chapter 28 Card — Printable / Thẻ In Được Chương 28",
+      "cluster": "training",
+      "url": "training/chapter-28-card-printable-the-in-duoc-chuong-28/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 28 CARD — THE 3-SYSTEM CHEAT SHEET                ║\n    ║  THẺ CHƯƠNG 28 — BẢNG TÓM TẮT 3 HỆ THỐNG                    ║\n   "
+    },
+    {
+      "id": "training/chapter-28-the-3-anchor-check-3-question-diagnostic-one-word-cues",
+      "name": "Chapter 28: The 3-Anchor Check, 3-Question Diagnostic, One-Word Cues",
+      "cluster": "training",
+      "url": "training/chapter-28-the-3-anchor-check-3-question-diagnostic-one-word-cues/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: This chapter is the *cheat sheet* you keep in your pocket (or taped to your bathroom mirror). The whole guide, compr"
+    },
+    {
+      "id": "training/chapter-29-card-printable-the-in-duoc-chuong-29",
+      "name": "📋 Chapter 29 Card — Printable / Thẻ In Được Chương 29",
+      "cluster": "training",
+      "url": "training/chapter-29-card-printable-the-in-duoc-chuong-29/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 29 CARD — THE 7 DEADLY SINS                       ║\n    ║  THẺ CHƯƠNG 29 — 7 TỘI CHẾT NGƯỜI                          ║\n    "
+    },
+    {
+      "id": "training/chapter-29-the-7-deadly-sins-of-the-30-taichi-student",
+      "name": "Chapter 29: The 7 Deadly Sins of the 3.0 Taichi student",
+      "cluster": "training",
+      "url": "training/chapter-29-the-7-deadly-sins-of-the-30-taichi-student/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Most 3.0 students make the *same* 7 mistakes. If you can avoid these 7, you'll progress faster than 90% of beginners"
+    },
+    {
+      "id": "training/chapter-3-card-printable-the-in-duoc-chuong-3",
+      "name": "📋 Chapter 3 Card — Printable / Thẻ In Được Chương 3",
+      "cluster": "training",
+      "url": "training/chapter-3-card-printable-the-in-duoc-chuong-3/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 3 CARD — YIN-YANG                                 ║\n    ║  THẺ CHƯƠNG 3 — ÂM DƯƠNG                                  ║\n    ╠"
+    },
+    {
+      "id": "training/chapter-3-yin-yang-and-the-dance-of-opposites",
+      "name": "Chapter 3: Yin-Yang and the dance of opposites",
+      "cluster": "training",
+      "url": "training/chapter-3-yin-yang-and-the-dance-of-opposites/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Yin-Yang (Âm Dương / 陰陽) is the oldest map of how opposites work together. Yin: heavy, slow, cold, dense, dark, inte"
+    },
+    {
+      "id": "training/chapter-30-card-printable-the-in-duoc-chuong-30",
+      "name": "📋 Chapter 30 Card — Printable / Thẻ In Được Chương 30",
+      "cluster": "training",
+      "url": "training/chapter-30-card-printable-the-in-duoc-chuong-30/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 30 CARD — THE TENSION PARADOX                     ║\n    ║  THẺ CHƯƠNG 30 — NGHỊCH LÝ CĂNG CỨNG                       ║\n    "
+    },
+    {
+      "id": "training/chapter-30-the-tension-paradox-why-strong-muscles-make-weak-taichi",
+      "name": "Chapter 30: The Tension Paradox: why strong muscles make weak Taichi",
+      "cluster": "training",
+      "url": "training/chapter-30-the-tension-paradox-why-strong-muscles-make-weak-taichi/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: This is the *most counterintuitive* truth in Taichi: **the stronger your muscles, the worse your Taichi (at first).*"
+    },
+    {
+      "id": "training/chapter-31-card-printable-the-in-duoc-chuong-31",
+      "name": "📋 Chapter 31 Card — Printable / Thẻ In Được Chương 31",
+      "cluster": "training",
+      "url": "training/chapter-31-card-printable-the-in-duoc-chuong-31/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 31 CARD — THE 3-YEAR PROMISE                      ║\n    ║  THẺ CHƯƠNG 31 — LỜI HỨA 3 NĂM                            ║\n    ╠"
+    },
+    {
+      "id": "training/chapter-31-the-3-year-promise",
+      "name": "Chapter 31: The 3-year promise",
+      "cluster": "training",
+      "url": "training/chapter-31-the-3-year-promise/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: If you commit to Taichi for 3 years — even just 20 minutes a day, 6 days a week — something happens. Not \"I know the"
+    },
+    {
+      "id": "training/chapter-32-card-printable-the-in-duoc-chuong-32",
+      "name": "📋 Chapter 32 Card — Printable / Thẻ In Được Chương 32",
+      "cluster": "training",
+      "url": "training/chapter-32-card-printable-the-in-duoc-chuong-32/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 32 CARD — THE 50+ BODY AS PERFECT INSTRUMENT     ║\n    ║  THẺ CHƯƠNG 32 — CƠ THỂ 50+ LÀ NHẠC CỤ HOÀN HẢO          ║\n    ╠══"
+    },
+    {
+      "id": "training/chapter-32-the-50-body-as-taichis-perfect-instrument",
+      "name": "Chapter 32: The 50+ body as Taichi's perfect instrument",
+      "cluster": "training",
+      "url": "training/chapter-32-the-50-body-as-taichis-perfect-instrument/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: This is the final teaching. The 50+ body is *not* Taichi's obstacle. It is Taichi's *perfect instrument*. Why? Becau"
+    },
+    {
+      "id": "training/chapter-4-card-printable-the-in-duoc-chuong-4",
+      "name": "📋 Chapter 4 Card — Printable / Thẻ In Được Chương 4",
+      "cluster": "training",
+      "url": "training/chapter-4-card-printable-the-in-duoc-chuong-4/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 4 CARD — BODY SCHEMA                             ║\n    ║  THẺ CHƯƠNG 4 — SƠ ĐỒ CƠ THỂ                            ║\n    ╠═══"
+    },
+    {
+      "id": "training/chapter-4-the-body-schema-weight-ground-alignment",
+      "name": "Chapter 4: The Body Schema — Weight, Ground, Alignment",
+      "cluster": "training",
+      "url": "training/chapter-4-the-body-schema-weight-ground-alignment/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Before any movement, your body must have three foundational relationships: (1) **Weight** (Trọng lượng) — feeling th"
+    },
+    {
+      "id": "training/chapter-5-card-printable-the-in-duoc-chuong-5",
+      "name": "📋 Chapter 5 Card — Printable / Thẻ In Được Chương 5",
+      "cluster": "training",
+      "url": "training/chapter-5-card-printable-the-in-duoc-chuong-5/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 5 CARD — STANDING POST (TRỤ THẾ)                ║\n    ║  THẺ CHƯƠNG 5 — TRỤ THẾ                                   ║\n    ╠══"
+    },
+    {
+      "id": "training/chapter-5-the-wu-wei-stance-vo-vi-and-the-standing-post-tru-the",
+      "name": "Chapter 5: The \"Wu Wei\" Stance (Vô Vi) and the Standing Post (Trụ Thế)",
+      "cluster": "training",
+      "url": "training/chapter-5-the-wu-wei-stance-vo-vi-and-the-standing-post-tru-the/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: \"Wu Wei\" (Vô Vi / 無為) is often translated \"do nothing\" or \"effortless action,\" but the deeper meaning is \"act withou"
+    },
+    {
+      "id": "training/chapter-6-card-printable-the-in-duoc-chuong-6",
+      "name": "📋 Chapter 6 Card — Printable / Thẻ In Được Chương 6",
+      "cluster": "training",
+      "url": "training/chapter-6-card-printable-the-in-duoc-chuong-6/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 6 CARD — PENG (PHÒNG)                            ║\n    ║  THẺ CHƯƠNG 6 — PHÒNG                                      ║\n    ╠"
+    },
+    {
+      "id": "training/chapter-6-peng-phong-ward-off-the-sphere-of-organized-readiness",
+      "name": "Chapter 6: Peng (Phòng) — Ward Off: the sphere of organized readiness",
+      "cluster": "training",
+      "url": "training/chapter-6-peng-phong-ward-off-the-sphere-of-organized-readiness/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Peng (Phòng / 棚) is the foundational energy of Taichi. It is not a \"block\" or a \"ward off\" in the karate sense. It i"
+    },
+    {
+      "id": "training/chapter-7-card-printable-the-in-duoc-chuong-7",
+      "name": "📋 Chapter 7 Card — Printable / Thẻ In Được Chương 7",
+      "cluster": "training",
+      "url": "training/chapter-7-card-printable-the-in-duoc-chuong-7/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 7 CARD — LU (LÃY)                                ║\n    ║  THẺ CHƯƠNG 7 — LÃY                                        ║\n    ╠"
+    },
+    {
+      "id": "training/chapter-7-lu-lay-rollback-yielding-and-redirecting",
+      "name": "Chapter 7: Lu (Lãy) — Rollback: yielding and redirecting",
+      "cluster": "training",
+      "url": "training/chapter-7-lu-lay-rollback-yielding-and-redirecting/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Lu (Lãy / 捋) is the energy of *yielding* and *redirecting*. Where Peng is the sphere of readiness, Lu is the spiral "
+    },
+    {
+      "id": "training/chapter-8-card-printable-the-in-duoc-chuong-8",
+      "name": "📋 Chapter 8 Card — Printable / Thẻ In Được Chương 8",
+      "cluster": "training",
+      "url": "training/chapter-8-card-printable-the-in-duoc-chuong-8/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 8 CARD — JI (TỲ)                                 ║\n    ║  THẺ CHƯƠNG 8 — TỲ                                         ║\n    ╠"
+    },
+    {
+      "id": "training/chapter-8-ji-ty-press-whole-body-expression",
+      "name": "Chapter 8: Ji (Tỳ) — Press: whole-body expression",
+      "cluster": "training",
+      "url": "training/chapter-8-ji-ty-press-whole-body-expression/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: Ji (Tỳ / 擠) is the energy of *pressing forward with the whole body*. It is the first of the \"hard\" energies in the 8"
+    },
+    {
+      "id": "training/chapter-9-an-an-push-grounding-and-finishing",
+      "name": "Chapter 9: An (Án) — Push: grounding and finishing",
+      "cluster": "training",
+      "url": "training/chapter-9-an-an-push-grounding-and-finishing/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **The big idea**: An (Án / 按) is the energy of *pressing down and through*. After Ji presses forward, An *anchors* the energy. The ene"
+    },
+    {
+      "id": "training/chapter-9-card-printable-the-in-duoc-chuong-9",
+      "name": "📋 Chapter 9 Card — Printable / Thẻ In Được Chương 9",
+      "cluster": "training",
+      "url": "training/chapter-9-card-printable-the-in-duoc-chuong-9/",
+      "description": "╔═══════════════════════════════════════════════════════════╗\n    ║  CHAPTER 9 CARD — AN (ÁN)                                 ║\n    ║  THẺ CHƯƠNG 9 — ÁN                                         ║\n    ╠"
+    },
+    {
+      "id": "training/chuong-14-bai-tap",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "training",
+      "url": "training/chuong-14-bai-tap/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "training/chuong-15-tho-am",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "training",
+      "url": "training/chuong-15-tho-am/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "training/chuong-16-tuan-thu",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "training",
+      "url": "training/chuong-16-tuan-thu/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "training/chuong-5-khi-cong",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "training",
+      "url": "training/chuong-5-khi-cong/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "training/document-map-ban-do-tai-lieu",
+      "name": "📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU",
+      "cluster": "training",
+      "url": "training/document-map-ban-do-tai-lieu/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| **Who this is for**: A 3.0-level Taichi beginner. Maybe 50+ years old, maybe brand new to internal martial arts, maybe a tennis player"
+    },
+    {
+      "id": "training/drills-for-30",
+      "name": "Drills for 3.0",
+      "cluster": "training",
+      "url": "training/drills-for-30/",
+      "description": "| Drill | What it Does | Cách Làm |\n|-------|--------------|----------|\n| **The 3-Question Morning Check** | Anchors you to Tam Bảo daily | Ask: Did I sleep (Jing)? Do I have energy (Qi)? Am I focused"
+    },
+    {
+      "id": "training/final-word-loi-cuoi",
+      "name": "🎯 FINAL WORD / LỜI CUỐI",
+      "cluster": "training",
+      "url": "training/final-word-loi-cuoi/",
+      "description": "| 🇺🇸 English | 🇻🇳 Tiếng Việt |\n|-------------|----------------|\n| Friend, this is not the end. This is the *beginning*. | Bạn ơi, đây không phải kết thúc. Đây là *khởi đầu*. |\n| You now have the map. "
+    },
+    {
+      "id": "training/the-3-golden-rules-of-30-taichi",
+      "name": "The 3 Golden Rules of 3.0 Taichi",
+      "cluster": "training",
+      "url": "training/the-3-golden-rules-of-30-taichi/",
+      "description": "| # | English | Tiếng Việt |\n|---|---------|------------|\n| 1 | **Relax first, then move.** If you can only learn one thing in your first year, learn to soften your shoulders. | **Thả lỏng trước, rồi "
+    },
+    {
+      "id": "health/chuong-10-tuoi-tho",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "health",
+      "url": "health/chuong-10-tuoi-tho/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "health/chuong-11-thuong-ton",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "health",
+      "url": "health/chuong-11-thuong-ton/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "health/chuong-6-the-duc",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "health",
+      "url": "health/chuong-6-the-duc/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "health/chuong-7-dinh-duong",
+      "name": "Mô hình toán học Split Step Thái Cực",
+      "cluster": "health",
+      "url": "health/chuong-7-dinh-duong/",
+      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
+    },
+    {
+      "id": "health/chuong-9-phong-benh",
+      "name": "chuong-9-phong-benh",
+      "cluster": "health",
+      "url": "health/chuong-9-phong-benh/",
+      "description": "---\ntitle: Phòng bệnh và hỗ trợ điều trị\ncluster: health\nlanguage: en\ntags: [taichi, health, longevity]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và cuộc sống - Cẩm nang giữ gìn sức khỏe và kéo "
+    },
+    {
+      "id": "health/hinh-thai-nguyen-so",
+      "name": "hinh-thai-nguyen-so",
+      "cluster": "health",
+      "url": "health/hinh-thai-nguyen-so/",
+      "description": "---\ntitle: Trở về Hình Thái Nguyên Sơ — Dưỡng sinh từ trẻ em\ncluster: health\nlanguage: en\ntags: [taichi, health, longevity]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết "
+    },
+    {
+      "id": "health/huyet-u",
+      "name": "huyet-u",
+      "cluster": "health",
+      "url": "health/huyet-u/",
+      "description": "---\ntitle: Huyết ứ — Âm tà số một của sức khỏe dưỡng sinh\ncluster: health\nlanguage: en\ntags: [taichi, health, longevity]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và "
+    },
+    {
+      "id": "health/ngu-cam-hi",
+      "name": "ngu-cam-hi",
+      "cluster": "health",
+      "url": "health/ngu-cam-hi/",
+      "description": "---\ntitle: Ngũ Cẩm Hí — Hoa Đà và 5 con thú dưỡng sinh\ncluster: health\nlanguage: en\ntags: [taichi, health, longevity]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và Khả"
+    },
+    {
+      "id": "health/thong-tam-quan",
+      "name": "thong-tam-quan",
+      "cluster": "health",
+      "url": "health/thong-tam-quan/",
+      "description": "---\ntitle: Dưỡng sinh lâu dài là Thông Tam Quan\ncluster: health\nlanguage: en\ntags: [taichi, health, longevity]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và Khảo chứng"
+    },
+    {
+      "id": "tennis/chuong-21-footwork",
+      "name": "chuong-21-footwork",
+      "cluster": "tennis",
+      "url": "tennis/chuong-21-footwork/",
+      "description": "---\ntitle: Footwork nâng cao và thăng bằng động\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng"
+    },
+    {
+      "id": "tennis/chuong-22-forehand",
+      "name": "chuong-22-forehand",
+      "cluster": "tennis",
+      "url": "tennis/chuong-22-forehand/",
+      "description": "---\ntitle: Forehand — Chuỗi động lực và bám rễ\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng "
+    },
+    {
+      "id": "tennis/chuong-23-backhand",
+      "name": "chuong-23-backhand",
+      "cluster": "tennis",
+      "url": "tennis/chuong-23-backhand/",
+      "description": "---\ntitle: Backhand — Cân bằng đối xứng\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng dụng Ta"
+    },
+    {
+      "id": "tennis/chuong-24-volley",
+      "name": "chuong-24-volley",
+      "cluster": "tennis",
+      "url": "tennis/chuong-24-volley/",
+      "description": "---\ntitle: Volley — Lắng nghe và nhu-cương\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng dụng"
+    },
+    {
+      "id": "tennis/chuong-25-smash",
+      "name": "chuong-25-smash",
+      "cluster": "tennis",
+      "url": "tennis/chuong-25-smash/",
+      "description": "---\ntitle: Smash — Phát lực từ bám rễ\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng dụng Taic"
+    },
+    {
+      "id": "tennis/chuong-26-serve",
+      "name": "chuong-26-serve",
+      "cluster": "tennis",
+      "url": "tennis/chuong-26-serve/",
+      "description": "---\ntitle: Serve — Tĩnh lặng và bám rễ\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng dụng Tai"
+    },
+    {
+      "id": "tennis/nghe-thuat-song-khoe-backhand",
+      "name": "nghe-thuat-song-khoe-backhand",
+      "cluster": "tennis",
+      "url": "tennis/nghe-thuat-song-khoe-backhand/",
+      "description": "---\ntitle: Backhand - Trái tay và Thái Cực\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN"
+    },
+    {
+      "id": "tennis/nghe-thuat-song-khoe-can-bang",
+      "name": "nghe-thuat-song-khoe-can-bang",
+      "cluster": "tennis",
+      "url": "tennis/nghe-thuat-song-khoe-can-bang/",
+      "description": "---\ntitle: Thăng bằng và trọng tâm\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN III VÀ "
+    },
+    {
+      "id": "tennis/nghe-thuat-song-khoe-footwork",
+      "name": "nghe-thuat-song-khoe-footwork",
+      "cluster": "tennis",
+      "url": "tennis/nghe-thuat-song-khoe-footwork/",
+      "description": "---\ntitle: Footwork và di chuyển trên sân\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN "
+    },
+    {
+      "id": "tennis/nghe-thuat-song-khoe-forehand",
+      "name": "nghe-thuat-song-khoe-forehand",
+      "cluster": "tennis",
+      "url": "tennis/nghe-thuat-song-khoe-forehand/",
+      "description": "---\ntitle: Forehand - Thuận tay và Thái Cực\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦ"
+    },
+    {
+      "id": "tennis/nghe-thuat-song-khoe-serve",
+      "name": "nghe-thuat-song-khoe-serve",
+      "cluster": "tennis",
+      "url": "tennis/nghe-thuat-song-khoe-serve/",
+      "description": "---\ntitle: Serve - Giao bóng và Thái Cực\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN I"
+    },
+    {
+      "id": "tennis/nghe-thuat-song-khoe-smash",
+      "name": "nghe-thuat-song-khoe-smash",
+      "cluster": "tennis",
+      "url": "tennis/nghe-thuat-song-khoe-smash/",
+      "description": "---\ntitle: Smash - Đập bóng và Thái Cực\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN II"
+    },
+    {
+      "id": "tennis/nghe-thuat-song-khoe-tam-ly",
+      "name": "nghe-thuat-song-khoe-tam-ly",
+      "cluster": "tennis",
+      "url": "tennis/nghe-thuat-song-khoe-tam-ly/",
+      "description": "---\ntitle: Tâm lý thi đấu từ Thái Cực\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN III "
+    },
+    {
+      "id": "tennis/nghe-thuat-song-khoe-tennis-ky-thuat",
+      "name": "nghe-thuat-song-khoe-tennis-ky-thuat",
+      "cluster": "tennis",
+      "url": "tennis/nghe-thuat-song-khoe-tennis-ky-thuat/",
+      "description": "---\ntitle: Kỹ thuật tennis cần Thái Cực Quyền\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - P"
+    }
+  ],
+  "edges": [
+    {
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "target": "essentials/xu-ling-ding-jin-empty-spirit"
+    },
+    {
+      "source": "technique/jin-li-internal-power",
+      "target": "essentials/yi-yong-bu-yong-li-intention-not-force"
+    },
+    {
+      "source": "essentials/han-xiong-ba-bei-chest-back",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "foundations/tai-chi-chuan",
+      "target": "technique/tui-shou-push-hands"
+    },
+    {
+      "source": "essentials/han-xiong-ba-bei-chest-back",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "foundations/tai-chi-chuan",
+      "target": "history/yang-style-tai-chi-chuan"
+    },
+    {
+      "source": "technique/tui-shou-push-hands",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "forms/lan-que-wei-lame-stork",
+      "target": "history/yang-style-tai-chi-chuan"
+    },
+    {
+      "source": "history/yang-style-tai-chi-chuan",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "technique/jin-li-internal-power",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "technique/tui-shou-push-hands",
+      "target": "technique/jin-li-internal-power"
+    },
+    {
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "target": "essentials/qi-chen-dan-tian-qi-sinks"
+    },
+    {
+      "source": "foundations/tai-chi-chuan",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "history/yang-style-tai-chi-chuan",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "history/yang-style-tai-chi-chuan",
+      "target": "technique/jin-li-internal-power"
+    },
+    {
+      "source": "essentials/chen-jian-zhui-zhou-sinking-shoulders",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "technique/tui-shou-push-hands",
+      "target": "essentials/qi-chen-dan-tian-qi-sinks"
+    },
+    {
+      "source": "forms/lan-que-wei-lame-stork",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "essentials/han-xiong-ba-bei-chest-back",
+      "target": "essentials/qi-chen-dan-tian-qi-sinks"
+    },
+    {
+      "source": "essentials/qi-chen-dan-tian-qi-sinks",
+      "target": "essentials/han-xiong-ba-bei-chest-back"
+    },
+    {
+      "source": "foundations/tai-chi-chuan",
+      "target": "technique/jin-li-internal-power"
+    },
+    {
+      "source": "essentials/chen-jian-zhui-zhou-sinking-shoulders",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "technique/jin-li-internal-power",
+      "target": "essentials/qi-chen-dan-tian-qi-sinks"
+    },
+    {
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "target": "essentials/chen-jian-zhui-zhou-sinking-shoulders"
+    },
+    {
+      "source": "essentials/xu-ling-ding-jin-empty-spirit",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "forms/lan-que-wei-lame-stork",
+      "target": "technique/jin-li-internal-power"
+    },
+    {
+      "source": "essentials/chen-jian-zhui-zhou-sinking-shoulders",
+      "target": "technique/jin-li-internal-power"
+    },
+    {
+      "source": "essentials/yi-yong-bu-yong-li-intention-not-force",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "foundations/taichi-knowledge-base",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "essentials/qi-chen-dan-tian-qi-sinks",
+      "target": "essentials/ten-essentials-of-tai-chi-chuan"
+    },
+    {
+      "source": "essentials/xu-ling-ding-jin-empty-spirit",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "target": "essentials/han-xiong-ba-bei-chest-back"
+    },
+    {
+      "source": "essentials/yi-yong-bu-yong-li-intention-not-force",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "essentials/qi-chen-dan-tian-qi-sinks",
+      "target": "foundations/tai-chi-chuan"
+    },
+    {
+      "source": "essentials/yi-yong-bu-yong-li-intention-not-force",
+      "target": "technique/jin-li-internal-power"
+    },
+    {
+      "source": "essentials/ten-essentials-of-tai-chi-chuan",
+      "target": "essentials/yi-yong-bu-yong-li-intention-not-force"
+    },
+    {
+      "source": "essentials/qi-chen-dan-tian-qi-sinks",
+      "target": "technique/jin-li-internal-power"
+    }
+  ],
+  "topIds": [
+    "foundations/tai-chi-chuan",
+    "essentials/ten-essentials-of-tai-chi-chuan",
+    "technique/jin-li-internal-power",
+    "essentials/qi-chen-dan-tian-qi-sinks",
+    "essentials/han-xiong-ba-bei-chest-back",
+    "essentials/yi-yong-bu-yong-li-intention-not-force",
+    "history/yang-style-tai-chi-chuan",
+    "essentials/chen-jian-zhui-zhou-sinking-shoulders",
+    "technique/tui-shou-push-hands",
+    "essentials/xu-ling-ding-jin-empty-spirit",
+    "forms/lan-que-wei-lame-stork",
+    "foundations/taichi-knowledge-base",
+    "essentials/30-day-practice-calendar-printable-duplicated-twice-lich-tap-30-ngay-in-duoc-lap",
+    "essentials/appendix-b-master-cue-card",
+    "essentials/appendix-c-30-day-practice-calendar",
+    "essentials/chinh-khi-ton-noi",
+    "essentials/chuong-12-tinh-than",
+    "essentials/chuong-13-thien",
+    "essentials/chuong-2-nguyen-ly",
+    "essentials/chuong-8-tam-ly",
+    "essentials/chuyen-khi-chi-nhu",
+    "essentials/end-of-manual-het-cam-nang",
+    "essentials/how-to-use-the-5-tiers-cach-dung-5-tang",
+    "essentials/khi-tram-dan-dien-sau",
+    "essentials/master-cue-card-printable-duplicated-twice-the-cau-nhac-tong-in-duoc-lap-2-lan",
+    "essentials/menh-mon-hoa",
+    "essentials/tcq-am-duong",
+    "essentials/tcq-dong-tinh",
+    "essentials/tcq-trung-hoa",
+    "essentials/the-5-color-tiers-5-tang-mau",
+    "essentials/the-taichi-vow-loi-the-thai-cuc",
+    "essentials/troi-dat-bat-nhan",
+    "essentials/tu-oai-nghi",
+    "forms/chuong-17-chi-tiet-24",
+    "forms/chuong-4-24-thuc",
+    "foundations/phan-1-triet-ly",
+    "health/chuong-10-tuoi-tho",
+    "health/chuong-11-thuong-ton",
+    "health/chuong-6-the-duc",
+    "health/chuong-7-dinh-duong",
+    "health/chuong-9-phong-benh",
+    "health/hinh-thai-nguyen-so",
+    "health/huyet-u",
+    "health/ngu-cam-hi",
+    "health/thong-tam-quan",
+    "history/chuong-1-lich-su",
+    "history/chuong-18-ong-bo",
+    "history/chuong-3-dong-phai",
+    "history/tcq-luan-boi-canh",
+    "history/tcq-luan-noi-dung",
+    "technique/chi-cong",
+    "technique/di-hinh-ta-than",
+    "technique/dung-y-dan-khi",
+    "technique/khi-huyet",
+    "technique/khung-vuong-van-tron",
+    "technique/luc-tinh-huyet",
+    "technique/noi-cong-do-thuyet",
+    "technique/tan-cong",
+    "technique/tcq-chiem-tau",
+    "technique/than-chi-cung",
+    "technique/than-chua-co-goc",
+    "technique/tuong-hinh",
+    "tennis/chuong-21-footwork",
+    "tennis/chuong-22-forehand",
+    "tennis/chuong-23-backhand",
+    "tennis/chuong-24-volley",
+    "tennis/chuong-25-smash",
+    "tennis/chuong-26-serve",
+    "tennis/nghe-thuat-song-khoe-backhand",
+    "tennis/nghe-thuat-song-khoe-can-bang",
+    "tennis/nghe-thuat-song-khoe-footwork",
+    "tennis/nghe-thuat-song-khoe-forehand",
+    "tennis/nghe-thuat-song-khoe-serve",
+    "tennis/nghe-thuat-song-khoe-smash",
+    "tennis/nghe-thuat-song-khoe-tam-ly",
+    "tennis/nghe-thuat-song-khoe-tennis-ky-thuat",
+    "training/chapter-1-card-printable-the-in-duoc-chuong-1",
+    "training/chapter-1-what-is-taichi-really",
+    "training/chapter-10-card-printable-the-in-duoc-chuong-10",
+    "training/chapter-10-the-24-form-at-a-glance",
+    "training/chapter-11-card-printable-the-in-duoc-chuong-11",
+    "training/chapter-11-the-commencement-form-khoi-thuc-and-the-first-ward-off",
+    "training/chapter-12-card-printable-the-in-duoc-chuong-12",
+    "training/chapter-12-hu-empty-vs-thuc-solid-the-core-operating-principle",
+    "training/chapter-13-card-printable-the-in-duoc-chuong-13",
+    "training/chapter-13-substantial-and-insubstantial-stepping-tan-hu-tan-thuc",
+    "training/chapter-14-card-printable-the-in-duoc-chuong-14",
+    "training/chapter-14-dan-tian-breathing-lower-abdomen-lower-dantian",
+    "training/chapter-15-card-printable-the-in-duoc-chuong-15",
+    "training/chapter-15-reverse-breathing-nghich-tho-for-30",
+    "training/chapter-16-card-printable-the-in-duoc-chuong-16",
+    "training/chapter-16-the-9-points-of-relaxation",
+    "training/chapter-17-card-printable-the-in-duoc-chuong-17",
+    "training/chapter-17-distinguish-sng-from-si-sup-do",
+    "training/chapter-18-card-printable-the-in-duoc-chuong-18",
+    "training/chapter-18-y-dan-khi-khi-dan-than-intention-leads-energy",
+    "training/chapter-19-card-printable-the-in-duoc-chuong-19",
+    "training/chapter-19-mushin-vo-tam-the-mind-of-no-mind",
+    "training/chapter-2-card-printable-the-in-duoc-chuong-2",
+    "training/chapter-2-the-three-treasures-tam-bao-jing-qi-shen",
+    "training/chapter-20-card-printable-the-in-duoc-chuong-20",
+    "training/chapter-20-the-hugging-the-tree-posture-om-thu",
+    "training/chapter-21-card-printable-the-in-duoc-chuong-21",
+    "training/chapter-21-the-5-minute-standing-practice-that-changes-everything",
+    "training/chapter-22-card-printable-the-in-duoc-chuong-22",
+    "training/chapter-22-why-slow-is-fast-and-slow-is-real",
+    "training/chapter-23-card-printable-the-in-duoc-chuong-23",
+    "training/chapter-23-the-30-minute-daily-form-structure-focus-and-recovery",
+    "training/chapter-24-card-printable-the-in-duoc-chuong-24",
+    "training/chapter-24-what-taichi-does-to-your-body-after-50",
+    "training/chapter-25-card-printable-the-in-duoc-chuong-25",
+    "training/chapter-25-the-3-conditions-taichi-heals-balance-blood-pressure-sleep",
+    "training/chapter-26-card-printable-the-in-duoc-chuong-26",
+    "training/chapter-26-the-20-minute-home-practice-no-teacher-needed",
+    "training/chapter-27-card-printable-the-in-duoc-chuong-27",
+    "training/chapter-27-the-5-minute-reset-practice-for-busy-days",
+    "training/chapter-28-card-printable-the-in-duoc-chuong-28",
+    "training/chapter-28-the-3-anchor-check-3-question-diagnostic-one-word-cues",
+    "training/chapter-29-card-printable-the-in-duoc-chuong-29",
+    "training/chapter-29-the-7-deadly-sins-of-the-30-taichi-student",
+    "training/chapter-3-card-printable-the-in-duoc-chuong-3",
+    "training/chapter-3-yin-yang-and-the-dance-of-opposites",
+    "training/chapter-30-card-printable-the-in-duoc-chuong-30",
+    "training/chapter-30-the-tension-paradox-why-strong-muscles-make-weak-taichi",
+    "training/chapter-31-card-printable-the-in-duoc-chuong-31",
+    "training/chapter-31-the-3-year-promise",
+    "training/chapter-32-card-printable-the-in-duoc-chuong-32",
+    "training/chapter-32-the-50-body-as-taichis-perfect-instrument",
+    "training/chapter-4-card-printable-the-in-duoc-chuong-4",
+    "training/chapter-4-the-body-schema-weight-ground-alignment",
+    "training/chapter-5-card-printable-the-in-duoc-chuong-5",
+    "training/chapter-5-the-wu-wei-stance-vo-vi-and-the-standing-post-tru-the",
+    "training/chapter-6-card-printable-the-in-duoc-chuong-6",
+    "training/chapter-6-peng-phong-ward-off-the-sphere-of-organized-readiness",
+    "training/chapter-7-card-printable-the-in-duoc-chuong-7",
+    "training/chapter-7-lu-lay-rollback-yielding-and-redirecting",
+    "training/chapter-8-card-printable-the-in-duoc-chuong-8",
+    "training/chapter-8-ji-ty-press-whole-body-expression",
+    "training/chapter-9-an-an-push-grounding-and-finishing",
+    "training/chapter-9-card-printable-the-in-duoc-chuong-9",
+    "training/chuong-14-bai-tap",
+    "training/chuong-15-tho-am",
+    "training/chuong-16-tuan-thu",
+    "training/chuong-5-khi-cong",
+    "training/document-map-ban-do-tai-lieu",
+    "training/drills-for-30",
+    "training/final-word-loi-cuoi",
+    "training/the-3-golden-rules-of-30-taichi"
+  ],
+  "clusters": [
+    {
+      "id": "foundations",
+      "label_vi": "🌱 Nền tảng",
+      "label_en": "🌱 Foundations"
+    },
+    {
+      "id": "history",
+      "label_vi": "📜 Lịch sử & Triết lý",
+      "label_en": "📜 History & Philosophy"
+    },
+    {
+      "id": "essentials",
+      "label_vi": "🎯 Thập Yếu & Nguyên lý",
+      "label_en": "🎯 Ten Essentials & Principles"
+    },
+    {
+      "id": "technique",
+      "label_vi": "💪 Kỹ thuật & Kình lực",
+      "label_en": "💪 Technique & Internal Power"
+    },
+    {
+      "id": "forms",
+      "label_vi": "🌊 Quyền thức & Ứng dụng",
+      "label_en": "🌊 Forms & Applications"
+    },
+    {
+      "id": "training",
+      "label_vi": "🧘 Luyện tập & Bài tập",
+      "label_en": "🧘 Training & Drills"
+    },
+    {
+      "id": "health",
+      "label_vi": "🌿 Sức khỏe & Trường thọ",
+      "label_en": "🌿 Health & Longevity"
+    },
+    {
+      "id": "tennis",
+      "label_vi": "🎾 Ứng dụng Tennis",
+      "label_en": "🎾 Tennis Applications"
+    }
+  ]
+}
