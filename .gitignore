@@ -39,3 +39,7 @@ drafts/
 # Build script (kept locally; not needed in the live repo)
 build_taichi_sites.py
 expand_articles.py
+
+# Secrets - never commit
+github-token.txt
+*.token
