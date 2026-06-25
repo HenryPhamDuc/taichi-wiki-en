@@ -60,6 +60,12 @@ theme:
 
 extra_css:
   - assets/taichi-extra.css
+  - assets/graph-component.css
+
+# Extra JS for graph view
+extra_javascript:
+  - assets/d3.v7.min.js
+  - assets/graph-component.js
 
 # Plugins
 plugins:
