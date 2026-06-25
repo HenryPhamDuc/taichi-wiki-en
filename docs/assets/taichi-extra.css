@@ -60,3 +60,23 @@ img.missing-image {
     color: #2e7d32 !important;
     font-weight: 600;
 }
+
+/* Language switcher banner */
+.language-switcher {
+    background: linear-gradient(135deg, rgba(46, 125, 50, 0.08), rgba(0, 150, 136, 0.08));
+    border-left: 4px solid #2e7d32;
+    padding: 12px 16px;
+    margin: 16px 0 24px 0;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.language-switcher a {
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0 4px;
+}
+
+.language-switcher a:hover {
+    text-decoration: underline;
+}

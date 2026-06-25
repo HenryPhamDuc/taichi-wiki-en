@@ -58,6 +58,9 @@ theme:
     repo: fontawesome/brands/github
     logo: material/yin-yang
 
+extra_css:
+  - assets/taichi-extra.css
+
 # Plugins
 plugins:
   - search:
