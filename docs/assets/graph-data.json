@@ -351,13 +351,6 @@
       "description": "---\ntitle: Tượng Hình — Mấu chốt của việc luyện quyền\ncluster: technique\nlanguage: en\ntags: [taichi, technique, internal-power]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thu"
     },
     {
-      "id": "forms/chuong-17-chi-tiet-24",
-      "name": "Mô hình toán học Split Step Thái Cực",
-      "cluster": "forms",
-      "url": "forms/chuong-17-chi-tiet-24/",
-      "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
-    },
-    {
       "id": "forms/chuong-4-24-thuc",
       "name": "Mô hình toán học Split Step Thái Cực",
       "cluster": "forms",
@@ -1225,7 +1218,6 @@
     "essentials/the-taichi-vow-loi-the-thai-cuc",
     "essentials/troi-dat-bat-nhan",
     "essentials/tu-oai-nghi",
-    "forms/chuong-17-chi-tiet-24",
     "forms/chuong-4-24-thuc",
     "foundations/phan-1-triet-ly",
     "health/chuong-10-tuoi-tho",
