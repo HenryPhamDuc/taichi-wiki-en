@@ -341,16 +341,34 @@
           link.attr('stroke-opacity', 0.3).attr('stroke', '#999');
         });
 
-      // Labels only on high-degree or center nodes
-      const labelData = visibleNodes.filter(n => (n.degree || 0) >= 4 || n.id === centerId);
+      // Compute degree from edges (graph-data.json doesn't include degree field)
+      const degreeMap = new Map();
+      visibleEdges.forEach(e => {
+        const sId = typeof e.source === 'object' ? e.source.id : e.source;
+        const tId = typeof e.target === 'object' ? e.target.id : e.target;
+        degreeMap.set(sId, (degreeMap.get(sId) || 0) + 1);
+        degreeMap.set(tId, (degreeMap.get(tId) || 0) + 1);
+      });
+      visibleNodes.forEach(n => { n.degree = degreeMap.get(n.id) || 0; });
+
+      // Labels on all connected nodes + center node
+      const labelData = visibleNodes.filter(n => n.degree >= 1 || n.id === centerId || n._isCenter);
       const label = root.append('g').attr('class', 'labels')
         .selectAll('text').data(labelData).enter().append('text')
-        .text(d => d.name.length > 28 ? d.name.slice(0, 26) + '…' : d.name)
-        .attr('font-size', 9)
-        .attr('dx', 12)
+        .text(d => {
+          const max = 22;
+          return d.name.length > max ? d.name.slice(0, max - 1) + '…' : d.name;
+        })
+        .attr('font-size', 14)
+        .attr('font-weight', 600)
+        .attr('dx', 14)
         .attr('dy', 4)
-        .attr('fill', '#444')
-        .style('pointer-events', 'none');
+        .attr('fill', '#1a1a1a')
+        .attr('stroke', '#ffffff')
+        .attr('stroke-width', 3)
+        .attr('paint-order', 'stroke')
+        .style('pointer-events', 'none')
+        .style('font-family', '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif');
 
       simulation = d3.forceSimulation(visibleNodes)
         .force('link', d3.forceLink(visibleEdges).id(d => d.id).distance(80))
