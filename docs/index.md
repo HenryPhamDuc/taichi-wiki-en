@@ -7,9 +7,7 @@
 🌐 **[🇬🇧 English](https://henryphamduc.github.io/taichi-wiki-en/)** (you are here) · **[🇻🇳 Tiếng Việt](https://henryphamduc.github.io/taichi-wiki/)** · **[🇬🇧🇻🇳 Bilingual Vault / Kho Song ngữ](https://henryphamduc.github.io/taichi/)**
 </div>
 
-> 🧘 **[Henry's Taichi Practice Vault](https://henryphamduc.github.io/taichi/)** — Curated bilingual resource library
->
-> 🎾 **[Tennis Wiki](https://henryphamduc.github.io/tennis-wiki-en/)** — Companion English tennis wiki
+> 🧘 **[Henry's Taichi Practice Vault / Kho Thái Cực của Henry](https://henryphamduc.github.io/taichi/)** — Curated bilingual resource library / Thư viện song ngữ
 
 Curated by **Henry Phạm** from the Taichi Knowledge Vault, the Taichi Wiki Project, and the Taichi-QiGong-Taoism library. This site is the English counterpart to the Vietnamese Taichi Wiki.
 
