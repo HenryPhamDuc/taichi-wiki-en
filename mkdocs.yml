@@ -154,14 +154,16 @@ nav:
       - 🏁 END OF MANUAL / HẾT CẨM NANG: essentials/end-of-manual-het-cam-nang.md
   - 🏥 Health & Dưỡng Sinh:
       - Overview: health/index.md
-      - Seven Declines of Aging: health/seven-declines.md
-      - Qigong Healing — Overview: health/qigong-healing.md
-      - Longevity Science: health/longevity-science.md
-      - Scientific Research on Tai Chi: health/scientific-research-tai-chi.md
-      - Sleep and Tai Chi: health/sleep-and-tai-chi.md
-      - Immune System and Tai Chi: health/immune-system-tai-chi.md
-      - Balance — core of dưỡng sinh: health/balance.md
-
+      - 🌱 Foundations & Science:
+          - Qigong Healing — Overview: health/qigong-healing.md
+          - Longevity Science: health/longevity-science.md
+          - Scientific Research on Tai Chi: health/scientific-research-tai-chi.md
+      - 📉 Decline & Aging:
+          - Seven Declines of Aging: health/seven-declines.md
+          - Balance — core of dưỡng sinh: health/balance.md
+          - Sleep and Tai Chi: health/sleep-and-tai-chi.md
+      - 💊 Conditions & Prevention:
+          - Immune System and Tai Chi: health/immune-system-tai-chi.md
   - 💪 Technique & Internal Power:
       - Overview: technique/index.md
       - Jin Li — Internal Power: technique/jin-li-internal-power.md
