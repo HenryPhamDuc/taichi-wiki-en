@@ -1030,13 +1030,6 @@
       "description": "---\ntitle: Kỹ thuật tennis cần Thái Cực Quyền\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - P"
     },
     {
-      "id": "health/10-yeu-quyet-duoc-giai-ma-bang-vat-ly-luong-tu",
-      "name": "2.4. 10 YẾU QUYẾT ĐƯỢC GIẢI MÃ BẰNG VẬT LÝ LƯỢNG TỬ",
-      "cluster": "health",
-      "url": "health/10-yeu-quyet-duoc-giai-ma-bang-vat-ly-luong-tu/",
-      "description": "**Nghiên cứu đột phá** từ Viện Vật lý Lượng tử Quốc tế: **1. \"Hư linh đỉnh kình\"** - Hiệu ứng siêu dẫn trong cơ thể: Electron di chuyển không điện trở dọc cột sống **2. \"Hàm hung bạt bối\"** - Nguyên lý siêu lỏng: Năng lượng chảy không ma sát qua ngực"
-    },
-    {
       "id": "health/cai-thien-footwork-bo-chan-qua-nguyen-ly-hu-thuc",
       "name": "3.2. CẢI THIỆN FOOTWORK (BỘ CHÂN) QUA NGUYÊN LÝ \"HƯ - THỰC\"",
       "cluster": "health",
@@ -1058,13 +1051,6 @@
       "description": "Hệ tim mạch được ví như mạng lưới giao thông huyết mạch của cơ thể. Khi chúng ta già đi, hoặc dưới áp lực của lối sống hiện đại và cường độ thi đấu thể thao cao, \"mạng lưới\" này bắt đầu xuất hiện những dấu hiệu hư hỏng: thành mạch bị xơ cứng, huyết á"
     },
     {
-      "id": "health/cong-nghe-ai-phan-tich-yeu-quyet",
-      "name": "2.5. CÔNG NGHỆ AI PHÂN TÍCH YẾU QUYẾT",
-      "cluster": "health",
-      "url": "health/cong-nghe-ai-phan-tich-yeu-quyet/",
-      "description": "**Hệ thống TaiChi-AI** của Google DeepMind (2025): - Phân tích 10.000 giờ video các đại sư - Nhận diện 137 biến thể vi thể của mỗi yếu quyết - Đưa ra feedback chính xác đến từng milimet **Kết quả**: Học viên đạt trình độ 3 năm chỉ sau 3 tháng tập luy"
-    },
-    {
       "id": "health/di-san-unesco-bao-ton-bang-cong-nghe-blockchain",
       "name": "1.4. DI SẢN UNESCO: BẢO TỒN BẰNG CÔNG NGHỆ BLOCKCHAIN",
       "cluster": "health",
@@ -1072,46 +1058,11 @@
       "description": "**Dự án Blockchain của UNESCO** (2024) lưu trữ toàn bộ tri thức Thái Cực Quyền trên nền tảng phi tập trung: - Ghi lại mọi biến thể động tác của các đại sư - Tạo \"DNA kỹ thuật số\" cho từng dòng phái - Bảo đảm truyền thừa nguyên bản qua các thế hệ"
     },
     {
-      "id": "health/footwork-va-di-chuyen-cach-mang-tu-thai-cuc-quyen-2",
-      "name": "3.2. FOOTWORK VÀ DI CHUYỂN: CÁCH MẠNG TỪ THÁI CỰC QUYỀN",
-      "cluster": "health",
-      "url": "health/footwork-va-di-chuyen-cach-mang-tu-thai-cuc-quyen-2/",
-      "description": "#### **3.2.1. Phân tích động lực học hiện đại** **Hệ thống Force Plate Analysis** tại Viện Thể thao Pháp đã tiết lộ những phát hiện đáng kinh ngạc về kỹ thuật \"Split Step\" theo nguyên lý Thái Cực Quyền. Khi vận động viên áp dụng nguyên lý \"Trầm kiên "
-    },
-    {
-      "id": "health/footwork-va-di-chuyen-cach-mang-tu-thai-cuc-quyen",
-      "name": "3.2. FOOTWORK VÀ DI CHUYỂN: CÁCH MẠNG TỪ THÁI CỰC QUYỀN",
-      "cluster": "health",
-      "url": "health/footwork-va-di-chuyen-cach-mang-tu-thai-cuc-quyen/",
-      "description": "#### **3.2.1. Phân tích động lực học hiện đại** **Hệ thống Force Plate Analysis** tại Viện Thể thao Pháp: **Phát hiện về \"Split Step\" Thái Cực:** - Thời gian tiếp đất: **0.12s** (so với 0.28s thông thường) - Lực phản hồi: **Tăng 42%** hiệu suất - Tiê"
-    },
-    {
-      "id": "health/giai-doan-3-hieu-dinh-va-xuat-ban-2-thang",
-      "name": "Giai đoạn 3: Hiệu đính và xuất bản (2 tháng)",
-      "cluster": "health",
-      "url": "health/giai-doan-3-hieu-dinh-va-xuat-ban-2-thang/",
-      "description": "- Hiệu đính chuyên môn - Thiết kế và trình bày - Xuất bản và phát hành Bạn có muốn tôi bắt đầu viết chi tiết cho bất kỳ chương cụ thể nào không? Tôi có thể cung cấp nội dung chi tiết cho từng chương dựa trên nghiên cứu khoa học mới nhất. Tuyệt vời! T"
-    },
-    {
       "id": "health/hu-linh-dinh-kinh-cong-nghe-cam-bien-sinh-hoc",
       "name": "2.2. \"HƯ LINH ĐĨNH KÌNH\" - CÔNG NGHỆ CẢM BIẾN SINH HỌC",
       "cluster": "health",
       "url": "health/hu-linh-dinh-kinh-cong-nghe-cam-bien-sinh-hoc/",
       "description": "**Hệ thống cảm biến mới** của MIT (2025) đo lường chính xác lực dọc trục cột sống: **Kết quả**: Người tập Thái Cực Quyền có **áp lực đĩa đệm giảm 73%** so với người đứng thông thường nhờ kỹ thuật \"đỉnh kình\" **Công nghệ wearable**: Thiết bị đeo thông"
-    },
-    {
-      "id": "health/ket-luan-thai-cuc-quyen-bo-mon-cua-tuong-lai",
-      "name": "1.7. KẾT LUẬN: THÁI CỰC QUYỀN - BỘ MÔN CỦA TƯƠNG LAI",
-      "cluster": "health",
-      "url": "health/ket-luan-thai-cuc-quyen-bo-mon-cua-tuong-lai/",
-      "description": "Những khám phá mới cho thấy Thái Cực Quyền không chỉ là võ thuật cổ truyền, mà là **hệ điều hành cho sự phát triển toàn diện** của con người trong thế kỷ 21, kết nối cổ xưa với tương lai, Đông phương với Tây phương, con người với công nghệ. --- **Bạn"
-    },
-    {
-      "id": "health/ket-luan-tu-nghe-thuat-den-khoa-hoc-dinh-cao",
-      "name": "2.10. KẾT LUẬN: TỪ NGHỆ THUẬT ĐẾN KHOA HỌC ĐỈNH CAO",
-      "cluster": "health",
-      "url": "health/ket-luan-tu-nghe-thuat-den-khoa-hoc-dinh-cao/",
-      "description": "10 yếu quyết Thái Cực Quyền không còn là triết lý trừu tượng, mà đã trở thành **nguyên lý khoa học có thể đo lường, ứng dụng** trong đa lĩnh vực từ y học đến công nghệ không gian. > *\"Thái Cực Quyền chính là ngôn ngữ lập trình tự nhiên cho cơ thể con"
     },
     {
       "id": "health/khai-thac-suc-manh-tu-chuoi-dong-luc-kinetic-chain",
@@ -1128,27 +1079,6 @@
       "description": "Tennis là môn thể thao gây áp lực tâm lý cực lớn. Sự căng thẳng khiến cơ bắp co cứng, làm giảm độ chính xác và gây ra những lỗi ngớ ngẩn (unforced errors). #### **3.4.1. Kỹ thuật thở bụng để hạ nhiệt tâm lý** Khi thay đổi sân hoặc trong thời gian ngh"
     },
     {
-      "id": "health/ky-thuat-forehand-cach-mang-co-hoc-luong-tu-2",
-      "name": "3.3. KỸ THUẬT FOREHAND: CÁCH MẠNG CƠ HỌC LƯỢNG TỬ",
-      "cluster": "health",
-      "url": "health/ky-thuat-forehand-cach-mang-co-hoc-luong-tu-2/",
-      "description": "#### **3.3.1. Phân tích 3D động lực học toàn diện** **Hệ thống Hawk-Eye nâng cấp** với độ chính xác 0.01mm đã phân tích hơn 100.000 cú forehand từ các vận động viên áp dụng nguyên lý Thái Cực Quyền. Kết quả cho thấy tốc độ vợt tăng 22% với cùng một l"
-    },
-    {
-      "id": "health/ky-thuat-forehand-cach-mang-co-hoc-luong-tu",
-      "name": "3.3. KỸ THUẬT FOREHAND: CÁCH MẠNG CƠ HỌC LƯỢNG TỬ",
-      "cluster": "health",
-      "url": "health/ky-thuat-forehand-cach-mang-co-hoc-luong-tu/",
-      "description": "#### **3.3.1. Phân tích 3D động lực học** **Hệ thống Hawk-Eye nâng cấp** với độ chính xác 0.01mm: **Phát hiện về cú forehand Thái Cực:** - Tốc độ vợt: **Tăng 22%** với cùng lực đánh - Độ xoáy: **Tăng 47%** (2700-3200 RPM) - Độ chính xác: **±2cm** (so"
-    },
-    {
-      "id": "health/lich-tap-luyen-thuc-te-cho-nguoi-ban-ron",
-      "name": "4.5. LỊCH TẬP LUYỆN THỰC TẾ CHO NGƯỜI BẬN RỘN",
-      "cluster": "health",
-      "url": "health/lich-tap-luyen-thuc-te-cho-nguoi-ban-ron/",
-      "description": "Thay vì ép bản thân tập 1 tiếng mỗi ngày, hãy áp dụng phương pháp **\"Chia nhỏ và Lặp lại\"**: - **Sáng (15 phút):** Tập 2-3 thức đầu tiên để đánh thức cơ thể và khởi động khớp. - **Trưa (5 phút):** Thực hiện một vài động tác xoay hông và thở bụng để g"
-    },
-    {
       "id": "health/lo-trinh-hoc-cho-nguoi-moi-bat-dau-tu-con-so-0-den-su-thanh-thuc",
       "name": "CHƯƠNG 8: LỘ TRÌNH HỌC CHO NGƯỜI MỚI BẮT ĐẦU - TỪ CON SỐ 0 ĐẾN SỰ THÀNH THỤC",
       "cluster": "health",
@@ -1161,20 +1091,6 @@
       "cluster": "health",
       "url": "health/lo-trinh-huyen-luyen-cho-nguoi-moi-so-do-3-giai-doan/",
       "description": "Để đạt hiệu quả thực tế, người tập không nên cố gắng học thuộc lòng 24 thức ngay lập tức, mà nên đi theo lộ trình sau: **Giai đoạn 1: Luyện Hình (Tuần 1-4) - Tập trung vào Tư thế** - Mục tiêu: Tập cho đúng tư thế đứng, cách đặt bàn chân và độ cao của"
-    },
-    {
-      "id": "health/nen-tang-khoa-hoc-tu-san-tap-den-phong-thi-nghiem-2",
-      "name": "3.1. NỀN TẢNG KHOA HỌC: TỪ SÂN TẬP ĐẾN PHÒNG THÍ NGHIỆM",
-      "cluster": "health",
-      "url": "health/nen-tang-khoa-hoc-tu-san-tap-den-phong-thi-nghiem-2/",
-      "description": "#### **3.1.1. Nghiên cứu đa trung tâm 2024-2025** **Dự án TaiChi-Tennis Research Consortium** được thực hiện với quy mô chưa từng có, kết hợp giữa 8 trường đại học thể thao hàng đầu thế giới, 12 câu lạc bộ tennis chuyên nghiệp và 500 vận động viên từ"
-    },
-    {
-      "id": "health/nen-tang-khoa-hoc-tu-san-tap-den-phong-thi-nghiem",
-      "name": "3.1. NỀN TẢNG KHOA HỌC: TỪ SÂN TẬP ĐẾN PHÒNG THÍ NGHIỆM",
-      "cluster": "health",
-      "url": "health/nen-tang-khoa-hoc-tu-san-tap-den-phong-thi-nghiem/",
-      "description": "#### **3.1.1. Nghiên cứu đa trung tâm 2024-2025** **Dự án TaiChi-Tennis Research Consortium** với sự tham gia của: - 8 trường đại học thể thao hàng đầu - 12 CLB tennis chuyên nghiệp - 500 VĐV từ trình độ nghiệp dư đến ATP/WTA **Phương pháp nghiên cứu"
     },
     {
       "id": "health/nen-tang-thai-cuc-quyen-chuong-1-8",
@@ -1198,32 +1114,11 @@
       "description": "Chương 36: Tổng quan nghiên cứu khoa học * Các nghiên cứu tiêu biểu * Phương pháp nghiên cứu * Kết quả nổi bật Chương 37: Ứng dụng trong y học hiện đại * Kết hợp với Tây y * Trong phục hồi chức năng * Xu hướng tương lai Chương 38: Thái Cực Quyền và c"
     },
     {
-      "id": "health/nghien-cuu-ve-khi-duoi-goc-nhin-vat-ly",
-      "name": "2.7. NGHIÊN CỨU VỀ \"KHÍ\" DƯỚI GÓC NHÌN VẬT LÝ",
-      "cluster": "health",
-      "url": "health/nghien-cuu-ve-khi-duoi-goc-nhin-vat-ly/",
-      "description": "**Thí nghiệm tại CERN** (2025) phát hiện: - \"Khí\" trong Thái Cực Quyền có thể là **trường năng lượng lượng tử** - Tương tác với **trường Higgs** - trường tạo ra khối lượng - Giải thích hiện tượng \"phát khí\" mà không cần co cơ"
-    },
-    {
       "id": "health/nghien-cuu-ve-y-va-y-thuc-luong-tu",
       "name": "2.9. NGHIÊN CỨU VỀ \"Ý\" VÀ Ý THỨC LƯỢNG TỬ",
       "cluster": "health",
       "url": "health/nghien-cuu-ve-y-va-y-thuc-luong-tu/",
       "description": "**Thí nghiệm double-slit** phiên bản Thái Cực Quyền: - \"Ý\" của người tập ảnh hưởng đến kết quả thí nghiệm lượng tử - Chứng minh **tương tác ý thức-vật chất** ở cấp độ lượng tử - Mở ra lĩnh vực **vật lý ý thức** mới"
-    },
-    {
-      "id": "health/nguon-goc-tai-dinh-nghia-tu-khao-co-hoc-den-di-truyen-hoc",
-      "name": "1.1. NGUỒN GỐC TÁI ĐỊNH NGHĨA: TỪ KHẢO CỔ HỌC ĐẾN DI TRUYỀN HỌC",
-      "cluster": "health",
-      "url": "health/nguon-goc-tai-dinh-nghia-tu-khao-co-hoc-den-di-truyen-hoc/",
-      "description": "**Phát hiện khảo cổ mới năm 2023** tại Hà Nam, Trung Quốc đã làm thay đổi hoàn toàn hiểu biết về nguồn gốc Thái Cực Quyền. Các bản chữ tượng hình trên phiến đá cổ 2200 năm tuổi mô tả các động tác tương tự Thái Cực Quyền hiện đại, chứng minh môn võ nà"
-    },
-    {
-      "id": "health/nguyen-ly-dung-y-bat-dung-luc-khoa-hoc-than-kinh-ung-dung",
-      "name": "2.1. NGUYÊN LÝ \"DỤNG Ý BẤT DỤNG LỰC\" - KHOA HỌC THẦN KINH ỨNG DỤNG",
-      "cluster": "health",
-      "url": "health/nguyen-ly-dung-y-bat-dung-luc-khoa-hoc-than-kinh-ung-dung/",
-      "description": "**Nghiên cứu đột phá 2024** tại Đại học Stanford sử dụng fMRI và EEG để phân tích não bộ của các võ sư Thái Cực Quyền: **Phát hiện gây sốc**: Khi thực hiện động tác \"dụng ý bất dụng lực\", **vỏ não vận động giảm hoạt động 62%** trong khi **tiểu não và"
     },
     {
       "id": "health/nhung-sai-lam-pho-bien-va-cach-khac-phuc-thuc-te",
@@ -1450,25 +1345,11 @@
       "description": "Thái Cực Quyền không thay thế chức năng lọc của thận, nhưng nó hoạt động như một **\"hệ thống bơm phụ\"** giúp cơ thể vận chuyển chất lỏng từ những vùng bị phù nề trở về tuần hoàn trung tâm để thận (hoặc máy lọc thận) xử lý. #### **2.1. Kích hoạt bơm c"
     },
     {
-      "id": "health/phan-2-co-che-hap-thu-duong-trong-thai-cuc-quyen-suc-manh-cua-su-cham-rai",
-      "name": "PHẦN 2: CƠ CHẾ HẤP THU ĐƯỜNG TRONG THÁI CỰC QUYỀN - SỨC MẠNH CỦA SỰ CHẬM RÃI",
-      "cluster": "health",
-      "url": "health/phan-2-co-che-hap-thu-duong-trong-thai-cuc-quyen-suc-manh-cua-su-cham-rai/",
-      "description": "Thái Cực Quyền không làm bạn đổ mồ hôi đầm đìa như chạy bộ, nhưng nó tác động lên chuyển hóa theo một cách tinh vi và bền vững hơn. #### **2.1. Kích hoạt GLUT4 thông qua vận động cơ bắp liên tục (Sustained Muscle Contraction)** Khác với gym (tập theo"
-    },
-    {
       "id": "health/phan-2-co-che-ho-tro-tim-mach-cua-thai-cuc-quyen-chiec-bom-phu-cho-trai-tim",
       "name": "PHẦN 2: CƠ CHẾ HỖ TRỢ TIM MẠCH CỦA THÁI CỰC QUYỀN - \"CHIẾC BƠM PHỤ\" CHO TRÁI TIM",
       "cluster": "health",
       "url": "health/phan-2-co-che-ho-tro-tim-mach-cua-thai-cuc-quyen-chiec-bom-phu-cho-trai-tim/",
       "description": "Khi trái tim không còn đủ sức bơm máu hiệu quả, cơ thể cần những cơ chế hỗ trợ để đưa máu từ chi dưới trở về tim. Thái Cực Quyền tác động vào hệ thống này thông qua ba cơ chế sinh lý chính. #### **2.1. Kích hoạt \"Bơm cơ\" (The Skeletal Muscle Pump)** "
-    },
-    {
-      "id": "health/phan-2-co-che-kich-hoat-gan-cua-thai-cuc-quyen-van-dong-de-thanh-loc",
-      "name": "PHẦN 2: CƠ CHẾ \"KÍCH HOẠT\" GAN CỦA THÁI CỰC QUYỀN - VẬN ĐỘNG ĐỂ THANH LỌC",
-      "cluster": "health",
-      "url": "health/phan-2-co-che-kich-hoat-gan-cua-thai-cuc-quyen-van-dong-de-thanh-loc/",
-      "description": "Thái Cực Quyền không tác động trực tiếp vào các tế bào gan, nhưng nó tạo ra một môi trường sinh lý tối ưu để gan tự phục hồi và hoạt động hiệu quả hơn thông qua ba cơ chế chính. #### **2.1. Massage nội tạng thông qua chuyển động xoắn ốc (Spiral Torsi"
     },
     {
       "id": "health/phan-2-co-che-massage-noi-tang-thong-qua-van-dong-xoay-va-hoi-tho",
@@ -1518,13 +1399,6 @@
       "cluster": "health",
       "url": "health/phan-2-kiem-soat-huyet-ap-khoa-hoc-ve-su-tha-long-va-can-bang/",
       "description": "Cao huyết áp được mệnh gọi là \"kẻ giết người thầm lặng\" vì nó thường không có triệu chứng rõ rệt nhưng lại là nguyên nhân hàng đầu gây ra đột quỵ và suy tim. Thái Cực Quyền được công nhận là một trong những phương pháp không dùng thuốc hiệu quả nhất "
-    },
-    {
-      "id": "health/phan-2-liss-va-vung-dot-mo-khoa-hoc-ve-cuong-do-thap",
-      "name": "PHẦN 2: LISS VÀ \"VÙNG ĐỐT MỠ\" - KHOA HỌC VỀ CƯỜNG ĐỘ THẤP",
-      "cluster": "health",
-      "url": "health/phan-2-liss-va-vung-dot-mo-khoa-hoc-ve-cuong-do-thap/",
-      "description": "Trong thể thao, có một khái niệm gọi là **LISS (Low-Intensity Steady State)** – vận động cường độ thấp ổn định. Thái Cực Quyền chính là một hình thức LISS hoàn hảo. #### **2.1. Giải mã \"Vùng đốt mỡ\" (The Fat-Burning Zone)** Hãy nhìn vào biểu đồ nhịp "
     },
     {
       "id": "health/phan-2-luc-xoan-oc-spiral-force-va-su-phoi-hop-giua-hong-va-vai",
@@ -1772,13 +1646,6 @@
       "description": "#### 3.3. Vai trò của thư giãn cổ tay (Wrist Lag) trong Serve Trong cú giao bóng, cổ tay chính là \"khẩu pháo\" cuối cùng. Thái Cực Quyền dạy chúng ta rằng: \"Muốn bắn xa, hãy kéo cung hết mức trước khi thả dây\". * Sự trễ (Lag): Khi cánh tay vung lên ca"
     },
     {
-      "id": "health/phan-3-ung-dung-cu-the-cho-benh-gan-nhiem-mo-nafldnash",
-      "name": "PHẦN 3: ỨNG DỤNG CỤ THỂ CHO BỆNH GAN NHIỄM MỠ (NAFLD/NASH)",
-      "cluster": "health",
-      "url": "health/phan-3-ung-dung-cu-the-cho-benh-gan-nhiem-mo-nafldnash/",
-      "description": "Gan nhiễm mỡ không chỉ là vấn đề về cân nặng, mà là sự rối loạn trong chuyển hóa lipid. Khi các tế bào gan tích tụ quá nhiều triglyceride, chúng gây ra tình trạng viêm mạn tính, làm giảm khả năng lọc độc của gan và nếu không điều trị sẽ dẫn đến xơ ga"
-    },
-    {
       "id": "health/phan-3-ung-dung-cu-the-cho-hoi-chung-ruot-kich-thich-irritable-bowel-syndrome-ib",
       "name": "PHẦN 3: ỨNG DỤNG CỤ THỂ CHO HỘI CHỨNG RUỘT KÍCH THÍCH (IRRITABLE BOWEL SYNDROME - IBS)",
       "cluster": "health",
@@ -1903,13 +1770,6 @@
       "cluster": "health",
       "url": "health/phan-4-quan-ly-cam-xuc-trong-cac-tinh-huong-dac-biet/",
       "description": "Mỗi tình huống trong tennis đều có những thách thức tâm lý riêng. Thái Cực Quyền cung cấp \"công thức\" quản lý cảm xúc cho từng tình huống cụ thể. #### 4.1. Xử lý Break-point (Điểm Bẻ giao bóng) Break-point là tình huống áp lực cao nhất trong một game"
-    },
-    {
-      "id": "health/phan-4-quan-ly-can-nang-va-mo-noi-tang-thong-qua-thai-cuc-quyen",
-      "name": "PHẦN 4: QUẢN LÝ CÂN NĂNG VÀ MỠ NỘI TẠNG THÔNG QUA THÁI CỰC QUYỀN",
-      "cluster": "health",
-      "url": "health/phan-4-quan-ly-can-nang-va-mo-noi-tang-thong-qua-thai-cuc-quyen/",
-      "description": "Một trong những đặc điểm điển hình của bệnh tiểu đường tuýp 2 là tình trạng **béo phì trung tâm** (tập trung mỡ ở vùng bụng). Mỡ nội tạng không chỉ là những khối mỡ dư thừa, mà thực chất là một \"tuyến nội tiết\" độc hại. Nó tiết ra các chất gây viêm ("
     },
     {
       "id": "health/phan-4-quan-ly-phu-ne-va-tich-tu-dich-thong-qua-van-dong-thai-cuc",
@@ -2409,13 +2269,6 @@
       "description": "Để người học không bị choáng ngợp bởi 24 động tác, chúng ta chia bài tập thành 4 nhóm vận động chính: #### **Nhóm 1: Khai thức và Chuẩn bị (Sự tĩnh lặng trong vận động)** Các động tác mở đầu tập trung vào việc **đánh thức cơ thể**. - **Kỹ thuật:** Đứ"
     },
     {
-      "id": "health/phong-ngua-chan-thuong-va-phuc-hoi",
-      "name": "3.5. PHÒNG NGỪA CHẤN THƯƠNG VÀ PHỤC HỒI",
-      "cluster": "health",
-      "url": "health/phong-ngua-chan-thuong-va-phuc-hoi/",
-      "description": "Tennis gây áp lực rất lớn lên cổ tay, khuỷu tay (Tennis Elbow) và lưng dưới. - **Thả lỏng khớp (Song):** TCQ tập trung vào việc \"Song\" (thả lỏng). Việc thực hiện các bài tập xoay khớp nhẹ nhàng theo phong cách TCQ sau trận đấu giúp giải phóng các điể"
-    },
-    {
       "id": "health/su-tuong-dong-giua-triet-ly-thai-cuc-va-dieu-kien-thi-dau-tennis",
       "name": "3.1. SỰ TƯƠNG ĐỒNG GIỮA TRIẾT LÝ THÁI CỰC VÀ ĐIỀU KIỆN THI ĐẤU TENNIS",
       "cluster": "health",
@@ -2437,20 +2290,6 @@
       "description": "**Công nghệ mới từ MIT** (2025) tái tạo Thái Cực Đồ dưới dạng mô hình 3D tương tác, cho phép người tập: - Nhìn thấy dòng năng lượng (khí) chảy trong cơ thể - Theo dõi sự chuyển hóa Âm-Dương theo thời gian thực - Tối ưu hóa góc độ và biên độ động tác "
     },
     {
-      "id": "health/thai-cuc-quyen-24-thuc-nen-tang-van-dong-cho-nguoi-moi-bat-dau",
-      "name": "CHƯƠNG 4: THÁI CỰC QUYỀN 24 THỨC - NỀN TẢNG VẬN ĐỘNG CHO NGƯỜI MỚI BẮT ĐẦU",
-      "cluster": "health",
-      "url": "health/thai-cuc-quyen-24-thuc-nen-tang-van-dong-cho-nguoi-moi-bat-dau/",
-      "description": "Bài 24 thức (thường gọi là Thái Cực Quyền giản hóa) không đơn thuần là một bài tập dưỡng sinh, mà là một hệ thống **huấn luyện khả năng thăng bằng và phối hợp vận động**. Đối với người mới bắt đầu, đặc biệt là những người chơi thể thao như tennis hay"
-    },
-    {
-      "id": "health/thai-cuc-quyen-trong-khong-gian-vu-tru",
-      "name": "1.5. THÁI CỰC QUYỀN TRONG KHÔNG GIAN VŨ TRỤ",
-      "cluster": "health",
-      "url": "health/thai-cuc-quyen-trong-khong-gian-vu-tru/",
-      "description": "**Nghiên cứu của NASA** (2024) trên trạm không gian ISS: - Phi hành gia tập Thái Cực Quyền để chống lại hiện tượng **loãng xương không trọng lực** - Cải thiện **orientation** trong môi trường 3D - Ứng dụng cho các sứ mệnh Sao Hỏa tương lai **Kết quả*"
-    },
-    {
       "id": "health/tong-ket-chuong-5",
       "name": "TỔNG KẾT CHƯƠNG 5",
       "cluster": "health",
@@ -2463,27 +2302,6 @@
       "cluster": "health",
       "url": "health/tong-ket-chuong-8/",
       "description": "Lộ trình một năm cho người mới bắt đầu là một hành trình đi từ **\"Hình\" $\\rightarrow$ \"Khí\" $\\rightarrow$ \"Ý\"**. - **3 tháng đầu:** Xây dựng nền móng (Tư thế, Hơi thở, Bộ pháp). - **3 tháng tiếp theo:** Xây dựng khung (Bài quyền, Sự liên hoàn, Chấn t"
-    },
-    {
-      "id": "health/triet-ly-dung-y-bat-dung-luc-trong-tri-tue-nhan-tao",
-      "name": "1.6. TRIẾT LÝ \"DỤNG Ý BẤT DỤNG LỰC\" TRONG TRÍ TUỆ NHÂN TẠO",
-      "cluster": "health",
-      "url": "health/triet-ly-dung-y-bat-dung-luc-trong-tri-tue-nhan-tao/",
-      "description": "**Google DeepMind** (2025) ứng dụng nguyên lý này vào thuật toán AI: - AI học \"buông lỏng\" không ép buộc giải pháp - Tối ưu hóa năng lượng tính toán - Đạt hiệu suất cao hơn 40% với năng lượng thấp hơn 60% > *\"Thái Cực Quyền dạy chúng ta cách đạt nhiề"
-    },
-    {
-      "id": "health/triet-ly-vo-cuc-nhi-thai-cuc-ung-dung-trong-vat-ly-luong-tu",
-      "name": "1.2. TRIẾT LÝ \"VÔ CỰC NHI THÁI CỰC\" ỨNG DỤNG TRONG VẬT LÝ LƯỢNG TỬ",
-      "cluster": "health",
-      "url": "health/triet-ly-vo-cuc-nhi-thai-cuc-ung-dung-trong-vat-ly-luong-tu/",
-      "description": "**Đột phá từ Viện Vật lý Lượng tử Max Planck** (Đức, 2024) cho thấy nguyên lý \"Vô Cực nhi Thái Cực\" tương đồng kỳ lạ với thuyết **Superposition** trong cơ học lượng tử: > *\"Trạng thái Vô Cực giống như hạt lượng tử chưa sụp đổ hàm sóng, còn Thái Cực l"
-    },
-    {
-      "id": "health/ung-dung-thai-cuc-quyen-trong-tennis-toi-uu-hoa-van-dong-va-can-bang",
-      "name": "CHƯƠNG 3: ỨNG DỤNG THÁI CỰC QUYỀN TRONG TENNIS - TỐI ƯU HÓA VẬN ĐỘNG VÀ CÂN BẰNG",
-      "cluster": "health",
-      "url": "health/ung-dung-thai-cuc-quyen-trong-tennis-toi-uu-hoa-van-dong-va-can-bang/",
-      "description": "Trong tennis, sự khác biệt giữa một vận động viên xuất sắc và một vận động viên trung bình không chỉ nằm ở sức mạnh của cú đánh, mà nằm ở **hiệu quả của việc di chuyển và khả năng kiểm soát trọng tâm**. Thái Cực Quyền (TCQ), với triết lý về sự cân bằ"
     },
     {
       "id": "health/ung-dung-trong-benh-ly-ve-gan-va-quan-ly-giai-doc-co-the",
@@ -2582,13 +2400,6 @@
       "cluster": "health",
       "url": "health/ung-dung-trong-quan-ly-stress-man-tinh-va-hoi-chung-met-moi-man-tinh-cfs/",
       "description": "Stress không còn là một khái niệm xa lạ, nhưng \"Stress mạn tính\" là một kẻ thù thầm lặng. Khác với stress cấp tính (xảy ra tức thời và biến mất), stress mạn tính là trạng thái căng thẳng kéo dài ngày này qua ngày khác, khiến cơ thể luôn ở trong chế đ"
-    },
-    {
-      "id": "health/ung-dung-trong-robotics",
-      "name": "2.6. ỨNG DỤNG TRONG ROBOTICS",
-      "cluster": "health",
-      "url": "health/ung-dung-trong-robotics/",
-      "description": "**Robot TaiChi-R1** của Boston Dynamics (2024): - Vận hành theo 10 yếu quyết - Tiêu thụ năng lượng **giảm 240%** so với robot thông thường - Khả năng giữ thăng bằng vượt trội trong môi trường bất ổn định"
     },
     {
       "id": "health/ung-dung-trong-suc-khoe-va-y-hoc-chuong-9-18",
@@ -3114,7 +2925,6 @@
     "foundations/phan-1-triet-ly",
     "foundations/tai-chi-chuan",
     "foundations/taichi-knowledge-base",
-    "health/10-yeu-quyet-duoc-giai-ma-bang-vat-ly-luong-tu",
     "health/cai-thien-footwork-bo-chan-qua-nguyen-ly-hu-thuc",
     "health/cau-truc-va-y-nghia-cua-bai-24-thuc",
     "health/chuong-10-tuoi-tho",
@@ -3123,33 +2933,19 @@
     "health/chuong-7-dinh-duong",
     "health/chuong-9-phong-benh",
     "health/co-che-tac-dong-den-he-tim-mach-va-phong-ngua-dot-quy",
-    "health/cong-nghe-ai-phan-tich-yeu-quyet",
     "health/di-san-unesco-bao-ton-bang-cong-nghe-blockchain",
-    "health/footwork-va-di-chuyen-cach-mang-tu-thai-cuc-quyen",
-    "health/footwork-va-di-chuyen-cach-mang-tu-thai-cuc-quyen-2",
-    "health/giai-doan-3-hieu-dinh-va-xuat-ban-2-thang",
     "health/hinh-thai-nguyen-so",
     "health/hu-linh-dinh-kinh-cong-nghe-cam-bien-sinh-hoc",
     "health/huyet-u",
-    "health/ket-luan-thai-cuc-quyen-bo-mon-cua-tuong-lai",
-    "health/ket-luan-tu-nghe-thuat-den-khoa-hoc-dinh-cao",
     "health/khai-thac-suc-manh-tu-chuoi-dong-luc-kinetic-chain",
     "health/kiem-soat-tam-ly-va-nhip-tho-trong-thi-dau",
-    "health/ky-thuat-forehand-cach-mang-co-hoc-luong-tu",
-    "health/ky-thuat-forehand-cach-mang-co-hoc-luong-tu-2",
-    "health/lich-tap-luyen-thuc-te-cho-nguoi-ban-ron",
     "health/lo-trinh-hoc-cho-nguoi-moi-bat-dau-tu-con-so-0-den-su-thanh-thuc",
     "health/lo-trinh-huyen-luyen-cho-nguoi-moi-so-do-3-giai-doan",
-    "health/nen-tang-khoa-hoc-tu-san-tap-den-phong-thi-nghiem",
-    "health/nen-tang-khoa-hoc-tu-san-tap-den-phong-thi-nghiem-2",
     "health/nen-tang-thai-cuc-quyen-chuong-1-8",
     "health/nghien-cuu-khoa-hoc-va-tuong-lai-chuong-36-40",
     "health/nghien-cuu-khoa-hoc-va-tuong-laichuong-36-40",
-    "health/nghien-cuu-ve-khi-duoi-goc-nhin-vat-ly",
     "health/nghien-cuu-ve-y-va-y-thuc-luong-tu",
     "health/ngu-cam-hi",
-    "health/nguon-goc-tai-dinh-nghia-tu-khao-co-hoc-den-di-truyen-hoc",
-    "health/nguyen-ly-dung-y-bat-dung-luc-khoa-hoc-than-kinh-ung-dung",
     "health/nhung-sai-lam-pho-bien-va-cach-khac-phuc-thuc-te",
     "health/phaan-3-luc-xoan-oc-spiral-force-va-su-phoi-hop-dieu-huyet-giua-vai-va-hong",
     "health/phan-1-chuan-bi-va-thiet-lap-tu-duy-dung-dan",
@@ -3182,9 +2978,7 @@
     "health/phan-2-bien-the-cua-bam-re-trong-vi-tri-bat-luoi",
     "health/phan-2-co-che-boi-tron-khop-cua-thai-cuc-quyen-khoa-hoc-ve-chuyen-dong-xoay",
     "health/phan-2-co-che-bom-ho-tro-cua-thai-cuc-quyen-trong-quan-ly-chat-long",
-    "health/phan-2-co-che-hap-thu-duong-trong-thai-cuc-quyen-suc-manh-cua-su-cham-rai",
     "health/phan-2-co-che-ho-tro-tim-mach-cua-thai-cuc-quyen-chiec-bom-phu-cho-trai-tim",
-    "health/phan-2-co-che-kich-hoat-gan-cua-thai-cuc-quyen-van-dong-de-thanh-loc",
     "health/phan-2-co-che-massage-noi-tang-thong-qua-van-dong-xoay-va-hoi-tho",
     "health/phan-2-co-che-mo-khoa-van-dong-cua-thai-cuc-quyen",
     "health/phan-2-co-che-tai-nap-nang-luong-cua-thai-cuc-quyen",
@@ -3192,7 +2986,6 @@
     "health/phan-2-giai-phau-hoc-ve-hoi-tho-co-che-van-hanh-cua-co-may-ho-hap",
     "health/phan-2-giao-tiep-phi-ngon-ngu-ngon-ngu-tham-lang-trong-danh-doi",
     "health/phan-2-kiem-soat-huyet-ap-khoa-hoc-ve-su-tha-long-va-can-bang",
-    "health/phan-2-liss-va-vung-dot-mo-khoa-hoc-ve-cuong-do-thap",
     "health/phan-2-luc-xoan-oc-spiral-force-va-su-phoi-hop-giua-hong-va-vai",
     "health/phan-2-nguyen-ly-bam-re-tam-tri-mental-rooting-cua-thai-cuc-quyen",
     "health/phan-2-phan-tich-ngon-ngu-co-the-cua-doi-thu",
@@ -3228,7 +3021,6 @@
     "health/phan-3-suc-manh-xoay-truc-va-luc-xoan-oc-trong-backhand",
     "health/phan-3-thang-thu-hai-chuyen-trong-tam-va-bo-phap-footwork",
     "health/phan-3-tiep-theo-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot-hoan-thie",
-    "health/phan-3-ung-dung-cu-the-cho-benh-gan-nhiem-mo-nafldnash",
     "health/phan-3-ung-dung-cu-the-cho-hoi-chung-ruot-kich-thich-irritable-bowel-syndrome-ib",
     "health/phan-3-xay-dung-tam-the-chien-binh-the-warrior-mindset",
     "health/phan-4-bai-tap-hanh-phuc-warm-up-va-cool-down-voi-tcq-truocsau-khi-tap-tennis",
@@ -3247,7 +3039,6 @@
     "health/phan-4-phong-ngua-dot-quy-va-toi-uu-hoa-luu-thong-mau-nao",
     "health/phan-4-phuc-hoi-kha-nang-phoi-hop-chi-tren-va-chi-duoi",
     "health/phan-4-quan-ly-cam-xuc-trong-cac-tinh-huong-dac-biet",
-    "health/phan-4-quan-ly-can-nang-va-mo-noi-tang-thong-qua-thai-cuc-quyen",
     "health/phan-4-quan-ly-phu-ne-va-tich-tu-dich-thong-qua-van-dong-thai-cuc",
     "health/phan-4-quan-ly-trao-nguoc-da-day-thuc-quan-gerd-thong-qua-tu-the-va-hoi-tho",
     "health/phan-4-su-phoi-hop-giua-footwork-va-nhip-dieu-hoi-tho-su-dong-bo-hoan-hao",
@@ -3319,18 +3110,12 @@
     "health/phan-9-ung-dung-khi-cong-trong-dieu-tri-benh-ly-ho-hap-va-tim-mach",
     "health/phan-hu-thuc-nghien-cuu-can-bang-dong-luc-hoc",
     "health/phan-tich-chi-tiet-cac-nhom-dong-tac-co-ban",
-    "health/phong-ngua-chan-thuong-va-phuc-hoi",
     "health/su-tuong-dong-giua-triet-ly-thai-cuc-va-dieu-kien-thi-dau-tennis",
     "health/tam-thuc-va-thien-trong-luyen-tap-lam-chu-tam-tri-de-dieu-khien-co-the",
     "health/thai-cuc-do-40-mo-hinh-3d-tuong-tac-thuc-te-ao",
-    "health/thai-cuc-quyen-24-thuc-nen-tang-van-dong-cho-nguoi-moi-bat-dau",
-    "health/thai-cuc-quyen-trong-khong-gian-vu-tru",
     "health/thong-tam-quan",
     "health/tong-ket-chuong-5",
     "health/tong-ket-chuong-8",
-    "health/triet-ly-dung-y-bat-dung-luc-trong-tri-tue-nhan-tao",
-    "health/triet-ly-vo-cuc-nhi-thai-cuc-ung-dung-trong-vat-ly-luong-tu",
-    "health/ung-dung-thai-cuc-quyen-trong-tennis-toi-uu-hoa-van-dong-va-can-bang",
     "health/ung-dung-trong-benh-ly-ve-gan-va-quan-ly-giai-doc-co-the",
     "health/ung-dung-trong-benh-ly-ve-than-va-quan-ly-chat-long-co-the",
     "health/ung-dung-trong-benh-parkinson-va-phuc-hoi-chuc-nang-van-dong",
@@ -3345,7 +3130,6 @@
     "health/ung-dung-trong-quan-ly-can-nang-va-cai-thien-voc-dang",
     "health/ung-dung-trong-quan-ly-cang-thang-cho-nguoi-lam-viec-cuong-do-cao-va-doanh-nhan",
     "health/ung-dung-trong-quan-ly-stress-man-tinh-va-hoi-chung-met-moi-man-tinh-cfs",
-    "health/ung-dung-trong-robotics",
     "health/ung-dung-trong-suc-khoe-va-y-hoc-chuong-9-18",
     "health/ung-dung-trong-the-thao-tennis-chuong-19-28",
     "health/ung-dung-trong-the-thao-tennischuong-19-28",
