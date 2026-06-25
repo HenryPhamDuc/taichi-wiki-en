@@ -78,10 +78,10 @@ markdown_extensions:
       toc_depth: 3
   - pymdownx.details
   - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.highlight:
@@ -238,17 +238,6 @@ nav:
       - 📋 Chapter 8 Card — Printable / Thẻ In Được Chương 8: training/chapter-8-card-printable-the-in-duoc-chuong-8.md
       - 📋 Chapter 9 Card — Printable / Thẻ In Được Chương 9: training/chapter-9-card-printable-the-in-duoc-chuong-9.md
       - 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU: training/document-map-ban-do-tai-lieu.md
-  - 🌿 Health & Longevity:
-      - Overview: health/index.md
-      - Mô hình toán học Split Step Thái Cực: health/chuong-10-tuoi-tho.md
-      - Mô hình toán học Split Step Thái Cực: health/chuong-11-thuong-ton.md
-      - Mô hình toán học Split Step Thái Cực: health/chuong-6-the-duc.md
-      - Mô hình toán học Split Step Thái Cực: health/chuong-7-dinh-duong.md
-      - chuong-9-phong-benh: health/chuong-9-phong-benh.md
-      - hinh-thai-nguyen-so: health/hinh-thai-nguyen-so.md
-      - huyet-u: health/huyet-u.md
-      - ngu-cam-hi: health/ngu-cam-hi.md
-      - thong-tam-quan: health/thong-tam-quan.md
   - 🎾 Tennis Applications:
       - Overview: tennis/index.md
       - chuong-21-footwork: tennis/chuong-21-footwork.md
