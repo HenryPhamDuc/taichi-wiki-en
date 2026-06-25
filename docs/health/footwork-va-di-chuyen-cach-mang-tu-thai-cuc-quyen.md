@@ -16,7 +16,7 @@
 **Cơ chế khoa học:**
 
 ```python
-# Mô hình toán học Split Step Thái Cực
+
 def tai_chi_split_step(force, angle, timing):
     # Ứng dụng nguyên lý "Trầm kiên trụy châu"
     optimal_force = force * 0.618  # Tỷ lệ vàng

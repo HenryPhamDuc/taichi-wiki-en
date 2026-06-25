@@ -30,14 +30,14 @@
     },
     {
       "id": "history/chuong-18-ong-bo",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Lịch sử các bài quyền cổ điển",
       "cluster": "history",
       "url": "history/chuong-18-ong-bo/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
     },
     {
       "id": "history/chuong-3-dong-phai",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Các dòng phái chính của Thái Cực Quyền",
       "cluster": "history",
       "url": "history/chuong-3-dong-phai/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
@@ -100,28 +100,28 @@
     },
     {
       "id": "essentials/chuong-12-tinh-than",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Tinh thần và thiền định trong Thái Cực",
       "cluster": "essentials",
       "url": "essentials/chuong-12-tinh-than/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
     },
     {
       "id": "essentials/chuong-13-thien",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Thiền trong Thái Cực Quyền",
       "cluster": "essentials",
       "url": "essentials/chuong-13-thien/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
     },
     {
       "id": "essentials/chuong-2-nguyen-ly",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Nguyên lý cơ bản và 10 yếu quyết",
       "cluster": "essentials",
       "url": "essentials/chuong-2-nguyen-ly/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
     },
     {
       "id": "essentials/chuong-8-tam-ly",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Tâm lý và tinh thần trong tập luyện",
       "cluster": "essentials",
       "url": "essentials/chuong-8-tam-ly/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
@@ -352,7 +352,7 @@
     },
     {
       "id": "forms/chuong-4-24-thuc",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Thái Cực Quyền 24 thức — Nền tảng cho người mới",
       "cluster": "forms",
       "url": "forms/chuong-4-24-thuc/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
@@ -814,28 +814,28 @@
     },
     {
       "id": "training/chuong-14-bai-tap",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Các bài tập cơ bản cho người mới",
       "cluster": "training",
       "url": "training/chuong-14-bai-tap/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
     },
     {
       "id": "training/chuong-15-tho-am",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Thở đúng cách khi tập Thái Cực",
       "cluster": "training",
       "url": "training/chuong-15-tho-am/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
     },
     {
       "id": "training/chuong-16-tuan-thu",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Tuần tự tiến bộ trong luyện tập",
       "cluster": "training",
       "url": "training/chuong-16-tuan-thu/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
     },
     {
       "id": "training/chuong-5-khi-cong",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Khí công và hơi thở trong Thái Cực Quyền",
       "cluster": "training",
       "url": "training/chuong-5-khi-cong/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
@@ -870,28 +870,28 @@
     },
     {
       "id": "health/chuong-10-tuoi-tho",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Thái Cực Quyền và tuổi thọ",
       "cluster": "health",
       "url": "health/chuong-10-tuoi-tho/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
     },
     {
       "id": "health/chuong-11-thuong-ton",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Phòng ngừa thương tổn cho người lớn tuổi",
       "cluster": "health",
       "url": "health/chuong-11-thuong-ton/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
     },
     {
       "id": "health/chuong-6-the-duc",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Thể dục dưỡng sinh và vận động nhẹ nhàng",
       "cluster": "health",
       "url": "health/chuong-6-the-duc/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
     },
     {
       "id": "health/chuong-7-dinh-duong",
-      "name": "Mô hình toán học Split Step Thái Cực",
+      "name": "Dinh dưỡng cho người tập Thái Cực Quyền",
       "cluster": "health",
       "url": "health/chuong-7-dinh-duong/",
       "description": "def tai_chi_split_step(force, angle, timing):\n    # Ứng dụng nguyên lý \"Trầm kiên trụy châu\"\n    optimal_force = force * 0.618  # Tỷ lệ vàng\n    energy_return = calculate_energy_return(optimal_force, "
