@@ -1,127 +1,113 @@
 # Taichi Wiki - One-command push to GitHub Pages (PowerShell)
-# Run from this directory (taichi-wiki or taichi-wiki-en) to create repo, push, enable Pages.
-# The script will prompt for a GitHub token. Generate one at:
-#   https://github.com/settings/tokens/new
-# Required scopes: repo, workflow
+# Usage: cd to taichi-wiki or taichi-wiki-en folder, then run this script.
+# It will prompt for a GitHub Personal Access Token (scopes: repo, workflow).
+# Generate one at: https://github.com/settings/tokens/new
 
 $ErrorActionPreference = 'Stop'
-$repoName = Split-Path (Get-Location).Path -Leaf
 
-switch ($repoName) {
-    'taichi-wiki' {
-        $ghRepo = 'taichi-wiki'
-        $pagesUrl = 'https://henryPhamDuc.github.io/taichi-wiki/'
-        $desc = 'VI: Bach khoa toan thu mo ve Thai Cuc Quyen'
-    }
-    'taichi-wiki-en' {
-        $ghRepo = 'taichi-wiki-en'
-        $pagesUrl = 'https://henryPhamDuc.github.io/taichi-wiki-en/'
-        $desc = 'EN: Open encyclopedia of Tai Chi Chuan'
-    }
-    default {
-        Write-Error "Run from taichi-wiki or taichi-wiki-en folder (got: $repoName)"
-        exit 1
-    }
+$repoName = Split-Path (Get-Location).Path -Leaf
+$ghRepo = ''
+$pagesUrl = ''
+$desc = ''
+
+if ($repoName -eq 'taichi-wiki') {
+    $ghRepo = 'taichi-wiki'
+    $pagesUrl = 'https://henryPhamDuc.github.io/taichi-wiki/'
+    $desc = 'VI: Bach khoa toan thu mo ve Thai Cuc Quyen'
+} elseif ($repoName -eq 'taichi-wiki-en') {
+    $ghRepo = 'taichi-wiki-en'
+    $pagesUrl = 'https://henryPhamDuc.github.io/taichi-wiki-en/'
+    $desc = 'EN: Open encyclopedia of Tai Chi Chuan'
+} else {
+    Write-Error ("Run from taichi-wiki or taichi-wiki-en folder (got: " + $repoName + ")")
+    exit 1
 }
 
-Write-Host '================================================================' -ForegroundColor Cyan
-Write-Host "  Pushing $repoName -> github.com/HenryPhamDuc/$ghRepo" -ForegroundColor Cyan
-Write-Host "  Will deploy to: $pagesUrl" -ForegroundColor Cyan
-Write-Host '================================================================' -ForegroundColor Cyan
-
-# Get token - read to a SecureString, then convert with explicit UTF-8
 Write-Host ''
-Write-Host 'Need a GitHub Personal Access Token.' -ForegroundColor Yellow
-Write-Host 'Generate one at: https://github.com/settings/tokens/new' -ForegroundColor Yellow
-Write-Host 'Required scopes: repo, workflow' -ForegroundColor Yellow
+Write-Host '================================================================'
+Write-Host ('  Pushing ' + $repoName + ' -> github.com/HenryPhamDuc/' + $ghRepo)
+Write-Host ('  Will deploy to: ' + $pagesUrl)
+Write-Host '================================================================'
 Write-Host ''
 
+# Get token via Read-Host -AsSecureString (handles long opaque strings safely)
 $secure = Read-Host "Paste your GitHub token (ghp_...)" -AsSecureString
 $bstr = [System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($secure)
-# Use PtrToStringUni (UTF-16) since SecureString is Unicode, then strip any null terminator
 $tokenPtr = [System.Runtime.InteropServices.Marshal]::PtrToStringUni($bstr)
 $token = $tokenPtr.TrimEnd([char]0)
 [System.Runtime.InteropServices.Marshal]::ZeroFreeBSTR($bstr) | Out-Null
 
 if ($token.Length -lt 30) {
-    Write-Error "Token too short ($($token.Length) chars). Expected 40+."
+    Write-Error ("Token too short (" + $token.Length + " chars). Expected 40+.")
     exit 1
 }
-Write-Host "[+] Got token ($($token.Length) chars, starts with: $($token.Substring(0, 4)))" -ForegroundColor Green
+Write-Host ('[+] Got token (' + $token.Length + ' chars)')
+Write-Host ''
 
-# Build Authorization header from base64-encoded literal (avoids redactors)
-$b64 = 'QXV0aG9yaXphdGlv' + 'bjogdG9rZW4gJXM='
-$prefixB64 = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String($b64))
-$authHdr = $prefixB64 -replace '%s', $token
-
-$headers = @{
-    'Authorization' = $authHdr
-    'Accept' = 'application/vnd.github+json'
-}
-
-# Test the token with curl (GitHub's documented approach) to bypass any PS API quirks
-Write-Host '[+] Testing token with curl (bypasses PowerShell API)...' -ForegroundColor Yellow
-$curlOut = & curl.exe -sS -w "`nHTTP_STATUS=%{http_code}" -H "Authorization: token *** $token 2>&1
-$curlStatus = ($curlOut | Select-String -Pattern 'HTTP_STATUS=(\d+)').Matches.Groups[1].Value
-$curlBody = ($curlOut -replace 'HTTP_STATUS=\d+\s*$', '').Trim()
-Write-Host "    curl HTTP status: $curlStatus" -ForegroundColor Cyan
-if ($curlStatus -eq '200') {
-    Write-Host "    [+] Token works with curl" -ForegroundColor Green
+# Test the token with curl (most reliable method on Windows)
+Write-Host '[+] Testing token with curl...'
+$curlOut = & curl.exe -sS -w ("`nHTTP_STATUS=%{http_code}") -H ("Authorization: token " + $token) https://api.github.com/user 2>&1
+$statusMatch = $curlOut | Select-String -Pattern 'HTTP_STATUS=(\d+)'
+if ($statusMatch) {
+    $curlStatus = $statusMatch.Matches.Groups[1].Value
 } else {
-    Write-Host "    [-] Token fails with curl too: $curlStatus" -ForegroundColor Red
-    Write-Host "    Response: $curlBody" -ForegroundColor Red
+    $curlStatus = 'unknown'
+}
+Write-Host ('    HTTP ' + $curlStatus)
+
+if ($curlStatus -ne '200') {
     Write-Host ''
-    Write-Host 'The token is invalid. Common causes:' -ForegroundColor Yellow
-    Write-Host '  1. Token was copied with extra whitespace or a missing character' -ForegroundColor Yellow
-    Write-Host '  2. Token was generated but the scopes were not selected' -ForegroundColor Yellow
-    Write-Host '  3. Token was revoked or expired' -ForegroundColor Yellow
+    Write-Host 'Token is invalid. Common causes:' -ForegroundColor Yellow
+    Write-Host '  1. Token was copied with extra whitespace or a missing character'
+    Write-Host '  2. Token was generated but the scopes were not selected'
+    Write-Host '  3. Token was revoked or expired'
     Write-Host ''
-    Write-Host 'Fix: Go to https://github.com/settings/tokens/new' -ForegroundColor Yellow
-    Write-Host '  - Note: anything' -ForegroundColor Yellow
-    Write-Host '  - Expiration: No expiration or 90 days' -ForegroundColor Yellow
-    Write-Host '  - Scopes: check ONLY repo and workflow' -ForegroundColor Yellow
-    Write-Host '  - Click "Generate token" and COPY THE WHOLE THING (ghp_xxxxx...)' -ForegroundColor Yellow
+    Write-Host 'Fix: Go to https://github.com/settings/tokens/new'
+    Write-Host '  - Note: anything'
+    Write-Host '  - Expiration: 90 days or No expiration'
+    Write-Host '  - Scopes: check ONLY repo and workflow'
+    Write-Host '  - Click Generate token and COPY THE WHOLE ghp_xxxxx string'
     exit 1
 }
+Write-Host '    [OK] Token works' -ForegroundColor Green
+Write-Host ''
 
-# Create repo (idempotent)
-Write-Host '[+] Creating GitHub repo (if not exists)...' -ForegroundColor Yellow
-$body = @{name=$ghRepo; description=$desc; private=$false; auto_init=$false} | ConvertTo-Json
-try {
-    Invoke-RestMethod -Method Post -Uri "https://api.github.com/repos/HenryPhamDuc/$ghRepo" -Headers $headers -Body $body -ErrorAction Stop | Out-Null
-    Write-Host '    [+] Created' -ForegroundColor Green
-} catch {
-    $code = $_.Exception.Response.StatusCode.value__
-    if ($code -eq 422) { Write-Host '    [=] Already exists' -ForegroundColor Yellow }
-    elseif ($code -eq 401) {
-        Write-Host "    [-] 401 Unauthorized - token lacks 'repo' scope" -ForegroundColor Red
-        exit 1
-    } else { throw }
+# Build repo
+Write-Host '[+] Creating GitHub repo (if not exists)...'
+$createBody = ('{"name":"' + $ghRepo + '","description":"' + $desc + '","private":false,"auto_init":false}')
+$createOut = & curl.exe -sS -w ("`nHTTP_STATUS=%{http_code}") -X POST -H ("Authorization: token " + $token) -H "Accept: application/vnd.github+json" -H "Content-Type: application/json" -d $createBody ("https://api.github.com/repos/HenryPhamDuc/" + $ghRepo) 2>&1
+$createStatus = ($createOut | Select-String -Pattern 'HTTP_STATUS=(\d+)').Matches.Groups[1].Value
+if ($createStatus -eq '201') {
+    Write-Host '    [OK] Created' -ForegroundColor Green
+} elseif ($createStatus -eq '422') {
+    Write-Host '    [OK] Already exists' -ForegroundColor Yellow
+} else {
+    Write-Host ('    [ERR] HTTP ' + $createStatus) -ForegroundColor Red
+    exit 1
 }
 
 # Enable Pages
-Write-Host '[+] Enabling GitHub Pages (source: GitHub Actions)...' -ForegroundColor Yellow
+Write-Host '[+] Enabling GitHub Pages...'
 $pagesBody = '{"build_type":"workflow","source":{"branch":"main","path":"/"}}'
-try {
-    Invoke-RestMethod -Method Post -Uri "https://api.github.com/repos/HenryPhamDuc/$ghRepo/pages" -Headers $headers -Body $pagesBody -ErrorAction Stop | Out-Null
-    Write-Host '    [+] Pages enabled' -ForegroundColor Green
-} catch {
-    $code = $_.Exception.Response.StatusCode.value__
-    if ($code -eq 409 -or $code -eq 422) { Write-Host '    [=] Pages already enabled' -ForegroundColor Yellow }
-    else { Write-Host "    [-] HTTP $code (will configure after first push)" -ForegroundColor Yellow }
+$pagesOut = & curl.exe -sS -w ("`nHTTP_STATUS=%{http_code}") -X POST -H ("Authorization: token " + $token) -H "Accept: application/vnd.github+json" -H "Content-Type: application/json" -d $pagesBody ("https://api.github.com/repos/HenryPhamDuc/" + $ghRepo + "/pages") 2>&1
+$pagesStatus = ($pagesOut | Select-String -Pattern 'HTTP_STATUS=(\d+)').Matches.Groups[1].Value
+if ($pagesStatus -eq '201') {
+    Write-Host '    [OK] Pages enabled' -ForegroundColor Green
+} elseif ($pagesStatus -eq '409' -or $pagesStatus -eq '422') {
+    Write-Host '    [OK] Pages already enabled' -ForegroundColor Yellow
+} else {
+    Write-Host ('    [WARN] HTTP ' + $pagesStatus + ' (will retry after push)')
 }
 
 # Set remote + push
-Write-Host "[+] Setting remote to https://github.com/HenryPhamDuc/$ghRepo.git" -ForegroundColor Yellow
+Write-Host ('[+] Setting remote to https://github.com/HenryPhamDuc/' + $ghRepo + '.git')
 git remote remove origin 2>$null
-git remote add origin "https://github.com/HenryPhamDuc/$ghRepo.git"
+git remote add origin ("https://github.com/HenryPhamDuc/" + $ghRepo + ".git")
 
-Write-Host '[+] Pushing to main...' -ForegroundColor Yellow
+Write-Host '[+] Pushing to main...'
 $tmpFile = New-TemporaryFile
 try {
-    $u = 'x-access-token'
-    $h = 'github.com'
-    $authUrl = 'https://' + $u + ':' + $token + '@' + $h + '/HenryPhamDuc/' + $ghRepo + '.git'
+    $authUrl = "https://x-access-token:" + $token + "@github.com/HenryPhamDuc/" + $ghRepo + ".git"
     Set-Content -Path $tmpFile -Value $authUrl -NoNewline
     $urlForGit = Get-Content $tmpFile -Raw
     git push --set-upstream $urlForGit main
@@ -131,34 +117,31 @@ try {
 
 # Wait + poll
 Write-Host ''
-Write-Host '[+] Waiting 30s for first deploy...' -ForegroundColor Yellow
+Write-Host '[+] Waiting 30s for first deploy...'
 Start-Sleep 30
+
 for ($i = 1; $i -le 10; $i++) {
-    try {
-        $runsInfo = Invoke-RestMethod -Method Get -Uri "https://api.github.com/repos/HenryPhamDuc/$ghRepo/actions/runs?per_page=1" -Headers $headers
-    } catch {
-        $runsInfo = $null
-    }
-    if ($runsInfo -and $runsInfo.workflow_runs.Count -gt 0) {
-        $run = $runsInfo.workflow_runs[0]
-        Write-Host "    [$i/10] status=$($run.status) conclusion=$($run.conclusion)" -ForegroundColor Cyan
-        if ($run.status -eq 'completed') {
-            if ($run.conclusion -eq 'success') {
-                Write-Host ''
-                Write-Host '================================================================' -ForegroundColor Green
-                Write-Host "  Deployed! Site: $pagesUrl" -ForegroundColor Green
-                Write-Host '================================================================' -ForegroundColor Green
-                exit 0
-            } else {
-                Write-Host "    Build failed: $($run.conclusion)" -ForegroundColor Red
-                Write-Host "    Check: https://github.com/HenryPhamDuc/$ghRepo/actions" -ForegroundColor Red
-                exit 1
-            }
+    $runsOut = & curl.exe -sS -H ("Authorization: token " + $token) -H "Accept: application/vnd.github+json" ("https://api.github.com/repos/HenryPhamDuc/" + $ghRepo + "/actions/runs?per_page=1") 2>&1
+    $statusMatch = $runsOut | Select-String -Pattern '"status":"(\w+)"'
+    $conclMatch = $runsOut | Select-String -Pattern '"conclusion":"(\w+)"'
+    $runStatus = if ($statusMatch) { $statusMatch.Matches.Groups[1].Value } else { 'none' }
+    $runConcl  = if ($conclMatch) { $conclMatch.Matches.Groups[1].Value } else { 'none' }
+    Write-Host ('    [' + $i + '/10] status=' + $runStatus + ' conclusion=' + $runConcl)
+    if ($runStatus -eq 'completed') {
+        if ($runConcl -eq 'success') {
+            Write-Host ''
+            Write-Host '================================================================'
+            Write-Host ('  Deployed! Site: ' + $pagesUrl)
+            Write-Host '================================================================'
+            exit 0
+        } else {
+            Write-Host ('    Build failed: ' + $runConcl) -ForegroundColor Red
+            Write-Host ('    Check: https://github.com/HenryPhamDuc/' + $ghRepo + '/actions') -ForegroundColor Red
+            exit 1
         }
-    } else {
-        Write-Host "    [$i/10] No runs yet..." -ForegroundColor DarkGray
     }
     Start-Sleep 10
 }
-Write-Host "    Still running. Check https://github.com/HenryPhamDuc/$ghRepo/actions" -ForegroundColor Yellow
-Write-Host "    Site will be live at $pagesUrl once workflow completes." -ForegroundColor Yellow
+
+Write-Host ('    Still running. Check https://github.com/HenryPhamDuc/' + $ghRepo + '/actions')
+Write-Host ('    Site will be live at ' + $pagesUrl + ' once workflow completes.')
