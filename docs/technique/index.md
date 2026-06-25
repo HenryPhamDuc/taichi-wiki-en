@@ -1,20 +1,33 @@
-# 💪 Technique & Internal Power
+# 💪 Technique & Power
 
-This section contains **14 articles** on 💪 technique & internal power.
+This section contains **27 articles** on Technique.
 
-- [Jin Li — Internal Power](jin-li-internal-power.md)
-- [Tui Shou — Push Hands](tui-shou-push-hands.md)
+- [2.2. Bảng Liệt Kê Các Điểm Kình và Căn Nguyên Của Kình](bang-liet-ke-cac-diem-kinh-va-can-nguyen-cua-kinh.md)
 - [chi-cong](chi-cong.md)
+- [4.3. Đại Phúc](dai-phuc.md)
+- [3.1. Danh Sách Các Quyền Thức](danh-sach-cac-quyen-thuc.md)
 - [di-hinh-ta-than](di-hinh-ta-than.md)
+- [4.1. Đinh Bộ Thôi Thủ](dinh-bo-thoi-thu.md)
+- [1.2. Dòng Họ Dương và Sự Phát Triển Của Thái Cực Quyền](dong-ho-duong-va-su-phat-trien-cua-thai-cuc-quyen.md)
 - [dung-y-dan-khi](dung-y-dan-khi.md)
+- [4.2. Hoạt Bộ Thôi Thủ](hoat-bo-thoi-thu.md)
+- [Jin Li — Internal Power](jin-li-internal-power.md)
 - [khi-huyet](khi-huyet.md)
 - [khung-vuong-van-tron](khung-vuong-van-tron.md)
 - [luc-tinh-huyet](luc-tinh-huyet.md)
+- [3.2. Mô Tả Chi Tiết Một Số Quyền Thức Tiêu Biểu](mo-ta-chi-tiet-mot-so-quyen-thuc-tieu-bieu.md)
+- [1.1. Nguồn Gốc và Sự Khác Biệt Giữa Các Phái Võ](nguon-goc-va-su-khac-biet-giua-cac-phai-vo.md)
+- [2.3. Nhãn Thần trong Thái Cực Quyền](nhan-than-trong-thai-cuc-quyen.md)
 - [noi-cong-do-thuyet](noi-cong-do-thuyet.md)
 - [tan-cong](tan-cong.md)
 - [tcq-chiem-tau](tcq-chiem-tau.md)
+- [Chương 3: Thái Cực Quyền Đồ Giải (Danh xưng quyền thức)](thai-cuc-quyen-do-giai-danh-xung-quyen-thuc.md)
+- [5.1. Thái Cực Quyền Luận](thai-cuc-quyen-luan.md)
+- [Chương 4: Thái Cực Thôi Thủ](thai-cuc-thoi-thu.md)
 - [than-chi-cung](than-chi-cung.md)
 - [than-chua-co-goc](than-chua-co-goc.md)
+- [2.1. Thập Yếu của Thái Cực Quyền](thap-yeu-cua-thai-cuc-quyen.md)
+- [Tui Shou — Push Hands](tui-shou-push-hands.md)
 - [tuong-hinh](tuong-hinh.md)
 
 [← Back to homepage](../index.md)
