@@ -88,6 +88,5 @@ Explore the wiki as an interactive network — every node is an article, every e
 
     Taichi applied to tennis — balance, footwork, and focus
 
-    [:octicons-arrow-right-24: Open section](tennis/index.md)
 
 </div>

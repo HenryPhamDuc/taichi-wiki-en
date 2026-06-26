@@ -22,14 +22,6 @@ Thái Cực Quyền huấn luyện chúng ta cách duy trì sự cân bằng nà
 - **Sự tập trung cường độ thấp nhưng kéo dài:** Việc tập trung vào những chi tiết nhỏ nhất của động tác trong thời gian dài giúp não bộ làm quen với việc duy trì sự chú ý mà không bị mệt mỏi.
 - **Sự thư giãn trong căng thẳng:** Flow không xảy ra khi cơ thể gồng cứng. Nó chỉ xảy ra khi cơ thể ở trạng thái **"Thả lỏng tích cực"**. Thái Cực Quyền dạy chúng ta cách thả lỏng cơ bắp trong khi vẫn duy trì sự tỉnh táo của tâm trí – đây chính là điều kiện cần để kích hoạt trạng thái Flow.
 
-#### **2.3. Ứng dụng thực tế để đạt Flow trong Tennis**
-
-Để đưa trạng thái thiền động của Thái Cực Quyền vào thi đấu tennis, vận động viên có thể áp dụng quy trình 3 bước:
-
-1. **Neo tâm trí (Anchoring):** Trước khi giao bóng, hãy thực hiện một động tác nhỏ đặc trưng của TCQ (ví dụ: hít một hơi sâu và cảm nhận trọng tâm chìm xuống). Điều này báo hiệu cho não bộ rằng: *"Đã đến lúc bước vào trạng thái Flow"*.
-2. **Đơn giản hóa mục tiêu:** Thay vì nghĩ về chiến thắng chung cuộc, hãy chỉ tập trung vào một chi tiết duy nhất: *"Nhìn thấy rõ quả bóng tiếp xúc mặt vợt"*. Việc thu hẹp tiêu điểm chú ý giúp tắt DMN và kích hoạt sự tập trung cao độ.
-3. **Chấp nhận sai số:** Khi đánh hỏng, hãy coi đó là một "động tác" trong bài quyền – nhìn nhận nó, chấp nhận nó và mượt mà chuyển sang động tác tiếp theo mà không để cảm xúc tiêu cực làm gián đoạn dòng chảy.
-
 #### **2.4. Mối liên hệ với tuổi thọ: Tâm an lạc, Thân khỏe mạnh**
 
 Trạng thái Flow không chỉ giúp thi đấu tốt mà còn là một liều thuốc cho tuổi thọ. Khi con người thường xuyên đạt được trạng thái này, nồng độ **Dopamine** và **Endorphin** tăng cao, trong khi **Cortisol** (hormone stress) giảm mạnh. 

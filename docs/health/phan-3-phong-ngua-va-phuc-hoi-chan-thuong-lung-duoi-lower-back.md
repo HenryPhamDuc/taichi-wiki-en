@@ -5,12 +5,6 @@
 
 Đau lưng dưới là "cơn ác mộng" thầm lặng của nhiều tay vợt, đặc biệt là người lớn tuổi. Nguyên nhân đến từ sự xoay vặn liên tục, cúi người bắt bóng thấp và tải trọng lên đĩa đệm. Thái Cực Quyền, với nguyên lý "Hư linh đỉnh kình" và sự phân tán lực qua chân, là phương pháp bảo vệ cột sống thắt lưng hiệu quả nhất.
 
-#### 3.1. Cơ chế gây đau lưng trong tennis
-
-Khi một tay vợt thực hiện cú đánh, lực xoay từ hông truyền lên cột sống. Nếu lực này quá lớn hoặc tư thế sai, đĩa đệm (đĩa sụn giữa hai đốt sống) sẽ bị nén quá mức, dẫn đến thoát vị hoặc phồng đĩa đệm, chèn ép dây thần kinh gây đau.
-
-* Đặc biệt: Cú đánh bóng thấp (low ball) buộc cột sống cúi xuống và xoay cùng lúc, tạo ra tải trọng cực lớn lên đĩa đệm L4-L5 và L5-S1 (vùng dễ tổn thương nhất).
-
 #### 3.2. Nguyên lý "Hư linh đỉnh kình" trong phòng ngừa
 
 Trong Thái Cực Quyền, "Hư linh đỉnh kình" có nghĩa là: "Đỉnh đầu hướng lên trời, gáy thẳng, cằm hơi thu lại".

@@ -904,13 +904,6 @@
       "description": "---\ntitle: Phòng bệnh và hỗ trợ điều trị\ncluster: health\nlanguage: en\ntags: [taichi, health, longevity]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và cuộc sống - Cẩm nang giữ gìn sức khỏe và kéo "
     },
     {
-      "id": "health/hinh-thai-nguyen-so",
-      "name": "hinh-thai-nguyen-so",
-      "cluster": "health",
-      "url": "health/hinh-thai-nguyen-so/",
-      "description": "---\ntitle: Trở về Hình Thái Nguyên Sơ — Dưỡng sinh từ trẻ em\ncluster: health\nlanguage: en\ntags: [taichi, health, longevity]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết "
-    },
-    {
       "id": "health/huyet-u",
       "name": "huyet-u",
       "cluster": "health",
@@ -930,111 +923,6 @@
       "cluster": "health",
       "url": "health/thong-tam-quan/",
       "description": "---\ntitle: Dưỡng sinh lâu dài là Thông Tam Quan\ncluster: health\nlanguage: en\ntags: [taichi, health, longevity]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN LUẬN_ Truyền thuyết và Khảo chứng"
-    },
-    {
-      "id": "tennis/chuong-21-footwork",
-      "name": "chuong-21-footwork",
-      "cluster": "tennis",
-      "url": "tennis/chuong-21-footwork/",
-      "description": "---\ntitle: Footwork nâng cao và thăng bằng động\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng"
-    },
-    {
-      "id": "tennis/chuong-22-forehand",
-      "name": "chuong-22-forehand",
-      "cluster": "tennis",
-      "url": "tennis/chuong-22-forehand/",
-      "description": "---\ntitle: Forehand — Chuỗi động lực và bám rễ\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng "
-    },
-    {
-      "id": "tennis/chuong-23-backhand",
-      "name": "chuong-23-backhand",
-      "cluster": "tennis",
-      "url": "tennis/chuong-23-backhand/",
-      "description": "---\ntitle: Backhand — Cân bằng đối xứng\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng dụng Ta"
-    },
-    {
-      "id": "tennis/chuong-24-volley",
-      "name": "chuong-24-volley",
-      "cluster": "tennis",
-      "url": "tennis/chuong-24-volley/",
-      "description": "---\ntitle: Volley — Lắng nghe và nhu-cương\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng dụng"
-    },
-    {
-      "id": "tennis/chuong-25-smash",
-      "name": "chuong-25-smash",
-      "cluster": "tennis",
-      "url": "tennis/chuong-25-smash/",
-      "description": "---\ntitle: Smash — Phát lực từ bám rễ\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng dụng Taic"
-    },
-    {
-      "id": "tennis/chuong-26-serve",
-      "name": "chuong-26-serve",
-      "cluster": "tennis",
-      "url": "tennis/chuong-26-serve/",
-      "description": "---\ntitle: Serve — Tĩnh lặng và bám rễ\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\Taichi và tennis - Phòng thí nghiệm ứng dụng Tai"
-    },
-    {
-      "id": "tennis/nghe-thuat-song-khoe-backhand",
-      "name": "nghe-thuat-song-khoe-backhand",
-      "cluster": "tennis",
-      "url": "tennis/nghe-thuat-song-khoe-backhand/",
-      "description": "---\ntitle: Backhand - Trái tay và Thái Cực\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN"
-    },
-    {
-      "id": "tennis/nghe-thuat-song-khoe-can-bang",
-      "name": "nghe-thuat-song-khoe-can-bang",
-      "cluster": "tennis",
-      "url": "tennis/nghe-thuat-song-khoe-can-bang/",
-      "description": "---\ntitle: Thăng bằng và trọng tâm\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN III VÀ "
-    },
-    {
-      "id": "tennis/nghe-thuat-song-khoe-footwork",
-      "name": "nghe-thuat-song-khoe-footwork",
-      "cluster": "tennis",
-      "url": "tennis/nghe-thuat-song-khoe-footwork/",
-      "description": "---\ntitle: Footwork và di chuyển trên sân\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN "
-    },
-    {
-      "id": "tennis/nghe-thuat-song-khoe-forehand",
-      "name": "nghe-thuat-song-khoe-forehand",
-      "cluster": "tennis",
-      "url": "tennis/nghe-thuat-song-khoe-forehand/",
-      "description": "---\ntitle: Forehand - Thuận tay và Thái Cực\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦ"
-    },
-    {
-      "id": "tennis/nghe-thuat-song-khoe-serve",
-      "name": "nghe-thuat-song-khoe-serve",
-      "cluster": "tennis",
-      "url": "tennis/nghe-thuat-song-khoe-serve/",
-      "description": "---\ntitle: Serve - Giao bóng và Thái Cực\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN I"
-    },
-    {
-      "id": "tennis/nghe-thuat-song-khoe-smash",
-      "name": "nghe-thuat-song-khoe-smash",
-      "cluster": "tennis",
-      "url": "tennis/nghe-thuat-song-khoe-smash/",
-      "description": "---\ntitle: Smash - Đập bóng và Thái Cực\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN II"
-    },
-    {
-      "id": "tennis/nghe-thuat-song-khoe-tam-ly",
-      "name": "nghe-thuat-song-khoe-tam-ly",
-      "cluster": "tennis",
-      "url": "tennis/nghe-thuat-song-khoe-tam-ly/",
-      "description": "---\ntitle: Tâm lý thi đấu từ Thái Cực\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - PHẦN III "
-    },
-    {
-      "id": "tennis/nghe-thuat-song-khoe-tennis-ky-thuat",
-      "name": "nghe-thuat-song-khoe-tennis-ky-thuat",
-      "cluster": "tennis",
-      "url": "tennis/nghe-thuat-song-khoe-tennis-ky-thuat/",
-      "description": "---\ntitle: Kỹ thuật tennis cần Thái Cực Quyền\ncluster: tennis\nlanguage: en\ntags: [taichi, tennis, sports-application]\nsource: MY VAULT\\Documents\\Tai Chi Books\\THÁI CỰC QUYỀN - NGHỆ THUẬT SỐNG KHỎE - P"
-    },
-    {
-      "id": "health/cai-thien-footwork-bo-chan-qua-nguyen-ly-hu-thuc",
-      "name": "3.2. CẢI THIỆN FOOTWORK (BỘ CHÂN) QUA NGUYÊN LÝ \"HƯ - THỰC\"",
-      "cluster": "health",
-      "url": "health/cai-thien-footwork-bo-chan-qua-nguyen-ly-hu-thuc/",
-      "description": "Trong TCQ, \"Hư\" là trống rỗng (nhẹ), \"Thực\" là đầy đủ (nặng). Việc phân định rõ chân nào là \"Hư\", chân nào là \"Thực\" chính là chìa khóa của sự thăng bằng. #### **3.2.1. Tối ưu hóa Split-step (Bước nhảy chuẩn bị)** Split-step là nền tảng của mọi cú đá"
     },
     {
       "id": "health/cau-truc-va-y-nghia-cua-bai-24-thuc",
@@ -1142,39 +1030,11 @@
       "description": "Trước khi bước vào bài tập đầu tiên, người học cần chuẩn bị cả về vật chất lẫn tâm thế để đảm bảo hành trình tập luyện diễn ra suôn sẻ và an toàn. #### **1.1. Chuẩn bị về môi trường và dụng cụ** Thái Cực Quyền là môn võ hòa hợp với thiên nhiên, vì vậ"
     },
     {
-      "id": "health/phan-1-chuoi-dong-luc-kinetic-chain-va-nguyen-ly-bam-re-trong-forehand",
-      "name": "PHẦN 1: CHUỖI ĐỘNG LỰC (KINETIC CHAIN) VÀ NGUYÊN LÝ \"BÁM RỄ\" TRONG FOREHAND",
-      "cluster": "health",
-      "url": "health/phan-1-chuoi-dong-luc-kinetic-chain-va-nguyen-ly-bam-re-trong-forehand/",
-      "description": "Để có một cú Forehand uy lực, điều đầu tiên không phải là vung vợt, mà là cách bạn kết nối với mặt đất. Trong TCQ, điều này gọi là \"Bám rễ\" (Rooting). #### 1.1. Lực phản hồi từ mặt đất (Ground Reaction Force) Sức mạnh của cú đánh không bắt đầu từ vai"
-    },
-    {
-      "id": "health/phan-1-chuoi-dong-luc-trong-cu-smash-tu-bam-re-den-phat-luc",
-      "name": "PHẦN 1: CHUỖI ĐỘNG LỰC TRONG CÚ SMASH - TỪ \"BÁM RỄ\" ĐẾN \"PHÁT LỰC\"",
-      "cluster": "health",
-      "url": "health/phan-1-chuoi-dong-luc-trong-cu-smash-tu-bam-re-den-phat-luc/",
-      "description": "Để tạo ra một cú Smash uy lực, vận động viên cần hiểu rằng cánh tay chỉ là \"điểm cuối\" của một chuỗi truyền dẫn năng lượng. Nếu bạn chỉ dùng tay, bạn đang lãng phí 80% sức mạnh tiềm năng của cơ thể. #### 1.1. Quy trình truyền lực 4 giai đoạn Theo ngu"
-    },
-    {
-      "id": "health/phan-1-giai-doan-chuan-bi-thiet-lap-su-tinh-lang-va-bam-re",
-      "name": "PHẦN 1: GIAI ĐOẠN CHUẨN BỊ - THIẾT LẬP \"SỰ TĨNH LẶNG\" VÀ BÁM RỄ",
-      "cluster": "health",
-      "url": "health/phan-1-giai-doan-chuan-bi-thiet-lap-su-tinh-lang-va-bam-re/",
-      "description": "Giai đoạn chuẩn bị (Preparation) là nền móng của toàn bộ cú giao bóng. Nếu nền móng không vững, mọi nỗ lực phát lực ở giai đoạn sau sẽ trở nên vô nghĩa hoặc gây chấn thương. #### 1.1. Trạng thái \"Tĩnh\" trước khi vận động Trước khi tung bóng, vận động"
-    },
-    {
       "id": "health/phan-1-giai-ma-khai-niem-khi-duoi-goc-do-sinh-ly-hoc-hien-dai",
       "name": "PHẦN 1: GIẢI MÃ KHÁI NIỆM \"KHÍ\" DƯỚI GÓC ĐỘ SINH LÝ HỌC HIỆN ĐẠI",
       "cluster": "health",
       "url": "health/phan-1-giai-ma-khai-niem-khi-duoi-goc-do-sinh-ly-hoc-hien-dai/",
       "description": "Trong các tài liệu cổ về Thái Cực Quyền và Khí công, \"Khí\" thường được mô tả như một loại năng lượng vô hình chảy trong cơ thể, là nguồn sống của con người. Tuy nhiên, để đưa những kiến thức này vào thực tiễn cuộc sống và thể thao hiện đại, chúng ta "
-    },
-    {
-      "id": "health/phan-1-khai-niem-su-bam-re-rooting-trong-di-chuyen-tennis",
-      "name": "PHẦN 1: KHÁI NIỆM \"SỰ BÁM RỄ\" (ROOTING) TRONG DI CHUYỂN TENNIS",
-      "cluster": "health",
-      "url": "health/phan-1-khai-niem-su-bam-re-rooting-trong-di-chuyen-tennis/",
-      "description": "Trong Thái Cực Quyền, \"Bám rễ\" (Rooting) không có nghĩa là đứng im một chỗ, mà là khả năng duy trì sự kết nối chặt chẽ với mặt đất trong mọi trạng thái vận động. #### 1.1. Sự khác biệt giữa \"Đứng\" và \"Bám rễ\" Đa số người chơi tennis di chuyển bằng cá"
     },
     {
       "id": "health/phan-1-nghe-thuat-quan-sat-thu-dong-trong-thai-cuc-quyen",
@@ -1189,20 +1049,6 @@
       "cluster": "health",
       "url": "health/phan-1-nghich-ly-cua-van-dong-trong-suy-tim-tim-kiem-diem-can-bang/",
       "description": "#### **1.1. Sự xung đột giữa nhu cầu oxy và khả năng cung cấp** Ở người khỏe mạnh, khi vận động, tim tăng nhịp đập và tăng thể tích nhát bóp (stroke volume) để đưa nhiều oxy đến cơ bắp. Nhưng ở bệnh nhân suy tim, khả năng này bị suy giảm nghiêm trọng"
-    },
-    {
-      "id": "health/phan-1-sinh-co-hoc-cua-cu-backhand-va-triet-ly-can-bang-doi-xung",
-      "name": "PHẦN 1: SINH CƠ HỌC CỦA CÚ BACKHAND VÀ TRIẾT LÝ \"CÂN BẰNG ĐỐI XỨNG\"",
-      "cluster": "health",
-      "url": "health/phan-1-sinh-co-hoc-cua-cu-backhand-va-triet-ly-can-bang-doi-xung/",
-      "description": "Để cải thiện cú Backhand, trước hết chúng ta phải hiểu những rào cản sinh cơ học mà một tay vợt thường gặp phải và cách TCQ hóa giải chúng. #### 1.1. Thách thức về góc xoay và tầm với Khác với Forehand, khi đánh Backhand, vai trái (với người thuận ta"
-    },
-    {
-      "id": "health/phan-1-sinh-co-hoc-ve-chan-thuong-tennis-va-nguyen-ly-sōng-tha-long",
-      "name": "PHẦN 1: SINH CƠ HỌC VỀ CHẤN THƯƠNG TENNIS VÀ NGUYÊN LÝ \"SŌNG\" (THẢ LỎNG)",
-      "cluster": "health",
-      "url": "health/phan-1-sinh-co-hoc-ve-chan-thuong-tennis-va-nguyen-ly-sōng-tha-long/",
-      "description": "Để phòng ngừa chấn thương hiệu quả, trước hết chúng ta cần hiểu rõ cơ chế sinh học gây ra các chấn thương phổ biến nhất. Từ đó, chúng ta sẽ thấy tại sao sự \"Sōng\" trong Thái Cực Quyền lại là \"thần dược\" bảo vệ xương khớp. #### 1.1. Tennis Elbow (Hội "
     },
     {
       "id": "health/phan-1-sinh-hoc-cua-ap-luc-dieu-hanh-va-chi-phi-cua-su-cang-thang",
@@ -1324,13 +1170,6 @@
       "description": "Hơi thở là một kỹ năng, và giống như mọi kỹ năng khác, nó cần một lộ trình rèn luyện phù hợp với đặc điểm sinh lý của từng giai đoạn cuộc đời. Không thể áp dụng một chế độ thở duy nhất cho một thanh niên 20 tuổi và một cụ già 80 tuổi. #### **10.1. Nh"
     },
     {
-      "id": "health/phan-2-bien-the-cua-bam-re-trong-vi-tri-bat-luoi",
-      "name": "PHẦN 2: BIẾN THỂ CỦA \"BÁM RỄ\" TRONG VỊ TRÍ BẮT LƯỚI",
-      "cluster": "health",
-      "url": "health/phan-2-bien-the-cua-bam-re-trong-vi-tri-bat-luoi/",
-      "description": "Khác với cuối sân nơi bạn có không gian để lướt đi, ở lưới, mọi chuyển động đều diễn ra trong phạm vi hẹp. Sự mất thăng bằng dù chỉ vài milimet cũng có thể khiến cú Volley đi chệch hướng. Vì vậy, khái niệm \"Bám rễ\" (Rooting) của Thái Cực Quyền cần đư"
-    },
-    {
       "id": "health/phan-2-co-che-boi-tron-khop-cua-thai-cuc-quyen-khoa-hoc-ve-chuyen-dong-xoay",
       "name": "PHẦN 2: CƠ CHẾ \"BÔI TRƠN\" KHỚP CỦA THÁI CỰC QUYỀN - KHOA HỌC VỀ CHUYỂN ĐỘNG XOÁY",
       "cluster": "health",
@@ -1394,13 +1233,6 @@
       "description": "Trong đánh đôi, nói quá nhiều trên sân là một sai lầm. Nó gây mất tập trung cho cả hai người và có thể tạo cơ hội cho đối thủ. Thay vào đó, những đội đôi giỏi sử dụng \"ngôn ngữ thầm lặng\" - hệ thống giao tiếp bằng mắt, bằng cử chỉ nhỏ, bằng tư thế cơ"
     },
     {
-      "id": "health/phan-2-kiem-soat-huyet-ap-khoa-hoc-ve-su-tha-long-va-can-bang",
-      "name": "PHẦN 2: KIỂM SOÁT HUYẾT ÁP - KHOA HỌC VỀ SỰ THẢ LỎNG VÀ CÂN BẰNG",
-      "cluster": "health",
-      "url": "health/phan-2-kiem-soat-huyet-ap-khoa-hoc-ve-su-tha-long-va-can-bang/",
-      "description": "Cao huyết áp được mệnh gọi là \"kẻ giết người thầm lặng\" vì nó thường không có triệu chứng rõ rệt nhưng lại là nguyên nhân hàng đầu gây ra đột quỵ và suy tim. Thái Cực Quyền được công nhận là một trong những phương pháp không dùng thuốc hiệu quả nhất "
-    },
-    {
       "id": "health/phan-2-luc-xoan-oc-spiral-force-va-su-phoi-hop-giua-hong-va-vai",
       "name": "PHẦN 2: LỰC XOẮN ỐC (SPIRAL FORCE) VÀ SỰ PHỐI HỢP GIỮA HÔNG VÀ VAI",
       "cluster": "health",
@@ -1408,32 +1240,11 @@
       "description": "Sai lầm lớn nhất trong cú Forehand là vung vợt theo một đường thẳng. Trong Thái Cực Quyền, không có đường thẳng, chỉ có những vòng tròn và đường xoắn ốc. Sức mạnh thực sự của cú đánh nằm ở sự xoay trục (Torsion). #### 2.1. Sự xoay của hông - \"Động cơ"
     },
     {
-      "id": "health/phan-2-nguyen-ly-bam-re-tam-tri-mental-rooting-cua-thai-cuc-quyen",
-      "name": "PHẦN 2: NGUYÊN LÝ \"BÁM RỄ TÂM TRÍ\" (MENTAL ROOTING) CỦA THÁI CỰC QUYỀN",
-      "cluster": "health",
-      "url": "health/phan-2-nguyen-ly-bam-re-tam-tri-mental-rooting-cua-thai-cuc-quyen/",
-      "description": "Đối trọng với sự hỗn loạn của Amygdala, Thái Cực Quyền cung cấp một kỹ thuật được gọi là \"Bám rễ tâm trí\" - khả năng neo tâm trí vào hiện tại để thoát khỏi sự cuốn phăng của nỗi sợ. #### 2.1. Kỹ thuật \"Trở về Đan điền\" (Returning to the Center) Trong"
-    },
-    {
       "id": "health/phan-2-phan-tich-ngon-ngu-co-the-cua-doi-thu",
       "name": "PHẦN 2: PHÂN TÍCH \"NGÔN NGỮ CƠ THỂ\" CỦA ĐỐI THỦ",
       "cluster": "health",
       "url": "health/phan-2-phan-tich-ngon-ngu-co-the-cua-doi-thu/",
       "description": "Trong Thái Cực Quyền, cơ thể là \"bản đồ\" thể hiện ý đồ và trạng thái tinh thần của một người. Một võ sư giỏi có thể \"đọc\" được đối thủ thông qua từng chuyển động nhỏ nhất. Trong tennis, kỹ năng này cũng tương tự. #### 2.1. Đọc \"ý đồ\" qua vị trí chuẩn"
-    },
-    {
-      "id": "health/phan-2-quan-ly-trong-tam-hu-thuc-trong-cac-pha-di-chuyen-dien-hinh",
-      "name": "PHẦN 2: QUẢN LÝ TRỌNG TÂM \"HƯ - THỰC\" TRONG CÁC PHA DI CHUYỂN ĐIỂN HÌNH",
-      "cluster": "health",
-      "url": "health/phan-2-quan-ly-trong-tam-hu-thuc-trong-cac-pha-di-chuyen-dien-hinh/",
-      "description": "Trong Tennis, việc phân định chân nào là \"Hư\" (không chịu lực/nhẹ) và chân nào là \"Thực\" (chịu lực/vững) quyết định tốc độ và độ chính xác của cú đánh. #### 2.1. Trong pha Split-step (Bước nhảy chuẩn bị) Split-step là khoảnh khắc chuyển đổi từ Tĩnh s"
-    },
-    {
-      "id": "health/phan-2-quan-ly-trong-tam-hu-thuc-trong-di-chuyen-backhand",
-      "name": "PHẦN 2: QUẢN LÝ TRỌNG TÂM \"HƯ - THỰC\" TRONG DI CHUYỂN BACKHAND",
-      "cluster": "health",
-      "url": "health/phan-2-quan-ly-trong-tam-hu-thuc-trong-di-chuyen-backhand/",
-      "description": "Thăng bằng trong cú Backhand phức tạp hơn nhiều so với Forehand vì vận động viên thường phải di chuyển ngược hướng với tay đánh, dễ gây ra tình trạng \"đổ\" người hoặc mất trụ. #### 2.1. Kỹ thuật \"Bám rễ\" trong pha chuyển hướng Khi đối thủ đánh một quả"
     },
     {
       "id": "health/phan-2-quy-trinh-tung-bong-va-su-phoi-hop-tay-trai-tay-phai",
@@ -1520,41 +1331,6 @@
       "description": "Một trong những rào cản lớn nhất đối với bệnh nhân viêm khớp là **\"Nỗi sợ vận động\" (Kinesiophobia)**. Khi một khớp bị viêm, cơ thể tự động tạo ra một cơ chế bảo vệ: co thắt các cơ xung quanh khớp để ngăn không cho khớp di chuyển, nhằm tránh gây đau."
     },
     {
-      "id": "health/phan-3-ky-thuat-chong-dong-cung-dang-di-freezing-of-gait-fog",
-      "name": "PHẦN 3: KỸ THUẬT CHỐNG \"ĐÔNG CỨNG DÁNG ĐI\" (FREEZING OF GAIT - FOG)",
-      "cluster": "health",
-      "url": "health/phan-3-ky-thuat-chong-dong-cung-dang-di-freezing-of-gait-fog/",
-      "description": "Hiện tượng \"đông cứng\" (Freezing) là nỗi ám ảnh lớn nhất của bệnh nhân Parkinson. Đó là cảm giác đôi chân bị \"dán\" chặt xuống sàn, không thể nhấc lên được dù ý chí rất muốn bước đi. Về mặt thần kinh, đây là kết quả của việc mất khả năng khởi động chu"
-    },
-    {
-      "id": "health/phan-3-ky-thuat-lang-nghe-ting-jin-de-du-doan-huong-bong",
-      "name": "PHẦN 3: KỸ THUẬT \"LẮNG NGHE\" (TING JIN) ĐỂ DỰ ĐOÁN HƯỚNG BÓNG",
-      "cluster": "health",
-      "url": "health/phan-3-ky-thuat-lang-nghe-ting-jin-de-du-doan-huong-bong/",
-      "description": "Trong Thái Cực Quyền, \"Ting\" (Lắng nghe) không phải là nghe bằng tai, mà là dùng toàn bộ hệ thần kinh và sự nhạy cảm của cơ thể để cảm nhận lực và ý định của đối phương. Trong bắt lưới, nơi thời gian phản ứng chỉ tính bằng mili giây, kỹ thuật \"lắng n"
-    },
-    {
-      "id": "health/phan-3-ky-thuat-quan-ly-nang-luong-pacing-ket-hop-thai-cuc-quyen",
-      "name": "PHẦN 3: KỸ THUẬT QUẢN LÝ NĂNG LƯỢNG \"PACING\" KẾT HỢP THÁI CỰC QUYỀN",
-      "cluster": "health",
-      "url": "health/phan-3-ky-thuat-quan-ly-nang-luong-pacing-ket-hop-thai-cuc-quyen/",
-      "description": "Trong điều trị Hội chứng mệt mỏi mạn tính (CFS), khái niệm quan trọng nhất không phải là \"cố gắng\" mà là **\"Pacing\" (Điều phối nhịp độ)**. Pacing là chiến thuật quản lý năng lượng nhằm ngăn chặn tình trạng sụp đổ sức khỏe sau vận động (PEM - Post-Exe"
-    },
-    {
-      "id": "health/phan-3-ky-thuat-song-tha-long-co-tay-de-tang-toc-do-dau-vot",
-      "name": "PHẦN 3: KỸ THUẬT \"SONG\" (THẢ LỎNG) CỔ TAY ĐỂ TĂNG TỐC ĐỘ ĐẦU VỢT",
-      "cluster": "health",
-      "url": "health/phan-3-ky-thuat-song-tha-long-co-tay-de-tang-toc-do-dau-vot/",
-      "description": "Một trong những sai lầm phổ biến nhất của người chơi tennis là cố gắng cầm vợt thật chặt để tăng lực đánh. Tuy nhiên, trong vật lý học và Thái Cực Quyền, việc gồng cứng cổ tay chính là cách nhanh nhất để triệt tiêu tốc độ. #### 3.1. Hiệu ứng \"Chiếc R"
-    },
-    {
-      "id": "health/phan-3-ky-thuat-tho-mim-moi-pursed-lip-breathing-ket-hop-voi-thai-cuc-quyen",
-      "name": "PHẦN 3: KỸ THUẬT THỞ MÍM MÔI (PURSED-LIP BREATHING) KẾT HỢP VỚI THÁI CỰC QUYỀN",
-      "cluster": "health",
-      "url": "health/phan-3-ky-thuat-tho-mim-moi-pursed-lip-breathing-ket-hop-voi-thai-cuc-quyen/",
-      "description": "Trong vật lý trị liệu hô hấp, \"thở mím môi\" là kỹ thuật vàng để giúp bệnh nhân COPD đẩy lượng khí thừa ra ngoài và giảm tình trạng hụt hơi. Khi được tích hợp vào Thái Cực Quyền, kỹ thuật này không còn là một bài tập khô khan mà trở thành một phần của"
-    },
-    {
       "id": "health/phan-3-moi-lien-he-giua-hoi-tho-ap-suat-long-nguc-va-ho-tro-tim",
       "name": "PHẦN 3: MỐI LIÊN HỆ GIỮA HƠI THỞ, ÁP SUẤT LỒNG NGỰC VÀ HỖ TRỢ TIM",
       "cluster": "health",
@@ -1581,13 +1357,6 @@
       "cluster": "health",
       "url": "health/phan-3-phong-ngua-va-phuc-hoi-chan-thuong-lung-duoi-lower-back/",
       "description": "Đau lưng dưới là \"cơn ác mộng\" thầm lặng của nhiều tay vợt, đặc biệt là người lớn tuổi. Nguyên nhân đến từ sự xoay vặn liên tục, cúi người bắt bóng thấp và tải trọng lên đĩa đệm. Thái Cực Quyền, với nguyên lý \"Hư linh đỉnh kình\" và sự phân tán lực qu"
-    },
-    {
-      "id": "health/phan-3-quan-ly-ap-luc-va-diem-tinh-trong-tennis-chien-thang-noi-so-de-dat-den-su",
-      "name": "PHẦN 3: QUẢN LÝ ÁP LỰC VÀ \"ĐIỂM TĨNH\" TRONG TENNIS - CHIẾN THẮNG NỖI SỢ ĐỂ ĐẠT ĐẾN SỰ CHUẨN XÁC",
-      "cluster": "health",
-      "url": "health/phan-3-quan-ly-ap-luc-va-diem-tinh-trong-tennis-chien-thang-noi-so-de-dat-den-su/",
-      "description": "Trong thể thao đỉnh cao, đặc biệt là tennis, áp lực không chỉ đến từ đối thủ mà còn đến từ chính kỳ vọng của bản thân. Khi đứng trước một điểm break-point hoặc một match-point, cơ thể vận động viên thường rơi vào trạng thái \"đóng băng\" hoặc \"hoảng lo"
     },
     {
       "id": "health/phan-3-quan-ly-can-bang-dien-giai-va-kali-trong-van-dong",
@@ -1618,27 +1387,6 @@
       "description": "Trầm cảm không đơn thuần là nỗi buồn, mà là một sự rối loạn sinh hóa nghiêm trọng trong não bộ. Khi một người bị trầm cảm, họ thường rơi vào trạng thái \"tê liệt\" về cả tâm trí lẫn cơ thể. Họ không chỉ mất đi niềm vui (Anhedonia) mà còn mất đi khả năn"
     },
     {
-      "id": "health/phan-3-su-thang-bang-dong-va-kha-nang-phuc-hoi-trong-tam-tuc-thoi",
-      "name": "PHẦN 3: SỰ THĂNG BẰNG ĐỘNG VÀ KHẢ NĂNG \"PHỤC HỒI TRỌNG TÂM\" TỨC THỜI",
-      "cluster": "health",
-      "url": "health/phan-3-su-thang-bang-dong-va-kha-nang-phuc-hoi-trong-tam-tuc-thoi/",
-      "description": "Thăng bằng trong tennis không phải là đứng im, mà là khả năng tự điều chỉnh trọng tâm khi đang di chuyển. Đây chính là điểm giao thoa giữa vật lý học và Thái Cực Quyền. #### 3.1. Cơ chế \"Đồng tâm\" và \"Ly tâm\" trong vung vợt Khi vung vợt mạnh, cơ thể "
-    },
-    {
-      "id": "health/phan-3-suc-manh-xoay-truc-va-luc-xoan-oc-trong-backhand",
-      "name": "PHẦN 3: SỨC MẠNH XOAY TRỤC VÀ LỰC XOẮN ỐC TRONG BACKHAND",
-      "cluster": "health",
-      "url": "health/phan-3-suc-manh-xoay-truc-va-luc-xoan-oc-trong-backhand/",
-      "description": "Một sai lầm phổ biến của người chơi tennis khi đánh Backhand là cố gắng \"đẩy\" bóng đi bằng lực của bắp tay hoặc vai. Điều này không chỉ làm cú đánh thiếu lực mà còn gây áp lực cực lớn lên khớp khuỷu tay. Trong Thái Cực Quyền, sức mạnh không đến từ sự"
-    },
-    {
-      "id": "health/phan-3-thang-thu-hai-chuyen-trong-tam-va-bo-phap-footwork",
-      "name": "PHẦN 3: THÁNG THỨ HAI - CHUYỂN TRỌNG TÂM VÀ BỘ PHÁP (FOOTWORK)",
-      "cluster": "health",
-      "url": "health/phan-3-thang-thu-hai-chuyen-trong-tam-va-bo-phap-footwork/",
-      "description": "Trong Thái Cực Quyền, di chuyển không đơn thuần là đi từ điểm A đến điểm B, mà là quá trình **quản lý trọng lực**. Sai lầm lớn nhất của người mới là di chuyển bằng cách \"đẩy\" cơ thể đi, dẫn đến việc bị mất thăng bằng hoặc gây áp lực lớn lên khớp gối."
-    },
-    {
       "id": "health/phan-3-tiep-theo-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot-hoan-thie",
       "name": "PHẦN 3 (tiếp theo): CHUỖI ĐỘNG LỰC TRONG PHA VUNG VỢT - TỪ CHÂN LÊN ĐẦU VỢT (Hoàn thiện)",
       "cluster": "health",
@@ -1660,13 +1408,6 @@
       "description": "Trong Thái Cực Quyền, tâm thế chiến binh không phải là sự hung hăng hay liều lĩnh, mà là sự kết hợp giữa bình tĩnh (Tĩnh) và quyết đoán (Động). Đây chính là tâm thế giúp tay vợt đối mặt với mọi tình huống mà không mất kiểm soát. #### 3.1. Định nghĩa "
     },
     {
-      "id": "health/phan-4-bai-tap-hanh-phuc-warm-up-va-cool-down-voi-tcq-truocsau-khi-tap-tennis",
-      "name": "PHẦN 4: BÀI TẬP \"HÀNH PHÚC\" - WARM-UP VÀ COOL-DOWN VỚI TCQ TRƯỚC/SAU KHI TẬP TENNIS",
-      "cluster": "health",
-      "url": "health/phan-4-bai-tap-hanh-phuc-warm-up-va-cool-down-voi-tcq-truocsau-khi-tap-tennis/",
-      "description": "Một quy trình khởi động (Warm-up) và thả lỏng (Cool-down) đúng cách là \"tấm khiên\" bảo vệ cơ thể khỏi chấn thương. Thái Cực Quyền cung cấp một quy trình 15-20 phút cho cả hai giai đoạn, kết hợp giữa vận động nhẹ nhàng và kiểm soát hơi thở. #### 4.1. "
-    },
-    {
       "id": "health/phan-4-chien-thuat-hoa-giai-trung-hoa-suc-manh-cua-doi-thu",
       "name": "PHẦN 4: CHIẾN THUẬT \"HÓA GIẢI\" - TRUNG HÒA SỨC MẠNH CỦA ĐỐI THỦ",
       "cluster": "health",
@@ -1674,25 +1415,11 @@
       "description": "Trong Thái Cực Quyền, có chiến thuật \"Hóa giải\" - dùng sự mềm mại để trung hòa sức mạnh của đối phương. Trong tennis, điều này có nghĩa là đừng cố gắng \"thắng\" đối thủ ở những điểm mạnh nhất của họ, mà hãy biến những điểm mạnh đó thành vô hiệu. #### "
     },
     {
-      "id": "health/phan-4-co-che-nhu-va-cuong-trong-cac-cu-volley",
-      "name": "PHẦN 4: CƠ CHẾ \"NHU\" VÀ \"CƯƠNG\" TRONG CÁC CÚ VOLLEY",
-      "cluster": "health",
-      "url": "health/phan-4-co-che-nhu-va-cuong-trong-cac-cu-volley/",
-      "description": "Một cú Volley hiệu quả không phải là cú đánh mạnh nhất, mà là cú đánh có sự phối hợp hợp lý nhất giữa sự mềm mại (Nhu) và sự dứt khoát (Cương). Sai lầm lớn nhất là dùng lực \"Cương\" cho mọi cú đánh, khiến bóng dễ bị văng ra ngoài hoặc gây mỏi cơ. ####"
-    },
-    {
       "id": "health/phan-4-dieu-chinh-tu-the-de-mo-rong-long-nguc-va-giam-ap-luc-ho-hap",
       "name": "PHẦN 4: ĐIỀU CHỈNH TƯ THẾ ĐỂ MỞ RỘNG LỒNG NGỰC VÀ GIẢM ÁP LỰC HÔ HẤP",
       "cluster": "health",
       "url": "health/phan-4-dieu-chinh-tu-the-de-mo-rong-long-nguc-va-giam-ap-luc-ho-hap/",
       "description": "Ở bệnh nhân COPD, tư thế cơ thể thường bị biến đổi do thích nghi với tình trạng thiếu oxy. Họ có xu hướng khom lưng, rụt vai và hơi cúi đầu (tư thế \"người gập\"). Tư thế này vô tình gây áp lực lên lồng ngực, làm hẹp không gian cho phổi giãn nở và khiế"
-    },
-    {
-      "id": "health/phan-4-dinh-hinh-voc-dang-thong-qua-su-phoi-hop-co-bap-va-truc-cot-song",
-      "name": "PHẦN 4: ĐỊNH HÌNH VÓC DÁNG THÔNG QUA SỰ PHỐI HỢP CƠ BẮP VÀ TRỤC CỘT SỐNG",
-      "cluster": "health",
-      "url": "health/phan-4-dinh-hinh-voc-dang-thong-qua-su-phoi-hop-co-bap-va-truc-cot-song/",
-      "description": "Vóc dáng không chỉ được quyết định bởi lượng mỡ, mà còn bởi **Tư thế (Posture)**. Một người có lượng mỡ thấp nhưng tư thế sai (vai rụt, lưng gù, bụng lồi ra trước) trông sẽ kém thu hút và già hơn nhiều so với một người có chút mỡ nhưng có tư thế thẳn"
     },
     {
       "id": "health/phan-4-giai-phap-cho-suong-mu-nao-brain-fog-va-suy-giam-nhan-thuc",
@@ -1723,60 +1450,11 @@
       "description": "Một trong những bí mật lớn nhất của Thái Cực Quyền là khả năng **\"Luyện Ý\"**. Các đại sư có thể đạt đến trình độ thượng thừa không chỉ bằng việc tập luyện thể chất, mà bằng cách thực hiện các bài tập trong tâm trí với độ chi tiết cực cao. Khoa học th"
     },
     {
-      "id": "health/phan-4-ky-thuat-tha-long-co-tay-de-dat-toc-do-dau-vot-toi-da",
-      "name": "PHẦN 4: KỸ THUẬT THẢ LỎNG CỔ TAY ĐỂ ĐẠT TỐC ĐỘ ĐẦU VỢT TỐI ĐA",
-      "cluster": "health",
-      "url": "health/phan-4-ky-thuat-tha-long-co-tay-de-dat-toc-do-dau-vot-toi-da/",
-      "description": "Cổ tay là điểm cuối cùng của chuỗi động lực. Trong Thái Cực Quyền, cổ tay là bộ phận linh hoạt nhất, đóng vai trò như một chiếc van điều tiết năng lượng. Trong cú Smash, cổ tay không được dùng để \"đẩy\" bóng mà dùng để \"búng\" bóng. #### 4.1. Hiện tượn"
-    },
-    {
-      "id": "health/phan-4-ky-thuat-tha-long-co-tay-va-su-tre-cua-dau-vot",
-      "name": "PHẦN 4: KỸ THUẬT THẢ LỎNG CỔ TAY VÀ \"SỰ TRỄ\" CỦA ĐẦU VỢT",
-      "cluster": "health",
-      "url": "health/phan-4-ky-thuat-tha-long-co-tay-va-su-tre-cua-dau-vot/",
-      "description": "Cổ tay là mắt xích cuối cùng và quan trọng nhất trong chuỗi động lực. Nếu cổ tay bị gồng cứng, toàn bộ lực từ hông và vai sẽ bị chặn lại tại khớp cổ tay, khiến cú đánh bị \"cụt\" và dễ chấn thương. #### 4.1. Nguyên lý \"Song\" (Thả lỏng) và hiện tượng La"
-    },
-    {
-      "id": "health/phan-4-ky-thuat-xoay-truc-va-tao-do-xoay-cho-cac-kieu-serve",
-      "name": "PHẦN 4: KỸ THUẬT XOAY TRỤC VÀ TẠO ĐỘ XOÁY CHO CÁC KIỂU SERVE",
-      "cluster": "health",
-      "url": "health/phan-4-ky-thuat-xoay-truc-va-tao-do-xoay-cho-cac-kieu-serve/",
-      "description": "Một tay vợt đẳng cấp không chỉ có một kiểu giao bóng. Họ phải sở hữu 3-4 kiểu serve khác nhau để kiểm soát trận đấu. Thái Cực Quyền cung cấp nguyên lý để tạo ra tất cả các kiểu serve này chỉ bằng cách điều chỉnh góc vợt và điểm tiếp xúc. #### 4.1. Se"
-    },
-    {
       "id": "health/phan-4-moi-lien-he-giua-hoi-tho-va-he-than-kinh-tu-chu-co-che-dieu-khien-cong-ta",
       "name": "PHẦN 4: MỐI LIÊN HỆ GIỮA HƠI THỞ VÀ HỆ THẦN KINH TỰ CHỦ - CƠ CHẾ ĐIỀU KHIỂN \"CÔNG TẮC\" CƠ THỂ",
       "cluster": "health",
       "url": "health/phan-4-moi-lien-he-giua-hoi-tho-va-he-than-kinh-tu-chu-co-che-dieu-khien-cong-ta/",
       "description": "Để hiểu tại sao hơi thở trong Thái Cực Quyền lại có khả năng chữa bệnh và kéo dài tuổi thọ, chúng ta cần tìm hiểu về Hệ thần kinh tự chủ (Autonomic Nervous System - ANS), bao gồm hai nhánh đối lập nhưng bổ trợ cho nhau: Hệ Giao cảm và Hệ Đối giao cảm"
-    },
-    {
-      "id": "health/phan-4-phong-ngua-dot-quy-va-toi-uu-hoa-luu-thong-mau-nao",
-      "name": "PHẦN 4: PHÒNG NGỪA ĐỘT QUỴ VÀ TỐI ƯU HÓA LƯU THÔNG MÁU NÃO",
-      "cluster": "health",
-      "url": "health/phan-4-phong-ngua-dot-quy-va-toi-uu-hoa-luu-thong-mau-nao/",
-      "description": "Đột quỵ (Stroke) là một trong những biến cố y khoa khủng khiếp nhất, xảy ra khi não bộ bị mất nguồn cung cấp máu do tắc nghẽn (nhồi máu não) hoặc vỡ mạch máu (xuất huyết não). Có hai yếu tố chính dẫn đến đột quỵ: **Áp lực huyết áp quá cao** và **độ n"
-    },
-    {
-      "id": "health/phan-4-phuc-hoi-kha-nang-phoi-hop-chi-tren-va-chi-duoi",
-      "name": "PHẦN 4: PHỤC HỒI KHẢ NĂNG PHỐI HỢP CHI TRÊN VÀ CHI DƯỚI",
-      "cluster": "health",
-      "url": "health/phan-4-phuc-hoi-kha-nang-phoi-hop-chi-tren-va-chi-duoi/",
-      "description": "Một trong những khó khăn lớn nhất của bệnh nhân Parkinson là sự mất cân bằng giữa hai bên cơ thể và sự thiếu phối hợp giữa tay và chân. Họ thường di chuyển như một khối cứng, thiếu đi sự uyển chuyển và đối lập đặc trưng của con người. Thái Cực Quyền "
-    },
-    {
-      "id": "health/phan-4-quan-ly-cam-xuc-trong-cac-tinh-huong-dac-biet",
-      "name": "PHẦN 4: QUẢN LÝ CẢM XÚC TRONG CÁC TÌNH HUỐNG ĐẶC BIỆT",
-      "cluster": "health",
-      "url": "health/phan-4-quan-ly-cam-xuc-trong-cac-tinh-huong-dac-biet/",
-      "description": "Mỗi tình huống trong tennis đều có những thách thức tâm lý riêng. Thái Cực Quyền cung cấp \"công thức\" quản lý cảm xúc cho từng tình huống cụ thể. #### 4.1. Xử lý Break-point (Điểm Bẻ giao bóng) Break-point là tình huống áp lực cao nhất trong một game"
-    },
-    {
-      "id": "health/phan-4-quan-ly-phu-ne-va-tich-tu-dich-thong-qua-van-dong-thai-cuc",
-      "name": "PHẦN 4: QUẢN LÝ PHÙ NỀ VÀ TÍCH TỤ DỊCH THÔNG QUA VẬN ĐỘNG THÁI CỰC",
-      "cluster": "health",
-      "url": "health/phan-4-quan-ly-phu-ne-va-tich-tu-dich-thong-qua-van-dong-thai-cuc/",
-      "description": "Phù nề (Edema), đặc biệt là phù chi dưới, là một dấu hiệu điển hình của suy tim phải. Khi tim không đủ sức bơm máu, dịch bị tích tụ trong các mô kẽ, gây sưng to ở cổ chân và bàn chân. Điều này không chỉ gây khó khăn trong di chuyển mà còn làm tăng ng"
     },
     {
       "id": "health/phan-4-quan-ly-trao-nguoc-da-day-thuc-quan-gerd-thong-qua-tu-the-va-hoi-tho",
@@ -1786,25 +1464,11 @@
       "description": "Trào ngược dạ dày thực quản (GERD) xảy ra khi cơ thắt thực quản dưới (LES) không đóng kín, khiến acid và thức ăn từ dạ dày trào ngược lên thực quản, gây ợ nóng và tổn thương niêm mạc. Một trong những nguyên nhân chính gây GERD là áp lực nội ổ bụng tă"
     },
     {
-      "id": "health/phan-4-su-phoi-hop-giua-footwork-va-nhip-dieu-hoi-tho-su-dong-bo-hoan-hao",
-      "name": "PHẦN 4: SỰ PHỐI HỢP GIỮA FOOTWORK VÀ NHỊP ĐIỆU HƠI THỞ - \"SỰ ĐỒNG BỘ HOÀN HẢO\"",
-      "cluster": "health",
-      "url": "health/phan-4-su-phoi-hop-giua-footwork-va-nhip-dieu-hoi-tho-su-dong-bo-hoan-hao/",
-      "description": "Trong Tennis, sai lầm phổ biến nhất của vận động viên là coi bộ chân và hơi thở là hai thực thể độc lập: họ tập chạy nhanh riêng và tập hít thở riêng. Tuy nhiên, trong Thái Cực Quyền, hơi thở chính là \"động cơ\" điều khiển sự di chuyển. Khi hơi thở và"
-    },
-    {
       "id": "health/phan-4-thang-thu-ba-lam-quen-voi-cac-thuc-co-ban-form-building",
       "name": "PHẦN 4: THÁNG THỨ BA - LÀM QUEN VỚI CÁC THỨC CƠ BẢN (FORM BUILDING)",
       "cluster": "health",
       "url": "health/phan-4-thang-thu-ba-lam-quen-voi-cac-thuc-co-ban-form-building/",
       "description": "Sau hai tháng rèn luyện tư thế và bộ pháp, người tập đã có một nền tảng vận động khá tốt. Tháng thứ ba là giai đoạn **\"Ghép nối\"**. Chúng ta không học toàn bộ bài 24 thức ngay lập tức, mà học theo các \"mô-đun\" (building blocks) để tránh bị quá tải về"
-    },
-    {
-      "id": "health/phan-4-toi-uu-hoa-diem-tiep-xuc-va-goc-mat-vot",
-      "name": "PHẦN 4: TỐI ƯU HÓA ĐIỂM TIẾP XÚC VÀ GÓC MẶT VỢT",
-      "cluster": "health",
-      "url": "health/phan-4-toi-uu-hoa-diem-tiep-xuc-va-goc-mat-vot/",
-      "description": "Sức mạnh mà không có sự chính xác chỉ là sự lãng phí. Trong Thái Cực Quyền, việc xác định \"Điểm chạm\" (Contact Point) là yếu tố quyết định thắng bại. Trong tennis, điểm tiếp xúc là nơi toàn bộ chuỗi động lực từ chân, hông, vai hội tụ lại một điểm. ##"
     },
     {
       "id": "health/phan-4-ung-dung-cho-benh-nhan-chay-than-nhan-tao-va-loc-mau-dialysis",
@@ -1814,53 +1478,11 @@
       "description": "Bệnh nhân chạy thận (Hemodialysis hoặc Peritoneal Dialysis) đối mặt với một chế độ sinh hoạt đặc thù: những ngày lọc máu cực kỳ mệt mỏi và những ngày không lọc máu với sự tích tụ độc tố. Thái Cực Quyền cần được điều chỉnh để phù hợp với chu kỳ này. #"
     },
     {
-      "id": "health/phan-4-ung-dung-cu-the-cho-tung-loai-khop-ban-do-van-dong-tri-lieu",
-      "name": "PHẦN 4: ỨNG DỤNG CỤ THỂ CHO TỪNG LOẠI KHỚP - BẢN ĐỒ VẬN ĐỘNG TRỊ LIỆU",
-      "cluster": "health",
-      "url": "health/phan-4-ung-dung-cu-the-cho-tung-loai-khop-ban-do-van-dong-tri-lieu/",
-      "description": "Mỗi khớp trong cơ thể có cấu tạo và cơ chế vận động khác nhau. Thái Cực Quyền không áp dụng một công thức chung mà có những điều chỉnh tinh vi cho từng vùng khớp. #### **4.1. Khớp Gối - Quản lý áp lực và sự ổn định** Khớp gối là khớp chịu lực lớn nhấ"
-    },
-    {
-      "id": "health/phan-4-xay-dung-trang-thai-flow-trong-quan-tri-doanh-nghiep-2",
-      "name": "PHẦN 4: XÂY DỰNG TRẠNG THÁI \"FLOW\" TRONG QUẢN TRỊ DOANH NGHIỆP",
-      "cluster": "health",
-      "url": "health/phan-4-xay-dung-trang-thai-flow-trong-quan-tri-doanh-nghiep-2/",
-      "description": "Trạng thái **Flow (Dòng chảy)** là khi một người hoàn toàn hòa nhập vào công việc, đạt được hiệu suất tối đa mà không cảm thấy mệt mỏi. Trong quản trị, Flow không chỉ là sự tập trung, mà là sự phối hợp nhịp nhàng giữa tư duy chiến lược và hành động t"
-    },
-    {
-      "id": "health/phan-4-xay-dung-trang-thai-flow-trong-quan-tri-doanh-nghiep",
-      "name": "PHẦN 4: XÂY DỰNG TRẠNG THÁI \"FLOW\" TRONG QUẢN TRỊ DOANH NGHIỆP",
-      "cluster": "health",
-      "url": "health/phan-4-xay-dung-trang-thai-flow-trong-quan-tri-doanh-nghiep/",
-      "description": "Trạng thái Flow (Dòng chảy) là khi một người hoàn toàn hòa nhập vào công việc, đạt được hiệu suất tối đa mà không cảm thấy mệt mỏi. Trong quản trị, Flow không chỉ là sự tập trung, mà là sự phối hợp nhịp nhàng giữa tư duy chiến lược và hành động thực "
-    },
-    {
-      "id": "health/phan-5-cac-bai-tap-bo-tro-dac-thu-de-cai-thien-do-nhay-cua-long-ban-chan-proprio",
-      "name": "PHẦN 5: CÁC BÀI TẬP BỔ TRỢ ĐẶC THÙ ĐỂ CẢI THIỆN ĐỘ NHẠY CỦA LÒNG BÀN CHÂN (PROPRIOCEPTION)",
-      "cluster": "health",
-      "url": "health/phan-5-cac-bai-tap-bo-tro-dac-thu-de-cai-thien-do-nhay-cua-long-ban-chan-proprio/",
-      "description": "Độ nhạy của lòng bàn chân (Cảm thụ bản thể) là yếu tố quyết định khả năng thăng bằng. Nếu bạn không cảm nhận được mặt sân, bạn không thể \"bám rễ\" và không thể điều phối trọng tâm chính xác. #### 5.1. Bài tập \"Lắng nghe mặt đất\" (Ground Listening) Đây"
-    },
-    {
       "id": "health/phan-5-chi-tiet-phac-do-tap-luyen-cho-benh-nhan-tieu-duong-theo-tung-cap-do",
       "name": "PHẦN 5: CHI TIẾT PHÁC ĐỒ TẬP LUYỆN CHO BỆNH NHÂN TIỂU ĐƯỜNG THEO TỪNG CẤP ĐỘ",
       "cluster": "health",
       "url": "health/phan-5-chi-tiet-phac-do-tap-luyen-cho-benh-nhan-tieu-duong-theo-tung-cap-do/",
       "description": "Vì thể trạng của mỗi bệnh nhân tiểu đường là khác nhau (có người mới khởi phát, có người đã bị nhiều năm với biến chứng thần kinh hoặc tim mạch), việc áp dụng một bài tập chung cho tất cả là điều nguy hiểm. Phác đồ dưới đây được chia thành 3 cấp độ, "
-    },
-    {
-      "id": "health/phan-5-diem-tiep-xuc-ly-tuong-va-chien-thuat-dieu-huong-bong",
-      "name": "PHẦN 5: ĐIỂM TIẾP XÚC LÝ TƯỞNG VÀ CHIẾN THUẬT ĐIỀU HƯỚNG BÓNG",
-      "cluster": "health",
-      "url": "health/phan-5-diem-tiep-xuc-ly-tuong-va-chien-thuat-dieu-huong-bong/",
-      "description": "Sự khác biệt giữa một cú Backhand phòng thủ và một cú Backhand tấn công nằm ở Điểm tiếp xúc (Contact Point) và Ý định điều hướng. #### 5.1. Xác định điểm tiếp xúc \"Phía trước\" Một sai lầm kinh điển trong Backhand là để bóng đi quá sâu vào người, khiế"
-    },
-    {
-      "id": "health/phan-5-dinh-duong-va-phuc-hoi-sau-chan-thuong-cho-van-dong-vien-tennis",
-      "name": "PHẦN 5: DINH DƯỠNG VÀ PHỤC HỒI SAU CHẤN THƯƠNG CHO VẬN ĐỘNG VIÊN TENNIS",
-      "cluster": "health",
-      "url": "health/phan-5-dinh-duong-va-phuc-hoi-sau-chan-thuong-cho-van-dong-vien-tennis/",
-      "description": "Chấn thương không thể phục hồi hoàn toàn chỉ bằng vận động. Dinh dưỡng đóng vai trò cung cấp nguyên liệu xây dựng lại các mô bị tổn thương (gân, cơ, sụn, xương). Đối với tay vợt, chế độ dinh dưỡng cần đặc biệt chú trọng đến chống viêm và tái tạo coll"
     },
     {
       "id": "health/phan-5-giai-phap-cho-tao-bon-man-tinh-va-moi-lien-he-voi-giac-ngu",
@@ -1947,20 +1569,6 @@
       "description": "Để đạt hiệu quả tối đa, Thái Cực Quyền cần được kết hợp với một chiến lược giải độc (detox) toàn diện thông qua dinh dưỡng và lối sống. #### **5.1. Phác đồ tập luyện theo cấp độ bệnh gan** - **Nhóm Gan nhiễm mỡ/Viêm gan nhẹ:** - *Thời lượng:* 45 - 60"
     },
     {
-      "id": "health/phan-5-phan-tich-chi-tiet-ve-su-san-chac-co-bap-lean-muscle",
-      "name": "PHẦN 5: PHÂN TÍCH CHI TIẾT VỀ SỰ SĂN CHẮC CƠ BẮP - LEAN MUSCLE",
-      "cluster": "health",
-      "url": "health/phan-5-phan-tich-chi-tiet-ve-su-san-chac-co-bap-lean-muscle/",
-      "description": "Một câu hỏi phổ biến là: *\"Tập chậm như vậy thì làm sao mà săn chắc cơ được?\"*. Câu trả lời nằm ở sự khác biệt giữa **Phì đại cơ (Hypertrophy)** và **Trương lực cơ (Muscle Tone)**. #### **5.1. Sợi cơ chậm (Type I) và sức bền chuyển hóa** Cơ bắp con n"
-    },
-    {
-      "id": "health/phan-5-phoi-hop-footwork-va-nhip-dieu-cho-cu-bat-luoi",
-      "name": "PHẦN 5: PHỐI HỢP FOOTWORK VÀ NHỊP ĐIỆU CHO CÚ BẮT LƯỚI",
-      "cluster": "health",
-      "url": "health/phan-5-phoi-hop-footwork-va-nhip-dieu-cho-cu-bat-luoi/",
-      "description": "Footwork tại lưới không đơn giản là chạy, mà là sự điều phối nhịp điệu để mặt vợt luôn nằm ở vị trí tối ưu. #### 5.1. Quy trình \"Nhảy - Lướt - Chạm\" (Jump - Glide - Hit) Để đạt được sự mượt mà, hãy áp dụng nhịp điệu sau: 1. Nhảy (The Split-step): Nhả"
-    },
-    {
       "id": "health/phan-5-phong-ngua-burnout-va-phuc-hoi-nang-luong-cho-lanh-dao-2",
       "name": "PHẦN 5: PHÒNG NGỪA BURNOUT VÀ PHỤC HỒI NĂNG LƯỢNG CHO LÃNH ĐẠO",
       "cluster": "health",
@@ -1982,74 +1590,11 @@
       "description": "Phục hồi tinh thần (Mental Recovery) là một phần quan trọng không kém phục hồi thể chất. Một tay vợt biết cách \"reset\" tâm trí giữa các set sẽ luôn có lợi thế. #### 5.1. Giai đoạn nghỉ giữa các set (90-120 giây) Trong 90-120 giây nghỉ giữa các set, t"
     },
     {
-      "id": "health/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop-2",
-      "name": "PHẦN 5: QUÁ TRÌNH FOLLOW-THROUGH - GIẢI PHÓNG NĂNG LƯỢNG VÀ BẢO VỆ KHỚP",
-      "cluster": "health",
-      "url": "health/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop-2/",
-      "description": "Một cú Smash kết thúc tại điểm tiếp bóng là một cú đánh nguy hiểm cho chính vận động viên. Lực phát ra quá lớn nếu bị chặn lại đột ngột sẽ dội ngược về khớp vai và khuỷu tay, gây ra những chấn thương nghiêm trọng. #### 5.1. Nguyên lý \"Vòng tròn không"
-    },
-    {
-      "id": "health/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop",
-      "name": "PHẦN 5: QUÁ TRÌNH FOLLOW-THROUGH - GIẢI PHÓNG NĂNG LƯỢNG VÀ BẢO VỆ KHỚP",
-      "cluster": "health",
-      "url": "health/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop/",
-      "description": "Một cú đánh không kết thúc tại thời điểm chạm bóng. Giai đoạn sau khi chạm bóng (Follow-through) quyết định độ xoáy, hướng đi của bóng và quan trọng nhất là sức khỏe của các khớp xương. #### 5.1. Nguyên lý \"Vòng tròn không kết thúc\" Trong Thái Cực Qu"
-    },
-    {
-      "id": "health/phan-5-qua-trinh-follow-through-va-bao-ve-khop-vai",
-      "name": "PHẦN 5: QUÁ TRÌNH FOLLOW-THROUGH VÀ BẢO VỆ KHỚP VAI",
-      "cluster": "health",
-      "url": "health/phan-5-qua-trinh-follow-through-va-bao-ve-khop-vai/",
-      "description": "Serve là cú đánh gây áp lực lớn nhất lên khớp vai. Việc kết thúc cú đánh đúng cách không chỉ giúp kiểm soát bóng mà còn quyết định sức khỏe lâu dài của vận động viên. #### 5.1. Nguyên lý \"Vòng tròn liên tục\" (Continuous Circle) Trong Thái Cực Quyền, "
-    },
-    {
       "id": "health/phan-5-thang-thu-tu-den-thang-thu-sau-hoan-thien-bai-24-thuc-va-tinh-lien-hoan",
       "name": "PHẦN 5: THÁNG THỨ TƯ ĐẾN THÁNG THỨ SÁU - HOÀN THIỆN BÀI 24 THỨC VÀ TÍNH LIÊN HOÀN",
       "cluster": "health",
       "url": "health/phan-5-thang-thu-tu-den-thang-thu-sau-hoan-thien-bai-24-thuc-va-tinh-lien-hoan/",
       "description": "Khi đã làm quen với các mô-đun cơ bản, người tập bước vào giai đoạn khó khăn nhất: **Kết nối**. Một lỗi phổ biến của người mới là tập đúng từng thức nhưng khi nối chúng lại với nhau thì bài quyền trở nên bị ngắt quãng, giống như một chuỗi các bức ảnh"
-    },
-    {
-      "id": "health/phan-5-tri-tue-cam-xuc-eq-va-su-bao-dung-trong-thi-dau-nghe-thuat-nhu-khac-cuong",
-      "name": "PHẦN 5: TRÍ TUỆ CẢM XÚC (EQ) VÀ SỰ BAO DUNG TRONG THI ĐẤU - NGHỆ THUẬT \"NHU KHẮC CƯƠNG\" TRÊN MẶT SÂN",
-      "cluster": "health",
-      "url": "health/phan-5-tri-tue-cam-xuc-eq-va-su-bao-dung-trong-thi-dau-nghe-thuat-nhu-khac-cuong/",
-      "description": "Trong tennis, đối thủ không chỉ tấn công bạn bằng những cú đánh mà còn tấn công bạn bằng tâm lý: sự khiêu kh lôi, những tiếng hét, hoặc thậm chí là những quyết định sai lầm của trọng tài. Khi một vận động viên bị cuốn vào cơn giận, họ mất đi sự kiểm "
-    },
-    {
-      "id": "health/phan-5-xay-dung-ban-do-chien-thuat-truoc-va-trong-tran-dau",
-      "name": "PHẦN 5: XÂY DỰNG \"BẢN ĐỒ CHIẾN THUẬT\" TRƯỚC VÀ TRONG TRẬN ĐẤU",
-      "cluster": "health",
-      "url": "health/phan-5-xay-dung-ban-do-chien-thuat-truoc-va-trong-tran-dau/",
-      "description": "Một tay vợt chuyên nghiệp không bao giờ bước vào sân mà không có kế hoạch. Thái Cực Quyền cung cấp khung tư duy để xây dựng \"Bản đồ chiến thuật\" - một kế hoạch rõ ràng nhưng linh hoạt. #### 5.1. Giai đoạn trước trận đấu: \"Thiền định chiến thuật\" Trướ"
-    },
-    {
-      "id": "health/phan-6-che-do-dinh-duong-ho-tro-tim-mach-cho-nguoi-tap-thai-cuc-quyen",
-      "name": "PHẦN 6: CHẾ ĐỘ DINH DƯỠNG HỖ TRỢ TIM MẠCH CHO NGƯỜI TẬP THÁI CỰC QUYỀN",
-      "cluster": "health",
-      "url": "health/phan-6-che-do-dinh-duong-ho-tro-tim-mach-cho-nguoi-tap-thai-cuc-quyen/",
-      "description": "Vận động là một nửa của phương trình sức khỏe, nửa còn lại là dinh dưỡng. Để Thái Cực Quyền phát huy tối đa tác dụng trong việc phòng ngừa đột quỵ và cải thiện tim mạch, chế độ ăn uống cần phải hỗ trợ cho việc lưu thông máu và bảo vệ thành mạch. ####"
-    },
-    {
-      "id": "health/phan-6-lo-trinh-ren-luyen-bo-chan-trong-1-nam-tu-co-ban-den-ban-nang",
-      "name": "PHẦN 6: LỘ TRÌNH RÈN LUYỆN BỘ CHÂN TRONG 1 NĂM - TỪ CƠ BẢN ĐẾN BẢN NĂNG",
-      "cluster": "health",
-      "url": "health/phan-6-lo-trinh-ren-luyen-bo-chan-trong-1-nam-tu-co-ban-den-ban-nang/",
-      "description": "Sự thăng bằng và bộ chân không thể hình thành trong một sớm một chiều. Nó đòi hỏi một quá trình rèn luyện kiên trì theo chu kỳ. #### 6.1. Quý 1: Nhận diện và Cân chỉnh (Awareness & Alignment) * Mục tiêu: Xây dựng cảm giác về trọng tâm và sự bám rễ. *"
-    },
-    {
-      "id": "health/phan-6-lo-trinh-ren-luyen-kha-nang-doc-tran-dau-trong-6-thang",
-      "name": "PHẦN 6: LỘ TRÌNH RÈN LUYỆN KHẢ NĂNG ĐỌC TRẬN ĐẤU TRONG 6 THÁNG",
-      "cluster": "health",
-      "url": "health/phan-6-lo-trinh-ren-luyen-kha-nang-doc-tran-dau-trong-6-thang/",
-      "description": "Khả năng đọc trận đấu là một kỹ năng có thể rèn luyện được. Dưới đây là lộ trình 6 tháng để bạn phát triển \"Con mắt chiến thuật\" này. #### 6.1. Tháng 1-2: Xây dựng thói quen quan sát * Mục tiêu: Tập trung 100% vào việc quan sát trong 5 game đầu mỗi t"
-    },
-    {
-      "id": "health/phan-6-lo-trinh-ren-luyen-tam-ly-thi-dau-cho-tay-vot-trong-1-nam",
-      "name": "PHẦN 6: LỘ TRÌNH RÈN LUYỆN TÂM LÝ THI ĐẤU CHO TAY VỢT TRONG 1 NĂM",
-      "cluster": "health",
-      "url": "health/phan-6-lo-trinh-ren-luyen-tam-ly-thi-dau-cho-tay-vot-trong-1-nam/",
-      "description": "Xây dựng tâm lý thi đấu vững mạnh là một quá trình lâu dài, đòi hỏi sự kiên nhẫn và kỷ luật. Dưới đây là lộ trình 12 tháng để tay vợt xây dựng \"Tâm thế thép\" thông qua Thái Cực Quyền. #### 6.1. Quý 1: Nền tảng (Tháng 1-3) * Mục tiêu: Xây dựng thói qu"
     },
     {
       "id": "health/phan-6-lo-trinh-xay-dung-co-the-khong-chan-thuong-cho-tay-vot-lau-dai",
@@ -2073,188 +1618,6 @@
       "description": "Để đạt được kết quả giảm cân và cải thiện vóc dáng, tập luyện phải đi đôi với một chiến lược dinh dưỡng tôn trọng nhịp sinh học của cơ thể. #### **6.1. Lịch trình tập luyện tối ưu hóa đốt mỡ** - **Sáng sớm (Khi bụng rỗng):** Tập 30 phút Thái Cực Quyề"
     },
     {
-      "id": "health/phan-6-phan-tich-cac-loi-sai-thuong-gap-va-cach-chinh-sua-thuc-te",
-      "name": "PHẦN 6: PHÂN TÍCH CÁC LỖI SAI THƯỜNG GẶP VÀ CÁCH CHỈNH SỬA THỰC TẾ",
-      "cluster": "health",
-      "url": "health/phan-6-phan-tich-cac-loi-sai-thuong-gap-va-cach-chinh-sua-thuc-te/",
-      "description": "Để hoàn thiện cú Forehand, vận động viên cần nhận diện được những \"điểm mù\" trong kỹ thuật của mình. #### 6.1. Lỗi \"Đánh bằng tay\" (Arm-hitting) * Dấu hiệu: Vai bị gồng, khuỷu tay khép sát người, cú đánh thiếu lực dù vung tay rất mạnh. * Nguyên nhân:"
-    },
-    {
-      "id": "health/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-cu-smash",
-      "name": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH HOÀN THIỆN CÚ SMASH",
-      "cluster": "health",
-      "url": "health/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-cu-smash/",
-      "description": "Để đạt đến trình độ thượng thừa, vận động viên cần nhận diện và sửa chữa những lỗi sai mang tính hệ thống. #### 6.1. Lỗi \"Sử dụng lực tay\" (Arm-hitting) * Dấu hiệu: Vai bị gồng, bóng đi mạnh nhưng vận động viên nhanh mệt và thường bị đau vai. * Nguyê"
-    },
-    {
-      "id": "health/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-ky-nang-bat-luoi",
-      "name": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH HOÀN THIỆN KỸ NĂNG BẮT LƯỚI",
-      "cluster": "health",
-      "url": "health/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-ky-nang-bat-luoi/",
-      "description": "#### 6.1. Lỗi \"Vung vợt quá rộng\" (Over-swinging) * Dấu hiệu: Vung vợt từ quá xa phía sau, khiến bóng bị bay ra ngoài hoặc không kịp tiếp bóng. * Nguyên nhân: Thói quen của cú đánh cuối sân áp dụng vào bắt lưới. * Cách sửa: Áp dụng nguyên lý \"Vòng tr"
-    },
-    {
-      "id": "health/phan-6-phan-tich-loi-sai-va-lo-trinh-khac-phuc-thuc-te",
-      "name": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH KHẮC PHỤC THỰC TẾ",
-      "cluster": "health",
-      "url": "health/phan-6-phan-tich-loi-sai-va-lo-trinh-khac-phuc-thuc-te/",
-      "description": "Để hoàn thiện cú Backhand, vận động viên cần nhận diện các lỗi sai phổ biến và áp dụng phương pháp sửa chữa từng bước. #### 6.1. Lỗi \"Đánh bằng tay\" (Arm-hitting) * Dấu hiệu: Vai gồng, khuỷu tay bị lùi ra sau quá nhiều hoặc bị gập quá mức, bóng đi th"
-    },
-    {
-      "id": "health/phan-6-phan-tich-loi-sai-va-lo-trinh-luyen-tap",
-      "name": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH LUYỆN TẬP",
-      "cluster": "health",
-      "url": "health/phan-6-phan-tich-loi-sai-va-lo-trinh-luyen-tap/",
-      "description": "#### 6.1. Lỗi \"Double Fault\" thường xuyên * Nguyên nhân: Lỗi này thường đến từ tâm lý (run hand) hơn là kỹ thuật. Khi căng thẳng, chuỗi động lực bị đứt gãy, vận động viên mất kiểm soát tay tung bóng. * Cách sửa: Quay lại kỹ thuật \"Tĩnh\" (Song). Trước"
-    },
-    {
-      "id": "health/phan-6-theo-doi-do-luong-va-dieu-chinh-bai-tap-dua-tren-chi-so-duong-huyet",
-      "name": "PHẦN 6: THEO DÕI, ĐO LƯỜNG VÀ ĐIỀU CHỈNH BÀI TẬP DỰA TRÊN CHỈ SỐ ĐƯỜNG HUYẾT",
-      "cluster": "health",
-      "url": "health/phan-6-theo-doi-do-luong-va-dieu-chinh-bai-tap-dua-tren-chi-so-duong-huyet/",
-      "description": "Đối với bệnh nhân tiểu đường, việc tập luyện không thể tách rời việc theo dõi chỉ số đường huyết. Tập luyện đúng là tốt, nhưng tập luyện sai thời điểm hoặc sai cường độ có thể gây ra những rủi ro nghiêm cứu. #### **6.1. Thời điểm \"Vàng\" để tập luyện*"
-    },
-    {
-      "id": "health/phan-6-thiet-lap-lich-trinh-van-dong-cho-doanh-nhan-ban-ron-2",
-      "name": "PHẦN 6: THIẾT LẬP LỊCH TRÌNH VẬN ĐỘNG CHO DOANH NHÂN BẬN RỘN",
-      "cluster": "health",
-      "url": "health/phan-6-thiet-lap-lich-trinh-van-dong-cho-doanh-nhan-ban-ron-2/",
-      "description": "Một lịch tập luyện lý tưởng không phải là lịch tập nhiều nhất, mà là lịch tập **phù hợp nhất** với nhịp sinh học và khối lượng công việc. #### **6.1. Mô hình \"Tích hợp vận động\" (Integrated Movement)** Thay vì dành ra 2 tiếng tại phòng gym (điều mà n"
-    },
-    {
-      "id": "health/phan-6-thiet-lap-lich-trinh-van-dong-cho-doanh-nhan-ban-ron",
-      "name": "PHẦN 6: THIẾT LẬP LỊCH TRÌNH VẬN ĐỘNG CHO DOANH NHÂN BẬN RỘN",
-      "cluster": "health",
-      "url": "health/phan-6-thiet-lap-lich-trinh-van-dong-cho-doanh-nhan-ban-ron/",
-      "description": "Một lịch tập luyện lý tưởng không phải là lịch tập nhiều nhất, mà là lịch tập phù hợp nhất với nhịp sinh học và khối lượng công việc. #### 6.1. Mô hình \"Tích hợp vận động\" (Integrated Movement) Thay vì dành ra 2 tiếng tại phòng gym (điều mà nhiều doa"
-    },
-    {
-      "id": "health/phan-6-tong-ket-va-cac-luu-y-an-toan-dac-biet-cho-benh-nhan-parkinson",
-      "name": "PHẦN 6: TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN ĐẶC BIỆT CHO BỆNH NHÂN PARKINSON",
-      "cluster": "health",
-      "url": "health/phan-6-tong-ket-va-cac-luu-y-an-toan-dac-biet-cho-benh-nhan-parkinson/",
-      "description": "Vì đặc thù của bệnh Parkinson là sự mất ổn định về tư thế và phản xạ, việc tập luyện Thái Cực Quyền cần tuân thủ những quy tắc an toàn khắt khe để tránh những tai nạn đáng tiếc. #### **6.1. Thiết lập \"Môi trường không rủi ro\" (Zero-Fall Environment)*"
-    },
-    {
-      "id": "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-copd",
-      "name": "PHẦN 6: TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN COPD",
-      "cluster": "health",
-      "url": "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-copd/",
-      "description": "Vì COPD là một bệnh lý gây thiếu hụt oxy mạn tính, việc tập luyện không đúng cách có thể dẫn đến những biến cố nguy hiểm như ngất xỉu hoặc suy hô hấp cấp. Do đó, an toàn phải là ưu tiên hàng đầu. #### **6.1. Theo dõi chỉ số SpO2 và Nhịp tim** Đối với"
-    },
-    {
-      "id": "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-suy-tim-2",
-      "name": "PHẦN 6: TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN SUY TIM",
-      "cluster": "health",
-      "url": "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-suy-tim-2/",
-      "description": "Vì suy tim là một tình trạng bệnh lý nguy hiểm, việc tập luyện Thái Cực Quyền phải tuân thủ những nguyên tắc an toàn khắt khe để tránh biến một bài tập sức khỏe thành một rủi ro y tế. #### **6.1. \"Bài kiểm tra nói chuyện\" (The Talk Test) - Công cụ gi"
-    },
-    {
-      "id": "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-suy-tim",
-      "name": "PHẦN 6: TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN SUY TIM",
-      "cluster": "health",
-      "url": "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-suy-tim/",
-      "description": "Vì suy tim là một tình trạng bệnh lý nguy hiểm, việc tập luyện Thái Cực Quyền phải tuân thủ những nguyên tắc an toàn khắt khe để tránh biến một bài tập sức khỏe thành một rủi ro y tế. #### **6.1. \"Bài kiểm tra nói chuyện\" (The Talk Test) - Công cụ gi"
-    },
-    {
-      "id": "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-than",
-      "name": "PHẦN 6: TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN THẬN",
-      "cluster": "health",
-      "url": "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-than/",
-      "description": "Thái Cực Quyền là một liệu pháp hỗ trợ tuyệt vời, nhưng đối với bệnh nhân thận, sự an toàn phải đặt lên trên hết. #### **6.1. Những \"Vùng đỏ\" nguy hiểm (Red Flags)** Dừng tập và báo cho bác sĩ ngay khi gặp các dấu hiệu sau: 1. **Phù tăng đột ngột:** "
-    },
-    {
-      "id": "health/phan-6-tong-ket-va-che-do-dinh-duong-ket-hop-tap-luyen",
-      "name": "PHẦN 6: TỔNG KẾT VÀ CHẾ ĐỘ DINH DƯỠNG KẾT HỢP TẬP LUYỆN",
-      "cluster": "health",
-      "url": "health/phan-6-tong-ket-va-che-do-dinh-duong-ket-hop-tap-luyen/",
-      "description": "Để đạt được hiệu quả tối đa trong việc quản lý sức khỏe đường ruột, Thái Cực Quyền cần được kết hợp với một chiến lược dinh dưỡng thông minh, tôn trọng nhịp sinh học của cơ thể. #### **6.1. Ma trận \"Dinh dưỡng - Vận động\" cho hệ tiêu hóa** | Thời điể"
-    },
-    {
-      "id": "health/phan-6-tong-ket-va-lo-trinh-thoat-khoi-met-moi-man-tinh",
-      "name": "PHẦN 6: TỔNG KẾT VÀ LỘ TRÌNH THOÁT KHỎI MỆT MỎI MẠN TÍNH",
-      "cluster": "health",
-      "url": "health/phan-6-tong-ket-va-lo-trinh-thoat-khoi-met-moi-man-tinh/",
-      "description": "Thoát khỏi stress mạn tính và CFS không phải là một cuộc chạy đua, mà là một cuộc hành trình kiên nhẫn. Chìa khóa không nằm ở cường độ tập luyện, mà nằm ở **sự nhất quán và sự thấu hiểu cơ thể**. #### **6.1. Tư duy \"Hạt mầm\" trong phục hồi** Hãy coi "
-    },
-    {
-      "id": "health/phan-6-tong-ket-va-luu-y-an-toan-cho-benh-nhan-gan",
-      "name": "PHẦN 6: TỔNG KẾT VÀ LƯU Ý AN TOÀN CHO BỆNH NHÂN GAN",
-      "cluster": "health",
-      "url": "health/phan-6-tong-ket-va-luu-y-an-toan-cho-benh-nhan-gan/",
-      "description": "Gan là cơ quan thầm lặng, nó không biết kêu đau cho đến khi tổn thương nghiêm trọng. Vì vậy, sự lắng nghe cơ thể là yếu tố sống còn. #### **6.1. Những \"Cờ đỏ\" cần dừng tập ngay lập tức** Người tập cần đặc biệt lưu ý các dấu hiệu sau: - **Vàng da/Vàng"
-    },
-    {
-      "id": "health/phan-6-tong-ket-va-xay-dung-loi-song-tinh-thuc-mindful-living",
-      "name": "PHẦN 6: TỔNG KẾT VÀ XÂY DỰNG LỐI SỐNG TỈNH THỨC (MINDFUL LIVING)",
-      "cluster": "health",
-      "url": "health/phan-6-tong-ket-va-xay-dung-loi-song-tinh-thuc-mindful-living/",
-      "description": "Điều trị mất ngủ, trầm cảm và lo âu không phải là một đích đến, mà là một quá trình. Thái Cực Quyền không chỉ là một bài tập 30 phút mỗi ngày, mà là một triết lý sống về sự cân bằng. #### **6.1. Biến Thái Cực thành lối sống** Để ngăn ngừa sự tái phát"
-    },
-    {
-      "id": "health/phan-6-tu-thang-thu-bay-den-cuoi-nam-thu-nhat-nang-cao-tinh-chinh-va-dua-vao-doi",
-      "name": "PHẦN 6: TỪ THÁNG THỨ BẢY ĐẾN CUỐI NĂM THỨ NHẤT - NÂNG CAO, TINH CHỈNH VÀ ĐƯA VÀO ĐỜI SỐNG",
-      "cluster": "health",
-      "url": "health/phan-6-tu-thang-thu-bay-den-cuoi-nam-thu-nhat-nang-cao-tinh-chinh-va-dua-vao-doi/",
-      "description": "Sau nửa năm, bạn đã có \"hình\" (biết bài quyền). Từ tháng thứ 7 đến cuối năm thứ nhất là giai đoạn **\"Luyện chất\"**. Mục tiêu là biến những động tác máy móc thành phản xạ tự nhiên và ứng dụng những lợi ích của TCQ vào mọi hoạt động thường ngày. #### *"
-    },
-    {
-      "id": "health/phan-6-ung-dung-hoi-tho-trong-tennis-toi-uu-hoa-hieu-suat-va-phuc-hoi",
-      "name": "PHẦN 6: ỨNG DỤNG HƠI THỞ TRONG TENNIS - TỐI ƯU HÓA HIỆU SUẤT VÀ PHỤC HỒI",
-      "cluster": "health",
-      "url": "health/phan-6-ung-dung-hoi-tho-trong-tennis-toi-uu-hoa-hieu-suat-va-phuc-hoi/",
-      "description": "Tennis là một môn thể thao đặc thù với cường độ vận động ngắt quãng (Interval Training). Vận động viên phải trải qua những pha bóng bùng nổ (Anaerobic) rồi lại có những khoảng nghỉ ngắn (Aerobic). Nếu không biết cách điều phối hơi thở, vận động viên "
-    },
-    {
-      "id": "health/phan-7-ket-hop-thai-cuc-quyen-voi-che-do-dinh-duong-cho-nguoi-tieu-duong",
-      "name": "PHẦN 7: KẾT HỢP THÁI CỰC QUYỀN VỚI CHẾ ĐỘ DINH DƯỠNG CHO NGƯỜI TIỂU ĐƯỜNG",
-      "cluster": "health",
-      "url": "health/phan-7-ket-hop-thai-cuc-quyen-voi-che-do-dinh-duong-cho-nguoi-tieu-duong/",
-      "description": "Vận động là \"chìa khóa\" mở cửa tế bào để hấp thu đường, nhưng dinh dưỡng chính là \"nhiên liệu\" quyết định chất lượng của quá trình đó. Nếu tập luyện mà không có chế độ ăn phù hợp, bệnh nhân dễ rơi vào tình trạng mệt mỏi, sụt cân không lành mạnh hoặc "
-    },
-    {
-      "id": "health/phan-7-su-dong-bo-giua-hoi-tho-va-chuyen-dong-breath-movement-synchronization-ng",
-      "name": "PHẦN 7: SỰ ĐỒNG BỘ GIỮA HƠI THỞ VÀ CHUYỂN ĐỘNG (BREATH-MOVEMENT SYNCHRONIZATION) - NGHỆ THUẬT ĐIỀU PHỐI NĂNG LƯỢNG",
-      "cluster": "health",
-      "url": "health/phan-7-su-dong-bo-giua-hoi-tho-va-chuyen-dong-breath-movement-synchronization-ng/",
-      "description": "Trong vận động học, việc tách rời hơi thở khỏi chuyển động là một trong những nguyên nhân chính gây ra sự lãng phí năng lượng và tăng nguy cơ chấn thương. Trong Thái Cực Quyền, hơi thở không bao giờ hoạt động độc lập; nó là \"nhịp trưởng\" điều phối to"
-    },
-    {
-      "id": "health/phan-7-tong-ket-lo-trinh-ren-luyen-tam-tri-tu-nguoi-moi-den-bac-thay",
-      "name": "PHẦN 7: TỔNG KẾT LỘ TRÌNH RÈN LUYỆN TÂM TRÍ - TỪ NGƯỜI MỚI ĐẾN BẬC THẦY",
-      "cluster": "health",
-      "url": "health/phan-7-tong-ket-lo-trinh-ren-luyen-tam-tri-tu-nguoi-moi-den-bac-thay/",
-      "description": "Để đạt được sự làm chủ tâm thức, không thể nóng vội. Tâm trí giống như một khối cơ, nó cần được rèn luyện theo lộ trình tăng dần cường độ. #### **7.1. Giai đoạn 1: Nhận diện (Tháng 1-3)** - **Mục tiêu:** Nhận ra khi nào mình bị stress, khi nào mình b"
-    },
-    {
-      "id": "health/phan-7-tong-ket-lo-trinh-ren-luyen-tim-mach-cho-tung-do-tuoi",
-      "name": "PHẦN 7: TỔNG KẾT LỘ TRÌNH RÈN LUYỆN TIM MẠCH CHO TỪNG ĐỘ TUỔI",
-      "cluster": "health",
-      "url": "health/phan-7-tong-ket-lo-trinh-ren-luyen-tim-mach-cho-tung-do-tuoi/",
-      "description": "Không có một công thức chung cho tất cả mọi người. Lộ trình tập luyện cần được điều chỉnh theo đặc điểm sinh lý của từng giai đoạn cuộc đời để đạt được hiệu quả cao nhất và an toàn nhất. #### **7.1. Giai đoạn Thanh niên (20 - 40 tuổi): Tối ưu hóa và "
-    },
-    {
-      "id": "health/phan-8-khi-cong-va-kha-nang-dao-thai-doc-to-tre-hoa-te-bao-anti-aging",
-      "name": "PHẦN 8: KHÍ CÔNG VÀ KHẢ NĂNG ĐÀO THẢI ĐỘC TỐ, TRẺ HÓA TẾ BÀO (ANTI-AGING)",
-      "cluster": "health",
-      "url": "health/phan-8-khi-cong-va-kha-nang-dao-thai-doc-to-tre-hoa-te-bao-anti-aging/",
-      "description": "Một trong những lời hứa lớn nhất của Thái Cực Quyền và Khí công là kéo dài tuổi thọ. Điều này không phải là điều huyền bí, mà có thể giải thích thông qua cơ chế sinh học về hệ bạch huyết, quản lý stress oxy hóa và bảo vệ telomere. #### **8.1. Kích ho"
-    },
-    {
-      "id": "health/phan-8-tong-ket-va-cac-cau-hoi-thuong-gap-faq",
-      "name": "PHẦN 8: TỔNG KẾT VÀ CÁC CÂU HỎI THƯỜNG GẶP (FAQ)",
-      "cluster": "health",
-      "url": "health/phan-8-tong-ket-va-cac-cau-hoi-thuong-gap-faq/",
-      "description": "Để kết thúc chương này, chúng ta sẽ tổng hợp lại những điểm cốt lõi và giải đáp các thắc mắc thực tế nhất mà người bệnh thường gặp phải khi bắt đầu hành trình kết hợp Thái Cực Quyền vào điều trị tiểu đường. #### **8.1. Tóm tắt quy trình vận hành \"Sức"
-    },
-    {
-      "id": "health/phan-9-ung-dung-khi-cong-trong-dieu-tri-benh-ly-ho-hap-va-tim-mach",
-      "name": "PHẦN 9: ỨNG DỤNG KHÍ CÔNG TRONG ĐIỀU TRỊ BỆNH LÝ HÔ HẤP VÀ TIM MẠCH",
-      "cluster": "health",
-      "url": "health/phan-9-ung-dung-khi-cong-trong-dieu-tri-benh-ly-ho-hap-va-tim-mach/",
-      "description": "Khi chúng ta đã hiểu rõ cơ chế của hơi thở đối với hệ thần kinh và tế bào, câu hỏi đặt ra là: Làm thế nào để dùng hơi thở như một công cụ trị liệu? Trong y học hiện đại, việc kết hợp Khí công với phác đồ điều trị truyền thống đã mang lại những kết qu"
-    },
-    {
       "id": "health/phan-hu-thuc-nghien-cuu-can-bang-dong-luc-hoc",
       "name": "2.3. \"PHÂN HƯ THỰC\" - NGHIÊN CỨU CÂN BẰNG ĐỘNG LỰC HỌC",
       "cluster": "health",
@@ -2267,13 +1630,6 @@
       "cluster": "health",
       "url": "health/phan-tich-chi-tiet-cac-nhom-dong-tac-co-ban/",
       "description": "Để người học không bị choáng ngợp bởi 24 động tác, chúng ta chia bài tập thành 4 nhóm vận động chính: #### **Nhóm 1: Khai thức và Chuẩn bị (Sự tĩnh lặng trong vận động)** Các động tác mở đầu tập trung vào việc **đánh thức cơ thể**. - **Kỹ thuật:** Đứ"
-    },
-    {
-      "id": "health/su-tuong-dong-giua-triet-ly-thai-cuc-va-dieu-kien-thi-dau-tennis",
-      "name": "3.1. SỰ TƯƠNG ĐỒNG GIỮA TRIẾT LÝ THÁI CỰC VÀ ĐIỀU KIỆN THI ĐẤU TENNIS",
-      "cluster": "health",
-      "url": "health/su-tuong-dong-giua-triet-ly-thai-cuc-va-dieu-kien-thi-dau-tennis/",
-      "description": "Tennis là môn thể thao của những sự đối lập: Tĩnh và Động, Nhanh và Chậm, Cương và Nhu. Một tay vợt không thể chỉ dùng sức mạnh (Cương) mà thiếu đi sự linh hoạt (Nhu) sẽ dễ bị chấn thương và nhanh kiệt sức. Nguyên lý cốt lõi của TCQ là **\"trong tĩnh "
     },
     {
       "id": "health/tam-thuc-va-thien-trong-luyen-tap-lam-chu-tam-tri-de-dieu-khien-co-the",
@@ -2409,20 +1765,6 @@
       "description": "**Chương 9: Cơ chế tác động đến hệ tim mạch** - Nghiên cứu giảm huyết áp 15.6/8.8 mmHg - Cải thiện tuần hoàn máu - Phòng ngừa đột quỵ **Chương 10: Ứng dụng trong bệnh tiểu đường** - Kiểm soát đường huyết - Tăng độ nhạy insulin - Nghiên cứu 12 tuần ch"
     },
     {
-      "id": "health/ung-dung-trong-the-thao-tennis-chuong-19-28",
-      "name": "PHẦN III: ỨNG DỤNG TRONG THỂ THAO TENNIS** (Chương 19-28)",
-      "cluster": "health",
-      "url": "health/ung-dung-trong-the-thao-tennis-chuong-19-28/",
-      "description": "**Chương 19: Nền tảng kỹ thuật tennis cần Thái Cực Quyền** - Phân tích các kỹ thuật cơ bản - Điểm yếu thường gặp **Chương 20: Footwork và di chuyển trên sân** - 4 kỹ thuật di chuyển cơ bản - Shuffle steps, Crossover steps - Ứng dụng nguyên lý Thái Cự"
-    },
-    {
-      "id": "health/ung-dung-trong-the-thao-tennischuong-19-28",
-      "name": "PHẦN III: ỨNG DỤNG TRONG THỂ THAO TENNIS (Chương 19-28)",
-      "cluster": "health",
-      "url": "health/ung-dung-trong-the-thao-tennischuong-19-28/",
-      "description": "Chương 19: Nền tảng kỹ thuật tennis cần Thái Cực Quyền * Phân tích các kỹ thuật cơ bản * Điểm yếu thường gặp Chương 20: Footwork và di chuyển trên sân * 4 kỹ thuật di chuyển cơ bản * Shuffle steps, Crossover steps * Ứng dụng nguyên lý Thái Cực Chương"
-    },
-    {
       "id": "technique/bang-liet-ke-cac-diem-kinh-va-can-nguyen-cua-kinh",
       "name": "2.2. Bảng Liệt Kê Các Điểm Kình và Căn Nguyên Của Kình",
       "cluster": "technique",
@@ -2512,230 +1854,6 @@
       "cluster": "technique",
       "url": "technique/thap-yeu-cua-thai-cuc-quyen/",
       "description": "Thái Cực Quyền có mười yếu lĩnh quan trọng mà người học cần nắm vững để đạt được hiệu quả cao nhất trong luyện tập: 1.  **Hư Linh Đỉnh Kình:** Đầu phải ngay thẳng, tinh thần tập trung, không gồng cứng cổ. Điều này giúp khí huyết lưu thông, tinh thần "
-    },
-    {
-      "id": "tennis/ky-thuat-footwork-nang-cao-va-su-thang-bang-dong-trong-tennis",
-      "name": "CHƯƠNG 21: KỸ THUẬT FOOTWORK NÂNG CAO VÀ SỰ THĂNG BẰNG ĐỘNG TRONG TENNIS",
-      "cluster": "tennis",
-      "url": "tennis/ky-thuat-footwork-nang-cao-va-su-thang-bang-dong-trong-tennis/",
-      "description": "Trong Tennis, có một câu nói nổi tiếng: *\"Trận đấu được định đoạt bởi đôi chân trước khi vợt chạm bóng\"*. Sự khác biệt giữa một tay vợt nghiệp dư và một tay vợt chuyên nghiệp không nằm ở sức mạnh cánh tay, mà nằm ở **Footwork (bộ chân)**. Footwork kh"
-    },
-    {
-      "id": "tennis/phan-1-chuoi-dong-luc-kinetic-chain-va-nguyen-ly-bam-re-trong-forehand",
-      "name": "PHẦN 1: CHUỖI ĐỘNG LỰC (KINETIC CHAIN) VÀ NGUYÊN LÝ \"BÁM RỄ\" TRONG FOREHAND",
-      "cluster": "tennis",
-      "url": "tennis/phan-1-chuoi-dong-luc-kinetic-chain-va-nguyen-ly-bam-re-trong-forehand/",
-      "description": "Để có một cú Forehand uy lực, điều đầu tiên không phải là vung vợt, mà là cách bạn kết nối với mặt đất. Trong TCQ, điều này gọi là \"Bám rễ\" (Rooting). #### 1.1. Lực phản hồi từ mặt đất (Ground Reaction Force) Sức mạnh của cú đánh không bắt đầu từ vai"
-    },
-    {
-      "id": "tennis/phan-1-chuoi-dong-luc-trong-cu-smash-tu-bam-re-den-phat-luc",
-      "name": "PHẦN 1: CHUỖI ĐỘNG LỰC TRONG CÚ SMASH - TỪ \"BÁM RỄ\" ĐẾN \"PHÁT LỰC\"",
-      "cluster": "tennis",
-      "url": "tennis/phan-1-chuoi-dong-luc-trong-cu-smash-tu-bam-re-den-phat-luc/",
-      "description": "Để tạo ra một cú Smash uy lực, vận động viên cần hiểu rằng cánh tay chỉ là \"điểm cuối\" của một chuỗi truyền dẫn năng lượng. Nếu bạn chỉ dùng tay, bạn đang lãng phí 80% sức mạnh tiềm năng của cơ thể. #### 1.1. Quy trình truyền lực 4 giai đoạn Theo ngu"
-    },
-    {
-      "id": "tennis/phan-1-giai-doan-chuan-bi-thiet-lap-su-tinh-lang-va-bam-re",
-      "name": "PHẦN 1: GIAI ĐOẠN CHUẨN BỊ - THIẾT LẬP \"SỰ TĨNH LẶNG\" VÀ BÁM RỄ",
-      "cluster": "tennis",
-      "url": "tennis/phan-1-giai-doan-chuan-bi-thiet-lap-su-tinh-lang-va-bam-re/",
-      "description": "Giai đoạn chuẩn bị (Preparation) là nền móng của toàn bộ cú giao bóng. Nếu nền móng không vững, mọi nỗ lực phát lực ở giai đoạn sau sẽ trở nên vô nghĩa hoặc gây chấn thương. #### 1.1. Trạng thái \"Tĩnh\" trước khi vận động Trước khi tung bóng, vận động"
-    },
-    {
-      "id": "tennis/phan-1-khai-niem-su-bam-re-rooting-trong-di-chuyen-tennis",
-      "name": "PHẦN 1: KHÁI NIỆM \"SỰ BÁM RỄ\" (ROOTING) TRONG DI CHUYỂN TENNIS",
-      "cluster": "tennis",
-      "url": "tennis/phan-1-khai-niem-su-bam-re-rooting-trong-di-chuyen-tennis/",
-      "description": "Trong Thái Cực Quyền, \"Bám rễ\" (Rooting) không có nghĩa là đứng im một chỗ, mà là khả năng duy trì sự kết nối chặt chẽ với mặt đất trong mọi trạng thái vận động. #### **1.1. Sự khác biệt giữa \"Đứng\" và \"Bám rễ\"** Đa số người chơi tennis di chuyển bằn"
-    },
-    {
-      "id": "tennis/phan-1-sinh-co-hoc-cua-cu-backhand-va-triet-ly-can-bang-doi-xung",
-      "name": "PHẦN 1: SINH CƠ HỌC CỦA CÚ BACKHAND VÀ TRIẾT LÝ \"CÂN BẰNG ĐỐI XỨNG\"",
-      "cluster": "tennis",
-      "url": "tennis/phan-1-sinh-co-hoc-cua-cu-backhand-va-triet-ly-can-bang-doi-xung/",
-      "description": "Để cải thiện cú Backhand, trước hết chúng ta phải hiểu những rào cản sinh cơ học mà một tay vợt thường gặp phải và cách TCQ hóa giải chúng. #### 1.1. Thách thức về góc xoay và tầm với Khác với Forehand, khi đánh Backhand, vai trái (với người thuận ta"
-    },
-    {
-      "id": "tennis/phan-2-luc-xoan-oc-spiral-force-va-su-phoi-hop-giua-hong-va-vai",
-      "name": "PHẦN 2: LỰC XOẮN ỐC (SPIRAL FORCE) VÀ SỰ PHỐI HỢP GIỮA HÔNG VÀ VAI",
-      "cluster": "tennis",
-      "url": "tennis/phan-2-luc-xoan-oc-spiral-force-va-su-phoi-hop-giua-hong-va-vai/",
-      "description": "Sai lầm lớn nhất trong cú Forehand là vung vợt theo một đường thẳng. Trong Thái Cực Quyền, không có đường thẳng, chỉ có những vòng tròn và đường xoắn ốc. Sức mạnh thực sự của cú đánh nằm ở sự xoay trục (Torsion). #### 2.1. Sự xoay của hông - \"Động cơ"
-    },
-    {
-      "id": "tennis/phan-2-quan-ly-trong-tam-hu-thuc-trong-cac-pha-di-chuyen-dien-hinh",
-      "name": "PHẦN 2: QUẢN LÝ TRỌNG TÂM \"HƯ - THỰC\" TRONG CÁC PHA DI CHUYỂN ĐIỂN HÌNH",
-      "cluster": "tennis",
-      "url": "tennis/phan-2-quan-ly-trong-tam-hu-thuc-trong-cac-pha-di-chuyen-dien-hinh/",
-      "description": "Trong Tennis, việc phân định chân nào là \"Hư\" (không chịu lực/nhẹ) và chân nào là \"Thực\" (chịu lực/vững) quyết định tốc độ và độ chính xác của cú đánh. #### **2.1. Trong pha Split-step (Bước nhảy chuẩn bị)** Split-step là khoảnh khắc chuyển đổi từ Tĩ"
-    },
-    {
-      "id": "tennis/phan-2-quan-ly-trong-tam-hu-thuc-trong-di-chuyen-backhand",
-      "name": "PHẦN 2: QUẢN LÝ TRỌNG TÂM \"HƯ - THỰC\" TRONG DI CHUYỂN BACKHAND",
-      "cluster": "tennis",
-      "url": "tennis/phan-2-quan-ly-trong-tam-hu-thuc-trong-di-chuyen-backhand/",
-      "description": "Thăng bằng trong cú Backhand phức tạp hơn nhiều so với Forehand vì vận động viên thường phải di chuyển ngược hướng với tay đánh, dễ gây ra tình trạng \"đổ\" người hoặc mất trụ. #### 2.1. Kỹ thuật \"Bám rễ\" trong pha chuyển hướng Khi đối thủ đánh một quả"
-    },
-    {
-      "id": "tennis/phan-2-quy-trinh-tung-bong-va-su-phoi-hop-tay-trai-tay-phai",
-      "name": "PHẦN 2: QUY TRÌNH TUNG BÓNG VÀ SỰ PHỐI HỢP \"TAY TRÁI - TAY PHẢI\"",
-      "cluster": "tennis",
-      "url": "tennis/phan-2-quy-trinh-tung-bong-va-su-phoi-hop-tay-trai-tay-phai/",
-      "description": "Tung bóng (The Toss) thường bị coi là một hành động phụ, nhưng trong Thái Cực Quyền, đây là khởi đầu của một chuỗi vận động liên hoàn. Sự thiếu ổn định trong cú tung bóng là nguyên nhân hàng đầu gây ra những cú giao bóng lỗi. #### 2.1. Sự đối xứng và"
-    },
-    {
-      "id": "tennis/phan-2-suc-manh-tu-chieu-thuc-tan-dung-luc-day-chieu-thuc-vertical-force",
-      "name": "PHẦN 2: SỨC MẠNH TỪ CHIỀU THỨC: TẬN DỤNG LỰC ĐẨY CHIỀU THỨC (VERTICAL FORCE)",
-      "cluster": "tennis",
-      "url": "tennis/phan-2-suc-manh-tu-chieu-thuc-tan-dung-luc-day-chieu-thuc-vertical-force/",
-      "description": "Khác với các cú đánh ngang (Forehand, Backhand), cú Smash là sự kết hợp giữa lực ngang và lực thẳng đứng. Bí mật của sức mạnh nằm ở cách bạn quản lý trọng tâm trong pha bật nhảy. #### 2.1. Nguyên lý \"Sụp đổ có kiểm soát\" (Controlled Sinking) Trước kh"
-    },
-    {
-      "id": "tennis/phan-3-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot",
-      "name": "PHẦN 3: CHUỖI ĐỘNG LỰC TRONG PHA VUNG VỢT - TỪ CHÂN LÊN ĐẦU VỢT",
-      "cluster": "tennis",
-      "url": "tennis/phan-3-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot/",
-      "description": "Trong Thái Cực Quyền, một quy tắc bất biến là: _\"Lực phát ra từ chân, dẫn dắt bởi hông, điều phối bởi vai và kết thúc ở ngón tay\"_. Cú giao bóng (Serve) là ví dụ điển hình nhất cho chuỗi động lực này. Nếu bạn chỉ vung tay, bạn đang bỏ lỡ 80% sức mạnh"
-    },
-    {
-      "id": "tennis/phan-3-ky-thuat-lang-nghe-ting-jin-de-du-doan-huong-bong",
-      "name": "PHẦN 3: KỸ THUẬT \"LẮNG NGHE\" (TING JIN) ĐỂ DỰ ĐOÁN HƯỚNG BÓNG",
-      "cluster": "tennis",
-      "url": "tennis/phan-3-ky-thuat-lang-nghe-ting-jin-de-du-doan-huong-bong/",
-      "description": "Trong Thái Cực Quyền, \"Ting\" (Lắng nghe) không phải là nghe bằng tai, mà là dùng toàn bộ hệ thần kinh và sự nhạy cảm của cơ thể để cảm nhận lực và ý định của đối phương. Trong bắt lưới, nơi thời gian phản ứng chỉ tính bằng mili giây, kỹ thuật \"lắng n"
-    },
-    {
-      "id": "tennis/phan-3-ky-thuat-song-tha-long-co-tay-de-tang-toc-do-dau-vot",
-      "name": "PHẦN 3: KỸ THUẬT \"SONG\" (THẢ LỎNG) CỔ TAY ĐỂ TĂNG TỐC ĐỘ ĐẦU VỢT",
-      "cluster": "tennis",
-      "url": "tennis/phan-3-ky-thuat-song-tha-long-co-tay-de-tang-toc-do-dau-vot/",
-      "description": "Một trong những sai lầm phổ biến nhất của người chơi tennis là cố gắng cầm vợt thật chặt để tăng lực đánh. Tuy nhiên, trong vật lý học và Thái Cực Quyền, việc gồng cứng cổ tay chính là cách nhanh nhất để triệt tiêu tốc độ. #### 3.1. Hiệu ứng \"Chiếc R"
-    },
-    {
-      "id": "tennis/phan-3-luc-xoan-oc-spiral-force-va-su-phoi-hop-dieu-huyet-giua-vai-va-hong",
-      "name": "PHẦN 3: LỰC XOẮN ỐC (SPIRAL FORCE) VÀ SỰ PHỐI HỢP ĐIỀU HUYẾT GIỮA VAI VÀ HÔNG",
-      "cluster": "tennis",
-      "url": "tennis/phan-3-luc-xoan-oc-spiral-force-va-su-phoi-hop-dieu-huyet-giua-vai-va-hong/",
-      "description": "Trong Thái Cực Quyền, sức mạnh không bao giờ đi theo đường thẳng tắp. Lực được tạo ra thông qua sự xoay tròn và xoắn ốc. Đối với cú Smash trong tennis, nếu bạn chỉ vung tay từ trên xuống dưới, bạn chỉ đang dùng lực của cơ vai. Nhưng nếu bạn áp dụng l"
-    },
-    {
-      "id": "tennis/phan-3-su-thang-bang-dong-va-kha-nang-phuc-hoi-trong-tam-tuc-thoi",
-      "name": "PHẦN 3: SỰ THĂNG BẰNG ĐỘNG VÀ KHẢ NĂNG \"PHỤC HỒI TRỌNG TÂM\" TỨC THỜI",
-      "cluster": "tennis",
-      "url": "tennis/phan-3-su-thang-bang-dong-va-kha-nang-phuc-hoi-trong-tam-tuc-thoi/",
-      "description": "Thăng bằng trong tennis không phải là đứng im, mà là khả năng **tự điều chỉnh trọng tâm khi đang di chuyển**. Đây chính là điểm giao thoa giữa vật lý học và Thái Cực Quyền. #### **3.1. Cơ chế \"Đồng tâm\" và \"Ly tâm\" trong vung vợt** Khi vung vợt mạnh,"
-    },
-    {
-      "id": "tennis/phan-3-suc-manh-xoay-truc-va-luc-xoan-oc-trong-backhand",
-      "name": "PHẦN 3: SỨC MẠNH XOAY TRỤC VÀ LỰC XOẮN ỐC TRONG BACKHAND",
-      "cluster": "tennis",
-      "url": "tennis/phan-3-suc-manh-xoay-truc-va-luc-xoan-oc-trong-backhand/",
-      "description": "Một sai lầm phổ biến của người chơi tennis khi đánh Backhand là cố gắng \"đẩy\" bóng đi bằng lực của bắp tay hoặc vai. Điều này không chỉ làm cú đánh thiếu lực mà còn gây áp lực cực lớn lên khớp khuỷu tay. Trong Thái Cực Quyền, sức mạnh không đến từ sự"
-    },
-    {
-      "id": "tennis/phan-4-co-che-nhu-va-cuong-trong-cac-cu-volley",
-      "name": "PHẦN 4: CƠ CHẾ \"NHU\" VÀ \"CƯƠNG\" TRONG CÁC CÚ VOLLEY",
-      "cluster": "tennis",
-      "url": "tennis/phan-4-co-che-nhu-va-cuong-trong-cac-cu-volley/",
-      "description": "Một cú Volley hiệu quả không phải là cú đánh mạnh nhất, mà là cú đánh có sự phối hợp hợp lý nhất giữa sự mềm mại (Nhu) và sự dứt khoát (Cương). Sai lầm lớn nhất là dùng lực \"Cương\" cho mọi cú đánh, khiến bóng dễ bị văng ra ngoài hoặc gây mỏi cơ. ####"
-    },
-    {
-      "id": "tennis/phan-4-ky-thuat-tha-long-co-tay-de-dat-toc-do-dau-vot-toi-da",
-      "name": "PHẦN 4: KỸ THUẬT THẢ LỎNG CỔ TAY ĐỂ ĐẠT TỐC ĐỘ ĐẦU VỢT TỐI ĐA",
-      "cluster": "tennis",
-      "url": "tennis/phan-4-ky-thuat-tha-long-co-tay-de-dat-toc-do-dau-vot-toi-da/",
-      "description": "Cổ tay là điểm cuối cùng của chuỗi động lực. Trong Thái Cực Quyền, cổ tay là bộ phận linh hoạt nhất, đóng vai trò như một chiếc van điều tiết năng lượng. Trong cú Smash, cổ tay không được dùng để \"đẩy\" bóng mà dùng để \"búng\" bóng. #### 4.1. Hiện tượn"
-    },
-    {
-      "id": "tennis/phan-4-ky-thuat-tha-long-co-tay-va-su-tre-cua-dau-vot",
-      "name": "PHẦN 4: KỸ THUẬT THẢ LỎNG CỔ TAY VÀ \"SỰ TRỄ\" CỦA ĐẦU VỢT",
-      "cluster": "tennis",
-      "url": "tennis/phan-4-ky-thuat-tha-long-co-tay-va-su-tre-cua-dau-vot/",
-      "description": "Cổ tay là mắt xích cuối cùng và quan trọng nhất trong chuỗi động lực. Nếu cổ tay bị gồng cứng, toàn bộ lực từ hông và vai sẽ bị chặn lại tại khớp cổ tay, khiến cú đánh bị \"cụt\" và dễ chấn thương. #### 4.1. Nguyên lý \"Song\" (Thả lỏng) và hiện tượng La"
-    },
-    {
-      "id": "tennis/phan-4-su-phoi-hop-giua-footwork-va-nhip-dieu-hoi-tho-su-dong-bo-hoan-hao",
-      "name": "PHẦN 4: SỰ PHỐI HỢP GIỮA FOOTWORK VÀ NHỊP ĐIỆU HƠI THỞ - \"SỰ ĐỒNG BỘ HOÀN HẢO\"",
-      "cluster": "tennis",
-      "url": "tennis/phan-4-su-phoi-hop-giua-footwork-va-nhip-dieu-hoi-tho-su-dong-bo-hoan-hao/",
-      "description": "Trong Tennis, sai lầm phổ biến nhất của vận động viên là coi bộ chân và hơi thở là hai thực thể độc lập: họ tập chạy nhanh riêng và tập hít thở riêng. Tuy nhiên, trong Thái Cực Quyền, hơi thở chính là \"động cơ\" điều khiển sự di chuyển. Khi hơi thở và"
-    },
-    {
-      "id": "tennis/phan-4-toi-uu-hoa-diem-tiep-xuc-va-goc-mat-vot",
-      "name": "PHẦN 4: TỐI ƯU HÓA ĐIỂM TIẾP XÚC VÀ GÓC MẶT VỢT",
-      "cluster": "tennis",
-      "url": "tennis/phan-4-toi-uu-hoa-diem-tiep-xuc-va-goc-mat-vot/",
-      "description": "Sức mạnh mà không có sự chính xác chỉ là sự lãng phí. Trong Thái Cực Quyền, việc xác định \"Điểm chạm\" (Contact Point) là yếu tố quyết định thắng bại. Trong tennis, điểm tiếp xúc là nơi toàn bộ chuỗi động lực từ chân, hông, vai hội tụ lại một điểm. ##"
-    },
-    {
-      "id": "tennis/phan-5-cac-bai-tap-bo-tro-dac-thu-de-cai-thien-do-nhay-cua-long-ban-chan-proprio",
-      "name": "PHẦN 5: CÁC BÀI TẬP BỔ TRỢ ĐẶC THÙ ĐỂ CẢI THIỆN ĐỘ NHẠY CỦA LÒNG BÀN CHÂN (PROPRIOCEPTION)",
-      "cluster": "tennis",
-      "url": "tennis/phan-5-cac-bai-tap-bo-tro-dac-thu-de-cai-thien-do-nhay-cua-long-ban-chan-proprio/",
-      "description": "Độ nhạy của lòng bàn chân (Cảm thụ bản thể) là yếu tố quyết định khả năng thăng bằng. Nếu bạn không cảm nhận được mặt sân, bạn không thể \"bám rễ\" và không thể điều phối trọng tâm chính xác. #### **5.1. Bài tập \"Lắng nghe mặt đất\" (Ground Listening)**"
-    },
-    {
-      "id": "tennis/phan-5-diem-tiep-xuc-ly-tuong-va-chien-thuat-dieu-huong-bong",
-      "name": "PHẦN 5: ĐIỂM TIẾP XÚC LÝ TƯỞNG VÀ CHIẾN THUẬT ĐIỀU HƯỚNG BÓNG",
-      "cluster": "tennis",
-      "url": "tennis/phan-5-diem-tiep-xuc-ly-tuong-va-chien-thuat-dieu-huong-bong/",
-      "description": "Sự khác biệt giữa một cú Backhand phòng thủ và một cú Backhand tấn công nằm ở Điểm tiếp xúc (Contact Point) và Ý định điều hướng. #### 5.1. Xác định điểm tiếp xúc \"Phía trước\" Một sai lầm kinh điển trong Backhand là để bóng đi quá sâu vào người, khiế"
-    },
-    {
-      "id": "tennis/phan-5-phoi-hop-footwork-va-nhip-dieu-cho-cu-bat-luoi",
-      "name": "PHẦN 5: PHỐI HỢP FOOTWORK VÀ NHỊP ĐIỆU CHO CÚ BẮT LƯỚI",
-      "cluster": "tennis",
-      "url": "tennis/phan-5-phoi-hop-footwork-va-nhip-dieu-cho-cu-bat-luoi/",
-      "description": "Footwork tại lưới không đơn giản là chạy, mà là sự điều phối nhịp điệu để mặt vợt luôn nằm ở vị trí tối ưu. #### 5.1. Quy trình \"Nhảy - Lướt - Chạm\" (Jump - Glide - Hit) Để đạt được sự mượt mà, hãy áp dụng nhịp điệu sau: 1. Nhảy (The Split-step): Nhả"
-    },
-    {
-      "id": "tennis/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop-2",
-      "name": "PHẦN 5: QUÁ TRÌNH FOLLOW-THROUGH - GIẢI PHÓNG NĂNG LƯỢNG VÀ BẢO VỆ KHỚP",
-      "cluster": "tennis",
-      "url": "tennis/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop-2/",
-      "description": "Một cú Smash kết thúc tại điểm tiếp bóng là một cú đánh nguy hiểm cho chính vận động viên. Lực phát ra quá lớn nếu bị chặn lại đột ngột sẽ dội ngược về khớp vai và khuỷu tay, gây ra những chấn thương nghiêm trọng. #### 5.1. Nguyên lý \"Vòng tròn không"
-    },
-    {
-      "id": "tennis/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop",
-      "name": "PHẦN 5: QUÁ TRÌNH FOLLOW-THROUGH - GIẢI PHÓNG NĂNG LƯỢNG VÀ BẢO VỆ KHỚP",
-      "cluster": "tennis",
-      "url": "tennis/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop/",
-      "description": "Một cú đánh không kết thúc tại thời điểm chạm bóng. Giai đoạn sau khi chạm bóng (Follow-through) quyết định độ xoáy, hướng đi của bóng và quan trọng nhất là sức khỏe của các khớp xương. #### 5.1. Nguyên lý \"Vòng tròn không kết thúc\" Trong Thái Cực Qu"
-    },
-    {
-      "id": "tennis/phan-6-lo-trinh-ren-luyen-bo-chan-trong-1-nam-tu-co-ban-den-ban-nang",
-      "name": "PHẦN 6: LỘ TRÌNH RÈN LUYỆN BỘ CHÂN TRONG 1 NĂM - TỪ CƠ BẢN ĐẾN BẢN NĂNG",
-      "cluster": "tennis",
-      "url": "tennis/phan-6-lo-trinh-ren-luyen-bo-chan-trong-1-nam-tu-co-ban-den-ban-nang/",
-      "description": "Sự thăng bằng và bộ chân không thể hình thành trong một sớm một chiều. Nó đòi hỏi một quá trình rèn luyện kiên trì theo chu kỳ. #### **6.1. Quý 1: Nhận diện và Cân chỉnh (Awareness & Alignment)** * **Mục tiêu:** Xây dựng cảm giác về trọng tâm và sự b"
-    },
-    {
-      "id": "tennis/phan-6-phan-tich-cac-loi-sai-thuong-gap-va-cach-chinh-sua-thuc-te",
-      "name": "PHẦN 6: PHÂN TÍCH CÁC LỖI SAI THƯỜNG GẶP VÀ CÁCH CHỈNH SỬA THỰC TẾ",
-      "cluster": "tennis",
-      "url": "tennis/phan-6-phan-tich-cac-loi-sai-thuong-gap-va-cach-chinh-sua-thuc-te/",
-      "description": "Để hoàn thiện cú Forehand, vận động viên cần nhận diện được những \"điểm mù\" trong kỹ thuật của mình. #### 6.1. Lỗi \"Đánh bằng tay\" (Arm-hitting) * Dấu hiệu: Vai bị gồng, khuỷu tay khép sát người, cú đánh thiếu lực dù vung tay rất mạnh. * Nguyên nhân:"
-    },
-    {
-      "id": "tennis/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-cu-smash",
-      "name": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH HOÀN THIỆN CÚ SMASH",
-      "cluster": "tennis",
-      "url": "tennis/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-cu-smash/",
-      "description": "Để đạt đến trình độ thượng thừa, vận động viên cần nhận diện và sửa chữa những lỗi sai mang tính hệ thống. #### 6.1. Lỗi \"Sử dụng lực tay\" (Arm-hitting) * Dấu hiệu: Vai bị gồng, bóng đi mạnh nhưng vận động viên nhanh mệt và thường bị đau vai. * Nguyê"
-    },
-    {
-      "id": "tennis/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-ky-nang-bat-luoi",
-      "name": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH HOÀN THIỆN KỸ NĂNG BẮT LƯỚI",
-      "cluster": "tennis",
-      "url": "tennis/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-ky-nang-bat-luoi/",
-      "description": "#### 6.1. Lỗi \"Vung vợt quá rộng\" (Over-swinging) * Dấu hiệu: Vung vợt từ quá xa phía sau, khiến bóng bị bay ra ngoài hoặc không kịp tiếp bóng. * Nguyên nhân: Thói quen của cú đánh cuối sân áp dụng vào bắt lưới. * Cách sửa: Áp dụng nguyên lý \"Vòng tr"
-    },
-    {
-      "id": "tennis/phan-6-phan-tich-loi-sai-va-lo-trinh-khac-phuc-thuc-te",
-      "name": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH KHẮC PHỤC THỰC TẾ",
-      "cluster": "tennis",
-      "url": "tennis/phan-6-phan-tich-loi-sai-va-lo-trinh-khac-phuc-thuc-te/",
-      "description": "Để hoàn thiện cú Backhand, vận động viên cần nhận diện các lỗi sai phổ biến và áp dụng phương pháp sửa chữa từng bước. #### 6.1. Lỗi \"Đánh bằng tay\" (Arm-hitting) * Dấu hiệu: Vai gồng, khuỷu tay bị lùi ra sau quá nhiều hoặc bị gập quá mức, bóng đi th"
     }
   ],
   "edges": [
@@ -2925,7 +2043,6 @@
     "foundations/phan-1-triet-ly",
     "foundations/tai-chi-chuan",
     "foundations/taichi-knowledge-base",
-    "health/cai-thien-footwork-bo-chan-qua-nguyen-ly-hu-thuc",
     "health/cau-truc-va-y-nghia-cua-bai-24-thuc",
     "health/chuong-10-tuoi-tho",
     "health/chuong-11-thuong-ton",
@@ -2934,7 +2051,6 @@
     "health/chuong-9-phong-benh",
     "health/co-che-tac-dong-den-he-tim-mach-va-phong-ngua-dot-quy",
     "health/di-san-unesco-bao-ton-bang-cong-nghe-blockchain",
-    "health/hinh-thai-nguyen-so",
     "health/hu-linh-dinh-kinh-cong-nghe-cam-bien-sinh-hoc",
     "health/huyet-u",
     "health/khai-thac-suc-manh-tu-chuoi-dong-luc-kinetic-chain",
@@ -2949,15 +2065,9 @@
     "health/nhung-sai-lam-pho-bien-va-cach-khac-phuc-thuc-te",
     "health/phaan-3-luc-xoan-oc-spiral-force-va-su-phoi-hop-dieu-huyet-giua-vai-va-hong",
     "health/phan-1-chuan-bi-va-thiet-lap-tu-duy-dung-dan",
-    "health/phan-1-chuoi-dong-luc-kinetic-chain-va-nguyen-ly-bam-re-trong-forehand",
-    "health/phan-1-chuoi-dong-luc-trong-cu-smash-tu-bam-re-den-phat-luc",
-    "health/phan-1-giai-doan-chuan-bi-thiet-lap-su-tinh-lang-va-bam-re",
     "health/phan-1-giai-ma-khai-niem-khi-duoi-goc-do-sinh-ly-hoc-hien-dai",
-    "health/phan-1-khai-niem-su-bam-re-rooting-trong-di-chuyen-tennis",
     "health/phan-1-nghe-thuat-quan-sat-thu-dong-trong-thai-cuc-quyen",
     "health/phan-1-nghich-ly-cua-van-dong-trong-suy-tim-tim-kiem-diem-can-bang",
-    "health/phan-1-sinh-co-hoc-cua-cu-backhand-va-triet-ly-can-bang-doi-xung",
-    "health/phan-1-sinh-co-hoc-ve-chan-thuong-tennis-va-nguyen-ly-sōng-tha-long",
     "health/phan-1-sinh-hoc-cua-ap-luc-dieu-hanh-va-chi-phi-cua-su-cang-thang",
     "health/phan-1-sinh-hoc-ve-giac-ngu-va-co-che-cua-mat-ngu-man-tinh",
     "health/phan-1-sinh-hoc-ve-giam-can-tu-dot-calo-den-toi-uu-hoa-chuyen-hoa",
@@ -2975,7 +2085,6 @@
     "health/phan-1-triet-ly-tinh-trong-dong-va-kha-nang-phan-ung-tuc-thi",
     "health/phan-1-truc-nao-ruot-gut-brain-axis-va-co-che-cua-su-tieu-hoa",
     "health/phan-10-lo-trinh-tap-tho-chi-tiet-cho-tung-nhom-do-tuoi",
-    "health/phan-2-bien-the-cua-bam-re-trong-vi-tri-bat-luoi",
     "health/phan-2-co-che-boi-tron-khop-cua-thai-cuc-quyen-khoa-hoc-ve-chuyen-dong-xoay",
     "health/phan-2-co-che-bom-ho-tro-cua-thai-cuc-quyen-trong-quan-ly-chat-long",
     "health/phan-2-co-che-ho-tro-tim-mach-cua-thai-cuc-quyen-chiec-bom-phu-cho-trai-tim",
@@ -2985,12 +2094,8 @@
     "health/phan-2-giai-doan-thuc-tinh-thang-thu-nhat-dieu-chinh-truc-co-the-va-hoi-tho",
     "health/phan-2-giai-phau-hoc-ve-hoi-tho-co-che-van-hanh-cua-co-may-ho-hap",
     "health/phan-2-giao-tiep-phi-ngon-ngu-ngon-ngu-tham-lang-trong-danh-doi",
-    "health/phan-2-kiem-soat-huyet-ap-khoa-hoc-ve-su-tha-long-va-can-bang",
     "health/phan-2-luc-xoan-oc-spiral-force-va-su-phoi-hop-giua-hong-va-vai",
-    "health/phan-2-nguyen-ly-bam-re-tam-tri-mental-rooting-cua-thai-cuc-quyen",
     "health/phan-2-phan-tich-ngon-ngu-co-the-cua-doi-thu",
-    "health/phan-2-quan-ly-trong-tam-hu-thuc-trong-cac-pha-di-chuyen-dien-hinh",
-    "health/phan-2-quan-ly-trong-tam-hu-thuc-trong-di-chuyen-backhand",
     "health/phan-2-quy-trinh-tung-bong-va-su-phoi-hop-tay-trai-tay-phai",
     "health/phan-2-suc-manh-tu-chieu-thuc-tan-dung-luc-day-chieu-thuc-vertical-force",
     "health/phan-2-thai-cuc-quyen-chiec-chia-khoa-giai-phong-bay-khi",
@@ -3003,55 +2108,28 @@
     "health/phan-3-cortisol-va-mo-bung-co-che-giai-phong-mo-noi-tang-tu-goc-re",
     "health/phan-3-do-dan-hoi-cua-dong-mach-va-cuoc-chien-chong-xo-vua",
     "health/phan-3-giai-quyet-su-cung-khop-va-ky-thuat-hoa-giai-dau",
-    "health/phan-3-ky-thuat-chong-dong-cung-dang-di-freezing-of-gait-fog",
-    "health/phan-3-ky-thuat-lang-nghe-ting-jin-de-du-doan-huong-bong",
-    "health/phan-3-ky-thuat-quan-ly-nang-luong-pacing-ket-hop-thai-cuc-quyen",
-    "health/phan-3-ky-thuat-song-tha-long-co-tay-de-tang-toc-do-dau-vot",
-    "health/phan-3-ky-thuat-tho-mim-moi-pursed-lip-breathing-ket-hop-voi-thai-cuc-quyen",
     "health/phan-3-moi-lien-he-giua-hoi-tho-ap-suat-long-nguc-va-ho-tro-tim",
     "health/phan-3-moi-lien-he-giua-stress-cortisol-va-duong-huyet-vong-xoay-dang-so-va-giai",
     "health/phan-3-phan-tich-diem-manh-diem-yeu-cua-doi-thu-thong-qua-ham-hung-bat-boi",
     "health/phan-3-phong-ngua-va-phuc-hoi-chan-thuong-lung-duoi-lower-back",
-    "health/phan-3-quan-ly-ap-luc-va-diem-tinh-trong-tennis-chien-thang-noi-so-de-dat-den-su",
     "health/phan-3-quan-ly-can-bang-dien-giai-va-kali-trong-van-dong",
     "health/phan-3-quan-tri-su-met-moi-vi-ra-quyet-dinh-decision-fatigue",
     "health/phan-3-quan-tri-su-met-moi-vi-ra-quyet-dinh-decision-fatigue-2",
     "health/phan-3-sinh-hoa-cua-tram-cam-va-co-che-van-dong-chua-lanh",
-    "health/phan-3-su-thang-bang-dong-va-kha-nang-phuc-hoi-trong-tam-tuc-thoi",
-    "health/phan-3-suc-manh-xoay-truc-va-luc-xoan-oc-trong-backhand",
-    "health/phan-3-thang-thu-hai-chuyen-trong-tam-va-bo-phap-footwork",
     "health/phan-3-tiep-theo-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot-hoan-thie",
     "health/phan-3-ung-dung-cu-the-cho-hoi-chung-ruot-kich-thich-irritable-bowel-syndrome-ib",
     "health/phan-3-xay-dung-tam-the-chien-binh-the-warrior-mindset",
-    "health/phan-4-bai-tap-hanh-phuc-warm-up-va-cool-down-voi-tcq-truocsau-khi-tap-tennis",
     "health/phan-4-chien-thuat-hoa-giai-trung-hoa-suc-manh-cua-doi-thu",
-    "health/phan-4-co-che-nhu-va-cuong-trong-cac-cu-volley",
     "health/phan-4-dieu-chinh-tu-the-de-mo-rong-long-nguc-va-giam-ap-luc-ho-hap",
-    "health/phan-4-dinh-hinh-voc-dang-thong-qua-su-phoi-hop-co-bap-va-truc-cot-song",
     "health/phan-4-giai-phap-cho-suong-mu-nao-brain-fog-va-suy-giam-nhan-thuc",
     "health/phan-4-giai-quyet-roi-loan-lo-au-thong-qua-thang-bang-va-tinh-lang",
     "health/phan-4-ho-tro-phuc-hoi-cho-benh-nhan-xo-gan-va-co-truong-ascites",
     "health/phan-4-ky-thuat-hinh-dung-visualization-va-luyen-tap-tam-tri-phong-gym-cua-y-thu",
-    "health/phan-4-ky-thuat-tha-long-co-tay-de-dat-toc-do-dau-vot-toi-da",
-    "health/phan-4-ky-thuat-tha-long-co-tay-va-su-tre-cua-dau-vot",
-    "health/phan-4-ky-thuat-xoay-truc-va-tao-do-xoay-cho-cac-kieu-serve",
     "health/phan-4-moi-lien-he-giua-hoi-tho-va-he-than-kinh-tu-chu-co-che-dieu-khien-cong-ta",
-    "health/phan-4-phong-ngua-dot-quy-va-toi-uu-hoa-luu-thong-mau-nao",
-    "health/phan-4-phuc-hoi-kha-nang-phoi-hop-chi-tren-va-chi-duoi",
-    "health/phan-4-quan-ly-cam-xuc-trong-cac-tinh-huong-dac-biet",
-    "health/phan-4-quan-ly-phu-ne-va-tich-tu-dich-thong-qua-van-dong-thai-cuc",
     "health/phan-4-quan-ly-trao-nguoc-da-day-thuc-quan-gerd-thong-qua-tu-the-va-hoi-tho",
-    "health/phan-4-su-phoi-hop-giua-footwork-va-nhip-dieu-hoi-tho-su-dong-bo-hoan-hao",
     "health/phan-4-thang-thu-ba-lam-quen-voi-cac-thuc-co-ban-form-building",
-    "health/phan-4-toi-uu-hoa-diem-tiep-xuc-va-goc-mat-vot",
     "health/phan-4-ung-dung-cho-benh-nhan-chay-than-nhan-tao-va-loc-mau-dialysis",
-    "health/phan-4-ung-dung-cu-the-cho-tung-loai-khop-ban-do-van-dong-tri-lieu",
-    "health/phan-4-xay-dung-trang-thai-flow-trong-quan-tri-doanh-nghiep",
-    "health/phan-4-xay-dung-trang-thai-flow-trong-quan-tri-doanh-nghiep-2",
-    "health/phan-5-cac-bai-tap-bo-tro-dac-thu-de-cai-thien-do-nhay-cua-long-ban-chan-proprio",
     "health/phan-5-chi-tiet-phac-do-tap-luyen-cho-benh-nhan-tieu-duong-theo-tung-cap-do",
-    "health/phan-5-diem-tiep-xuc-ly-tuong-va-chien-thuat-dieu-huong-bong",
-    "health/phan-5-dinh-duong-va-phuc-hoi-sau-chan-thuong-cho-van-dong-vien-tennis",
     "health/phan-5-giai-phap-cho-tao-bon-man-tinh-va-moi-lien-he-voi-giac-ngu",
     "health/phan-5-ky-thuat-tho-bung-chi-tiet-hanh-trinh-tu-nhan-thuc-den-lam-chu",
     "health/phan-5-moi-lien-he-giua-suc-khoe-tim-mach-va-giac-ngu-sau-chu-trinh-phuc-hoi-tu-",
@@ -3064,53 +2142,15 @@
     "health/phan-5-phac-do-tap-luyen-chi-tiet-theo-giai-doan-benh",
     "health/phan-5-phac-do-tap-luyen-chi-tiet-theo-giai-doan-suy-than-ckd-stages",
     "health/phan-5-phac-do-tap-luyen-va-che-do-giai-doc-tong-hop",
-    "health/phan-5-phan-tich-chi-tiet-ve-su-san-chac-co-bap-lean-muscle",
-    "health/phan-5-phoi-hop-footwork-va-nhip-dieu-cho-cu-bat-luoi",
     "health/phan-5-phong-ngua-burnout-va-phuc-hoi-nang-luong-cho-lanh-dao",
     "health/phan-5-phong-ngua-burnout-va-phuc-hoi-nang-luong-cho-lanh-dao-2",
     "health/phan-5-phuc-hoi-tinh-than-giua-cac-set-va-sau-tran-dau",
-    "health/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop",
-    "health/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop-2",
-    "health/phan-5-qua-trinh-follow-through-va-bao-ve-khop-vai",
     "health/phan-5-thang-thu-tu-den-thang-thu-sau-hoan-thien-bai-24-thuc-va-tinh-lien-hoan",
-    "health/phan-5-tri-tue-cam-xuc-eq-va-su-bao-dung-trong-thi-dau-nghe-thuat-nhu-khac-cuong",
-    "health/phan-5-xay-dung-ban-do-chien-thuat-truoc-va-trong-tran-dau",
-    "health/phan-6-che-do-dinh-duong-ho-tro-tim-mach-cho-nguoi-tap-thai-cuc-quyen",
-    "health/phan-6-lo-trinh-ren-luyen-bo-chan-trong-1-nam-tu-co-ban-den-ban-nang",
-    "health/phan-6-lo-trinh-ren-luyen-kha-nang-doc-tran-dau-trong-6-thang",
-    "health/phan-6-lo-trinh-ren-luyen-tam-ly-thi-dau-cho-tay-vot-trong-1-nam",
     "health/phan-6-lo-trinh-xay-dung-co-the-khong-chan-thuong-cho-tay-vot-lau-dai",
     "health/phan-6-moi-lien-he-giua-tam-thuc-giac-ngu-va-phuc-hoi-sieu-toc",
     "health/phan-6-phac-do-thuc-hanh-ket-hop-dinh-duong-de-giam-can-ben-vung",
-    "health/phan-6-phan-tich-cac-loi-sai-thuong-gap-va-cach-chinh-sua-thuc-te",
-    "health/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-cu-smash",
-    "health/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-ky-nang-bat-luoi",
-    "health/phan-6-phan-tich-loi-sai-va-lo-trinh-khac-phuc-thuc-te",
-    "health/phan-6-phan-tich-loi-sai-va-lo-trinh-luyen-tap",
-    "health/phan-6-theo-doi-do-luong-va-dieu-chinh-bai-tap-dua-tren-chi-so-duong-huyet",
-    "health/phan-6-thiet-lap-lich-trinh-van-dong-cho-doanh-nhan-ban-ron",
-    "health/phan-6-thiet-lap-lich-trinh-van-dong-cho-doanh-nhan-ban-ron-2",
-    "health/phan-6-tong-ket-va-cac-luu-y-an-toan-dac-biet-cho-benh-nhan-parkinson",
-    "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-copd",
-    "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-suy-tim",
-    "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-suy-tim-2",
-    "health/phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-than",
-    "health/phan-6-tong-ket-va-che-do-dinh-duong-ket-hop-tap-luyen",
-    "health/phan-6-tong-ket-va-lo-trinh-thoat-khoi-met-moi-man-tinh",
-    "health/phan-6-tong-ket-va-luu-y-an-toan-cho-benh-nhan-gan",
-    "health/phan-6-tong-ket-va-xay-dung-loi-song-tinh-thuc-mindful-living",
-    "health/phan-6-tu-thang-thu-bay-den-cuoi-nam-thu-nhat-nang-cao-tinh-chinh-va-dua-vao-doi",
-    "health/phan-6-ung-dung-hoi-tho-trong-tennis-toi-uu-hoa-hieu-suat-va-phuc-hoi",
-    "health/phan-7-ket-hop-thai-cuc-quyen-voi-che-do-dinh-duong-cho-nguoi-tieu-duong",
-    "health/phan-7-su-dong-bo-giua-hoi-tho-va-chuyen-dong-breath-movement-synchronization-ng",
-    "health/phan-7-tong-ket-lo-trinh-ren-luyen-tam-tri-tu-nguoi-moi-den-bac-thay",
-    "health/phan-7-tong-ket-lo-trinh-ren-luyen-tim-mach-cho-tung-do-tuoi",
-    "health/phan-8-khi-cong-va-kha-nang-dao-thai-doc-to-tre-hoa-te-bao-anti-aging",
-    "health/phan-8-tong-ket-va-cac-cau-hoi-thuong-gap-faq",
-    "health/phan-9-ung-dung-khi-cong-trong-dieu-tri-benh-ly-ho-hap-va-tim-mach",
     "health/phan-hu-thuc-nghien-cuu-can-bang-dong-luc-hoc",
     "health/phan-tich-chi-tiet-cac-nhom-dong-tac-co-ban",
-    "health/su-tuong-dong-giua-triet-ly-thai-cuc-va-dieu-kien-thi-dau-tennis",
     "health/tam-thuc-va-thien-trong-luyen-tap-lam-chu-tam-tri-de-dieu-khien-co-the",
     "health/thai-cuc-do-40-mo-hinh-3d-tuong-tac-thuc-te-ao",
     "health/thong-tam-quan",
@@ -3131,8 +2171,6 @@
     "health/ung-dung-trong-quan-ly-cang-thang-cho-nguoi-lam-viec-cuong-do-cao-va-doanh-nhan",
     "health/ung-dung-trong-quan-ly-stress-man-tinh-va-hoi-chung-met-moi-man-tinh-cfs",
     "health/ung-dung-trong-suc-khoe-va-y-hoc-chuong-9-18",
-    "health/ung-dung-trong-the-thao-tennis-chuong-19-28",
-    "health/ung-dung-trong-the-thao-tennischuong-19-28",
     "history/chuong-1-lich-su",
     "history/chuong-18-ong-bo",
     "history/chuong-3-dong-phai",
@@ -3166,52 +2204,6 @@
     "technique/thap-yeu-cua-thai-cuc-quyen",
     "technique/tui-shou-push-hands",
     "technique/tuong-hinh",
-    "tennis/chuong-21-footwork",
-    "tennis/chuong-22-forehand",
-    "tennis/chuong-23-backhand",
-    "tennis/chuong-24-volley",
-    "tennis/chuong-25-smash",
-    "tennis/chuong-26-serve",
-    "tennis/ky-thuat-footwork-nang-cao-va-su-thang-bang-dong-trong-tennis",
-    "tennis/nghe-thuat-song-khoe-backhand",
-    "tennis/nghe-thuat-song-khoe-can-bang",
-    "tennis/nghe-thuat-song-khoe-footwork",
-    "tennis/nghe-thuat-song-khoe-forehand",
-    "tennis/nghe-thuat-song-khoe-serve",
-    "tennis/nghe-thuat-song-khoe-smash",
-    "tennis/nghe-thuat-song-khoe-tam-ly",
-    "tennis/nghe-thuat-song-khoe-tennis-ky-thuat",
-    "tennis/phan-1-chuoi-dong-luc-kinetic-chain-va-nguyen-ly-bam-re-trong-forehand",
-    "tennis/phan-1-chuoi-dong-luc-trong-cu-smash-tu-bam-re-den-phat-luc",
-    "tennis/phan-1-giai-doan-chuan-bi-thiet-lap-su-tinh-lang-va-bam-re",
-    "tennis/phan-1-khai-niem-su-bam-re-rooting-trong-di-chuyen-tennis",
-    "tennis/phan-1-sinh-co-hoc-cua-cu-backhand-va-triet-ly-can-bang-doi-xung",
-    "tennis/phan-2-luc-xoan-oc-spiral-force-va-su-phoi-hop-giua-hong-va-vai",
-    "tennis/phan-2-quan-ly-trong-tam-hu-thuc-trong-cac-pha-di-chuyen-dien-hinh",
-    "tennis/phan-2-quan-ly-trong-tam-hu-thuc-trong-di-chuyen-backhand",
-    "tennis/phan-2-quy-trinh-tung-bong-va-su-phoi-hop-tay-trai-tay-phai",
-    "tennis/phan-2-suc-manh-tu-chieu-thuc-tan-dung-luc-day-chieu-thuc-vertical-force",
-    "tennis/phan-3-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot",
-    "tennis/phan-3-ky-thuat-lang-nghe-ting-jin-de-du-doan-huong-bong",
-    "tennis/phan-3-ky-thuat-song-tha-long-co-tay-de-tang-toc-do-dau-vot",
-    "tennis/phan-3-luc-xoan-oc-spiral-force-va-su-phoi-hop-dieu-huyet-giua-vai-va-hong",
-    "tennis/phan-3-su-thang-bang-dong-va-kha-nang-phuc-hoi-trong-tam-tuc-thoi",
-    "tennis/phan-3-suc-manh-xoay-truc-va-luc-xoan-oc-trong-backhand",
-    "tennis/phan-4-co-che-nhu-va-cuong-trong-cac-cu-volley",
-    "tennis/phan-4-ky-thuat-tha-long-co-tay-de-dat-toc-do-dau-vot-toi-da",
-    "tennis/phan-4-ky-thuat-tha-long-co-tay-va-su-tre-cua-dau-vot",
-    "tennis/phan-4-su-phoi-hop-giua-footwork-va-nhip-dieu-hoi-tho-su-dong-bo-hoan-hao",
-    "tennis/phan-4-toi-uu-hoa-diem-tiep-xuc-va-goc-mat-vot",
-    "tennis/phan-5-cac-bai-tap-bo-tro-dac-thu-de-cai-thien-do-nhay-cua-long-ban-chan-proprio",
-    "tennis/phan-5-diem-tiep-xuc-ly-tuong-va-chien-thuat-dieu-huong-bong",
-    "tennis/phan-5-phoi-hop-footwork-va-nhip-dieu-cho-cu-bat-luoi",
-    "tennis/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop",
-    "tennis/phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop-2",
-    "tennis/phan-6-lo-trinh-ren-luyen-bo-chan-trong-1-nam-tu-co-ban-den-ban-nang",
-    "tennis/phan-6-phan-tich-cac-loi-sai-thuong-gap-va-cach-chinh-sua-thuc-te",
-    "tennis/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-cu-smash",
-    "tennis/phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-ky-nang-bat-luoi",
-    "tennis/phan-6-phan-tich-loi-sai-va-lo-trinh-khac-phuc-thuc-te",
     "training/chapter-1-card-printable-the-in-duoc-chuong-1",
     "training/chapter-1-what-is-taichi-really",
     "training/chapter-10-card-printable-the-in-duoc-chuong-10",

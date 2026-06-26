@@ -5,13 +5,6 @@
 
 Để kiểm soát tâm lý, trước hết chúng ta cần hiểu điều gì thực sự xảy ra trong não bộ khi một tay vợt đối mặt với áp lực lớn.
 
-#### 1.1. Phản ứng "Chiến đấu hoặc Bỏ chạy" trong tennis
-
-Khi một tay vợt đứng trước break-point hoặc match-point, cơ thể tự động kích hoạt hệ thần kinh giao cảm. Đây là phản ứng sinh tồn nguyên thủy, giống như thời nguyên thủy khi con người phải đối mặt với thú dữ.
-
-* Cơ chế: Amygdala (hạch hạnh nhân - trung tâm xử lý nỗi sợ) kích hoạt $\rightarrow$ Tuyến thượng thận tiết Adrenaline $\rightarrow$ Tim đập nhanh, cơ bắp gồng cứng, mạch máu co lại.
-* Phản ứng trong tennis: Tay vợt gồng cứng vai, cổ tay siết chặt vợt, chân bị "đóng băng", mất khả năng phối hợp các bước di chuyển. Đây chính là hiện tượng "Choking" (nghẹn) - một trong những vấn đề tâm lý phổ biến nhất trong tennis.
-
 #### 1.2. Sự mất cân bằng giữa Vỏ não trước trán và Amygdala
 
 Trong tình huống áp lực cao, Amygdala "cướp quyền điều khiển" khỏi Vỏ não trước trán (Prefrontal Cortex - nơi điều khiển tư duy logic, lập kế hoạch và kỹ thuật).

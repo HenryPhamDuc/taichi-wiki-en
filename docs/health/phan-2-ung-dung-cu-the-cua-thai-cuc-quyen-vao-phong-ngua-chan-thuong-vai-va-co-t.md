@@ -17,17 +17,6 @@ Mục tiêu: Mở rộng không gian dưới xương đòn, giải phóng gân S
   5. Lặp lại 10 lần, tập trung vào sự khác biệt giữa trạng thái "gồng" và "thả lỏng".
 * Cơ chế khoa học: Khi vai được hạ thấp đúng cách, xương đòn và xương cánh tay tạo ra một góc mở rộng hơn (thường tăng 5-10°), gân Supraspinatus không còn bị kẹp giữa hai xương. Bài tập này nên được thực hiện hàng ngày, đặc biệt sau mỗi buổi tập tennis để phục hồi.
 
-#### 2.2. Bài tập "Xoay trục cổ tay" (Wrist Spiral) phòng ngừa Tennis Elbow
-
-Mục tiêu: Tăng cường sự linh hoạt của gân cơ duỗi cổ tay, giảm ma sát tại cổ tay.
-
-* Cách thực hiện:
-  1. Giơ tay phải về phía trước, cổ tay thả lỏng (Sōng).
-  2. Xoay cổ tay theo vòng tròn nhỏ, chậm rãi: 10 vòng theo chiều kim đồng hồ, 10 vòng ngược chiều.
-  3. Tập trung vào cảm giác gân cơ được kéo giãn nhẹ nhàng, không đau.
-  4. Lặp lại với tay trái.
-* Cơ chế khoa học: Bài tập này giúp duy trì sự "trơn tru" giữa gân cơ và bao gân. Khi bao gân khỏe mạnh, ma sát được giảm thiểu, gân cơ không bị viêm. Đây là cách phòng ngừa Tennis Elbow hiệu quả nhất.
-
 #### 2.3. Bài tập "Bám rễ cánh tay" (Arm Rooting) tích hợp sức mạnh chân
 
 Mục tiêu: Dùng chân để phân tán lực, giảm tải cho vai và cổ tay.

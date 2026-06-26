@@ -24,7 +24,6 @@ Use the search bar at the top of the page to find any article by keyword.
 
 - ["HƯ LINH ĐĨNH KÌNH" - CÔNG NGHỆ CẢM BIẾN SINH HỌC](hu-linh-dinh-kinh-cong-nghe-cam-bien-sinh-hoc.md)
 - [CƠ CHẾ TÁC ĐỘNG ĐẾN HỆ TIM MẠCH VÀ PHÒNG NGỪA ĐỘT QUỴ](co-che-tac-dong-den-he-tim-mach-va-phong-ngua-dot-quy.md)
-- [CẢI THIỆN FOOTWORK (BỘ CHÂN) QUA NGUYÊN LÝ "HƯ - THỰC"](cai-thien-footwork-bo-chan-qua-nguyen-ly-hu-thuc.md)
 - [DI SẢN UNESCO: BẢO TỒN BẰNG CÔNG NGHỆ BLOCKCHAIN](di-san-unesco-bao-ton-bang-cong-nghe-blockchain.md)
 - [Dưỡng sinh lâu dài là Thông Tam Quan](thong-tam-quan.md)
 - [Huyết ứ — Âm tà số một của sức khỏe dưỡng sinh](huyet-u.md)
@@ -42,10 +41,8 @@ Use the search bar at the top of the page to find any article by keyword.
 - [Qigong Healing — Overview and Principles](qigong-healing.md)
 - [Scientific Research on Tai Chi Chuan — A Summary](scientific-research-tai-chi.md)
 - [Sleep and Tai Chi — How to Practice for Better Sleep](sleep-and-tai-chi.md)
-- [SỰ TƯƠNG ĐỒNG GIỮA TRIẾT LÝ THÁI CỰC VÀ ĐIỀU KIỆN THI ĐẤU TENNIS](su-tuong-dong-giua-triet-ly-thai-cuc-va-dieu-kien-thi-dau-tennis.md)
 - [The Seven Declines of Aging — A Dưỡng Sinh Perspective on Tai Chi](seven-declines.md)
 - [THÁI CỰC ĐỒ 4.0: MÔ HÌNH 3D TƯƠNG TÁC THỰC TẾ ẢO](thai-cuc-do-40-mo-hinh-3d-tuong-tac-thuc-te-ao.md)
-- [Trở về Hình Thái Nguyên Sơ — Dưỡng sinh từ trẻ em](hinh-thai-nguyen-so.md)
 - [TÂM THỨC VÀ THIỀN TRONG LUYỆN TẬP - LÀM CHỦ TÂM TRÍ ĐỂ ĐIỀU KHIỂN CƠ THỂ](tam-thuc-va-thien-trong-luyen-tap-lam-chu-tam-tri-de-dieu-khien-co-the.md)
 - [TỔNG KẾT CHƯƠNG 5](tong-ket-chuong-5.md)
 - [TỔNG KẾT CHƯƠNG 8](tong-ket-chuong-8.md)
@@ -75,7 +72,6 @@ Use the search bar at the top of the page to find any article by keyword.
 
 ## 🎾 Sports
 
-- [ỨNG DỤNG TRONG THỂ THAO TENNIS (Chương 19-28)](ung-dung-trong-the-thao-tennis-chuong-19-28.md)
 
 ## 🎯 Exercises & Drills
 
@@ -93,36 +89,20 @@ Use the search bar at the top of the page to find any article by keyword.
 
 ### 📖 Part 4 (24 articles)
 
-- [BÀI TẬP "HÀNH PHÚC" - WARM-UP VÀ COOL-DOWN VỚI TCQ TRƯỚC/SAU KHI TẬP TENNIS](phan-4-bai-tap-hanh-phuc-warm-up-va-cool-down-voi-tcq-truocsau-khi-tap-tennis.md)
 - [CHIẾN THUẬT "HÓA GIẢI" - TRUNG HÒA SỨC MẠNH CỦA ĐỐI THỦ](phan-4-chien-thuat-hoa-giai-trung-hoa-suc-manh-cua-doi-thu.md)
-- [CƠ CHẾ "NHU" VÀ "CƯƠNG" TRONG CÁC CÚ VOLLEY](phan-4-co-che-nhu-va-cuong-trong-cac-cu-volley.md)
 - [GIẢI PHÁP CHO "SƯƠNG MÙ NÃO" (BRAIN FOG) VÀ SUY GIẢM NHẬN THỨC](phan-4-giai-phap-cho-suong-mu-nao-brain-fog-va-suy-giam-nhan-thuc.md)
 - [GIẢI QUYẾT RỐI LOẠN LO ÂU THÔNG QUA THĂNG BẰNG VÀ TĨNH LẶNG](phan-4-giai-quyet-roi-loan-lo-au-thong-qua-thang-bang-va-tinh-lang.md)
 - [HỖ TRỢ PHỤC HỒI CHO BỆNH NHÂN XƠ GAN VÀ CỔ TRƯỚNG (ASCITES)](phan-4-ho-tro-phuc-hoi-cho-benh-nhan-xo-gan-va-co-truong-ascites.md)
 - [KỸ THUẬT HÌNH DUNG (VISUALIZATION) VÀ LUYỆN TẬP TÂM TRÍ - "PHÒNG GYM" CỦA Ý THỨC](phan-4-ky-thuat-hinh-dung-visualization-va-luyen-tap-tam-tri-phong-gym-cua-y-thu.md)
-- [KỸ THUẬT THẢ LỎNG CỔ TAY VÀ "SỰ TRỄ" CỦA ĐẦU VỢT](phan-4-ky-thuat-tha-long-co-tay-va-su-tre-cua-dau-vot.md)
-- [KỸ THUẬT THẢ LỎNG CỔ TAY ĐỂ ĐẠT TỐC ĐỘ ĐẦU VỢT TỐI ĐA](phan-4-ky-thuat-tha-long-co-tay-de-dat-toc-do-dau-vot-toi-da.md)
-- [KỸ THUẬT XOAY TRỤC VÀ TẠO ĐỘ XOÁY CHO CÁC KIỂU SERVE](phan-4-ky-thuat-xoay-truc-va-tao-do-xoay-cho-cac-kieu-serve.md)
 - [MỐI LIÊN HỆ GIỮA HƠI THỞ VÀ HỆ THẦN KINH TỰ CHỦ - CƠ CHẾ ĐIỀU KHIỂN "CÔNG TẮC" CƠ THỂ](phan-4-moi-lien-he-giua-hoi-tho-va-he-than-kinh-tu-chu-co-che-dieu-khien-cong-ta.md)
-- [PHÒNG NGỪA ĐỘT QUỴ VÀ TỐI ƯU HÓA LƯU THÔNG MÁU NÃO](phan-4-phong-ngua-dot-quy-va-toi-uu-hoa-luu-thong-mau-nao.md)
-- [PHỤC HỒI KHẢ NĂNG PHỐI HỢP CHI TRÊN VÀ CHI DƯỚI](phan-4-phuc-hoi-kha-nang-phoi-hop-chi-tren-va-chi-duoi.md)
-- [QUẢN LÝ CẢM XÚC TRONG CÁC TÌNH HUỐNG ĐẶC BIỆT](phan-4-quan-ly-cam-xuc-trong-cac-tinh-huong-dac-biet.md)
-- [QUẢN LÝ PHÙ NỀ VÀ TÍCH TỤ DỊCH THÔNG QUA VẬN ĐỘNG THÁI CỰC](phan-4-quan-ly-phu-ne-va-tich-tu-dich-thong-qua-van-dong-thai-cuc.md)
 - [QUẢN LÝ TRÀO NGƯỢC DẠ DÀY THỰC QUẢN (GERD) THÔNG QUA TƯ THẾ VÀ HƠI THỞ](phan-4-quan-ly-trao-nguoc-da-day-thuc-quan-gerd-thong-qua-tu-the-va-hoi-tho.md)
-- [SỰ PHỐI HỢP GIỮA FOOTWORK VÀ NHỊP ĐIỆU HƠI THỞ - "SỰ ĐỒNG BỘ HOÀN HẢO"](phan-4-su-phoi-hop-giua-footwork-va-nhip-dieu-hoi-tho-su-dong-bo-hoan-hao.md)
 - [THÁNG THỨ BA - LÀM QUEN VỚI CÁC THỨC CƠ BẢN (FORM BUILDING)](phan-4-thang-thu-ba-lam-quen-voi-cac-thuc-co-ban-form-building.md)
-- [TỐI ƯU HÓA ĐIỂM TIẾP XÚC VÀ GÓC MẶT VỢT](phan-4-toi-uu-hoa-diem-tiep-xuc-va-goc-mat-vot.md)
-- [XÂY DỰNG TRẠNG THÁI "FLOW" TRONG QUẢN TRỊ DOANH NGHIỆP](phan-4-xay-dung-trang-thai-flow-trong-quan-tri-doanh-nghiep.md)
 - [ĐIỀU CHỈNH TƯ THẾ ĐỂ MỞ RỘNG LỒNG NGỰC VÀ GIẢM ÁP LỰC HÔ HẤP](phan-4-dieu-chinh-tu-the-de-mo-rong-long-nguc-va-giam-ap-luc-ho-hap.md)
-- [ĐỊNH HÌNH VÓC DÁNG THÔNG QUA SỰ PHỐI HỢP CƠ BẮP VÀ TRỤC CỘT SỐNG](phan-4-dinh-hinh-voc-dang-thong-qua-su-phoi-hop-co-bap-va-truc-cot-song.md)
 - [ỨNG DỤNG CHO BỆNH NHÂN CHẠY THẬN NHÂN TẠO VÀ LỌC MÁU (DIALYSIS)](phan-4-ung-dung-cho-benh-nhan-chay-than-nhan-tao-va-loc-mau-dialysis.md)
-- [ỨNG DỤNG CỤ THỂ CHO TỪNG LOẠI KHỚP - BẢN ĐỒ VẬN ĐỘNG TRỊ LIỆU](phan-4-ung-dung-cu-the-cho-tung-loai-khop-ban-do-van-dong-tri-lieu.md)
 
 ### 📖 Part 5 (24 articles)
 
 - [CHI TIẾT PHÁC ĐỒ TẬP LUYỆN CHO BỆNH NHÂN TIỂU ĐƯỜNG THEO TỪNG CẤP ĐỘ](phan-5-chi-tiet-phac-do-tap-luyen-cho-benh-nhan-tieu-duong-theo-tung-cap-do.md)
-- [CÁC BÀI TẬP BỔ TRỢ ĐẶC THÙ ĐỂ CẢI THIỆN ĐỘ NHẠY CỦA LÒNG BÀN CHÂN (PROPRIOCEPTION)](phan-5-cac-bai-tap-bo-tro-dac-thu-de-cai-thien-do-nhay-cua-long-ban-chan-proprio.md)
-- [DINH DƯỠNG VÀ PHỤC HỒI SAU CHẤN THƯƠNG CHO VẬN ĐỘNG VIÊN TENNIS](phan-5-dinh-duong-va-phuc-hoi-sau-chan-thuong-cho-van-dong-vien-tennis.md)
 - [GIẢI PHÁP CHO TÁO BÓN MẠN TÍNH VÀ MỐI LIÊN HỆ VỚI GIẤC NGỦ](phan-5-giai-phap-cho-tao-bon-man-tinh-va-moi-lien-he-voi-giac-ngu.md)
 - [KỸ THUẬT THỞ BỤNG CHI TIẾT - HÀNH TRÌNH TỪ NHẬN THỨC ĐẾN LÀM CHỦ](phan-5-ky-thuat-tho-bung-chi-tiet-hanh-trinh-tu-nhan-thuc-den-lam-chu.md)
 - [MỐI LIÊN HỆ GIỮA SỨC KHỎE TIM MẠCH VÀ GIẤC NGỦ SÂU - CHU TRÌNH PHỤC HỒI TỰ NHIÊN](phan-5-moi-lien-he-giua-suc-khoe-tim-mach-va-giac-ngu-sau-chu-trinh-phuc-hoi-tu-.md)
@@ -134,29 +114,16 @@ Use the search bar at the top of the page to find any article by keyword.
 - [PHÁC ĐỒ TẬP LUYỆN CHI TIẾT THEO GIAI ĐOẠN BỆNH](phan-5-phac-do-tap-luyen-chi-tiet-theo-giai-doan-benh.md)
 - [PHÁC ĐỒ TẬP LUYỆN CHI TIẾT THEO GIAI ĐOẠN SUY THẬN (CKD STAGES)](phan-5-phac-do-tap-luyen-chi-tiet-theo-giai-doan-suy-than-ckd-stages.md)
 - [PHÁC ĐỒ TẬP LUYỆN VÀ CHẾ ĐỘ GIẢI ĐỘC TỔNG HỢP](phan-5-phac-do-tap-luyen-va-che-do-giai-doc-tong-hop.md)
-- [PHÂN TÍCH CHI TIẾT VỀ SỰ SĂN CHẮC CƠ BẮP - LEAN MUSCLE](phan-5-phan-tich-chi-tiet-ve-su-san-chac-co-bap-lean-muscle.md)
 - [PHÒNG NGỪA BURNOUT VÀ PHỤC HỒI NĂNG LƯỢNG CHO LÃNH ĐẠO](phan-5-phong-ngua-burnout-va-phuc-hoi-nang-luong-cho-lanh-dao.md)
-- [PHỐI HỢP FOOTWORK VÀ NHỊP ĐIỆU CHO CÚ BẮT LƯỚI](phan-5-phoi-hop-footwork-va-nhip-dieu-cho-cu-bat-luoi.md)
 - [PHỤC HỒI TINH THẦN GIỮA CÁC SET VÀ SAU TRẬN ĐẤU](phan-5-phuc-hoi-tinh-than-giua-cac-set-va-sau-tran-dau.md)
-- [QUÁ TRÌNH FOLLOW-THROUGH - GIẢI PHÓNG NĂNG LƯỢNG VÀ BẢO VỆ KHỚP](phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop.md)
-- [QUÁ TRÌNH FOLLOW-THROUGH VÀ BẢO VỆ KHỚP VAI](phan-5-qua-trinh-follow-through-va-bao-ve-khop-vai.md)
 - [THÁNG THỨ TƯ ĐẾN THÁNG THỨ SÁU - HOÀN THIỆN BÀI 24 THỨC VÀ TÍNH LIÊN HOÀN](phan-5-thang-thu-tu-den-thang-thu-sau-hoan-thien-bai-24-thuc-va-tinh-lien-hoan.md)
-- [TRÍ TUỆ CẢM XÚC (EQ) VÀ SỰ BAO DUNG TRONG THI ĐẤU - NGHỆ THUẬT "NHU KHẮC CƯƠNG" TRÊN MẶT SÂN](phan-5-tri-tue-cam-xuc-eq-va-su-bao-dung-trong-thi-dau-nghe-thuat-nhu-khac-cuong.md)
-- [XÂY DỰNG "BẢN ĐỒ CHIẾN THUẬT" TRƯỚC VÀ TRONG TRẬN ĐẤU](phan-5-xay-dung-ban-do-chien-thuat-truoc-va-trong-tran-dau.md)
-- [ĐIỂM TIẾP XÚC LÝ TƯỞNG VÀ CHIẾN THUẬT ĐIỀU HƯỚNG BÓNG](phan-5-diem-tiep-xuc-ly-tuong-va-chien-thuat-dieu-huong-bong.md)
 
 ### 📖 Part 1 (26 articles)
 
 - [CHUẨN BỊ VÀ THIẾT LẬP TƯ DUY ĐÚNG ĐẮN](phan-1-chuan-bi-va-thiet-lap-tu-duy-dung-dan.md)
-- [CHUỖI ĐỘNG LỰC (KINETIC CHAIN) VÀ NGUYÊN LÝ "BÁM RỄ" TRONG FOREHAND](phan-1-chuoi-dong-luc-kinetic-chain-va-nguyen-ly-bam-re-trong-forehand.md)
-- [CHUỖI ĐỘNG LỰC TRONG CÚ SMASH - TỪ "BÁM RỄ" ĐẾN "PHÁT LỰC"](phan-1-chuoi-dong-luc-trong-cu-smash-tu-bam-re-den-phat-luc.md)
-- [GIAI ĐOẠN CHUẨN BỊ - THIẾT LẬP "SỰ TĨNH LẶNG" VÀ BÁM RỄ](phan-1-giai-doan-chuan-bi-thiet-lap-su-tinh-lang-va-bam-re.md)
 - [GIẢI MÃ KHÁI NIỆM "KHÍ" DƯỚI GÓC ĐỘ SINH LÝ HỌC HIỆN ĐẠI](phan-1-giai-ma-khai-niem-khi-duoi-goc-do-sinh-ly-hoc-hien-dai.md)
-- [KHÁI NIỆM "SỰ BÁM RỄ" (ROOTING) TRONG DI CHUYỂN TENNIS](phan-1-khai-niem-su-bam-re-rooting-trong-di-chuyen-tennis.md)
 - [NGHỆ THUẬT "QUAN SÁT THỤ ĐỘNG" TRONG THÁI CỰC QUYỀN](phan-1-nghe-thuat-quan-sat-thu-dong-trong-thai-cuc-quyen.md)
 - [NGHỊCH LÝ CỦA VẬN ĐỘNG TRONG SUY TIM - TÌM KIẾM ĐIỂM CÂN BẰNG](phan-1-nghich-ly-cua-van-dong-trong-suy-tim-tim-kiem-diem-can-bang.md)
-- [SINH CƠ HỌC CỦA CÚ BACKHAND VÀ TRIẾT LÝ "CÂN BẰNG ĐỐI XỨNG"](phan-1-sinh-co-hoc-cua-cu-backhand-va-triet-ly-can-bang-doi-xung.md)
-- [SINH CƠ HỌC VỀ CHẤN THƯƠNG TENNIS VÀ NGUYÊN LÝ "SŌNG" (THẢ LỎNG)](phan-1-sinh-co-hoc-ve-chan-thuong-tennis-va-nguyen-ly-sōng-tha-long.md)
 - [SINH HỌC CỦA ÁP LỰC ĐIỀU HÀNH VÀ CHI PHÍ CỦA SỰ CĂNG THẲNG](phan-1-sinh-hoc-cua-ap-luc-dieu-hanh-va-chi-phi-cua-su-cang-thang.md)
 - [SINH HỌC VỀ GIẢM CÂN - TỪ "ĐỐT CALO" ĐẾN "TỐI ƯU HÓA CHUYỂN HÓA"](phan-1-sinh-hoc-ve-giam-can-tu-dot-calo-den-toi-uu-hoa-chuyen-hoa.md)
 - [SINH HỌC VỀ GIẤC NGỦ VÀ CƠ CHẾ CỦA MẤT NGỦ MÃN TÍNH](phan-1-sinh-hoc-ve-giac-ngu-va-co-che-cua-mat-ngu-man-tinh.md)
@@ -180,11 +147,6 @@ Use the search bar at the top of the page to find any article by keyword.
 - [CHUỖI ĐỘNG LỰC TRONG PHA VUNG VỢT - TỪ CHÂN LÊN ĐẦU VỢT](phan-3-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot.md)
 - [CORTISOL VÀ MỠ BỤNG - CƠ CHẾ GIẢI PHÓNG MỠ NỘI TẠNG TỪ GỐC RỄ](phan-3-cortisol-va-mo-bung-co-che-giai-phong-mo-noi-tang-tu-goc-re.md)
 - [GIẢI QUYẾT SỰ CỨNG KHỚP VÀ KỸ THUẬT "HÓA GIẢI" ĐAU](phan-3-giai-quyet-su-cung-khop-va-ky-thuat-hoa-giai-dau.md)
-- [KỸ THUẬT "LẮNG NGHE" (TING JIN) ĐỂ DỰ ĐOÁN HƯỚNG BÓNG](phan-3-ky-thuat-lang-nghe-ting-jin-de-du-doan-huong-bong.md)
-- [KỸ THUẬT "SONG" (THẢ LỎNG) CỔ TAY ĐỂ TĂNG TỐC ĐỘ ĐẦU VỢT](phan-3-ky-thuat-song-tha-long-co-tay-de-tang-toc-do-dau-vot.md)
-- [KỸ THUẬT CHỐNG "ĐÔNG CỨNG DÁNG ĐI" (FREEZING OF GAIT - FOG)](phan-3-ky-thuat-chong-dong-cung-dang-di-freezing-of-gait-fog.md)
-- [KỸ THUẬT QUẢN LÝ NĂNG LƯỢNG "PACING" KẾT HỢP THÁI CỰC QUYỀN](phan-3-ky-thuat-quan-ly-nang-luong-pacing-ket-hop-thai-cuc-quyen.md)
-- [KỸ THUẬT THỞ MÍM MÔI (PURSED-LIP BREATHING) KẾT HỢP VỚI THÁI CỰC QUYỀN](phan-3-ky-thuat-tho-mim-moi-pursed-lip-breathing-ket-hop-voi-thai-cuc-quyen.md)
 - [MỐI LIÊN HỆ GIỮA HƠI THỞ, ÁP SUẤT LỒNG NGỰC VÀ HỖ TRỢ TIM](phan-3-moi-lien-he-giua-hoi-tho-ap-suat-long-nguc-va-ho-tro-tim.md)
 - [MỐI LIÊN HỆ GIỮA STRESS, CORTISOL VÀ ĐƯỜNG HUYẾT - VÒNG XOÁY ĐÁNG SỢ VÀ GIẢI PHÁP TỪ THÁI CỰC QUYỀN](phan-3-moi-lien-he-giua-stress-cortisol-va-duong-huyet-vong-xoay-dang-so-va-giai.md)
 - [PHÂN TÍCH ĐIỂM MẠNH - ĐIỂM YẾU CỦA ĐỐI THỦ THÔNG QUA "HÀM HUNG BẠT BỐI"](phan-3-phan-tich-diem-manh-diem-yeu-cua-doi-thu-thong-qua-ham-hung-bat-boi.md)
@@ -192,19 +154,14 @@ Use the search bar at the top of the page to find any article by keyword.
 - [PHẦN 3 (tiếp theo): CHUỖI ĐỘNG LỰC TRONG PHA VUNG VỢT - TỪ CHÂN LÊN ĐẦU VỢT (Hoàn thiện)](phan-3-tiep-theo-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot-hoan-thie.md)
 - [PHẦẦN 3: LỰC XOẮN ỐC (SPIRAL FORCE) VÀ SỰ PHỐI HỢP ĐIỀU HUYẾT GIỮA VAI VÀ HÔNG](phaan-3-luc-xoan-oc-spiral-force-va-su-phoi-hop-dieu-huyet-giua-vai-va-hong.md)
 - [QUẢN LÝ CÂN BẰNG ĐIỆN GIẢI VÀ KALI TRONG VẬN ĐỘNG](phan-3-quan-ly-can-bang-dien-giai-va-kali-trong-van-dong.md)
-- [QUẢN LÝ ÁP LỰC VÀ "ĐIỂM TĨNH" TRONG TENNIS - CHIẾN THẮNG NỖI SỢ ĐỂ ĐẠT ĐẾN SỰ CHUẨN XÁC](phan-3-quan-ly-ap-luc-va-diem-tinh-trong-tennis-chien-thang-noi-so-de-dat-den-su.md)
 - [QUẢN TRỊ "SỰ MỆT MỎI VÌ RA QUYẾT ĐỊNH" (DECISION FATIGUE)](phan-3-quan-tri-su-met-moi-vi-ra-quyet-dinh-decision-fatigue.md)
 - [SINH HÓA CỦA TRẦM CẢM VÀ CƠ CHẾ "VẬN ĐỘNG CHỮA LÀNH"](phan-3-sinh-hoa-cua-tram-cam-va-co-che-van-dong-chua-lanh.md)
-- [SỨC MẠNH XOAY TRỤC VÀ LỰC XOẮN ỐC TRONG BACKHAND](phan-3-suc-manh-xoay-truc-va-luc-xoan-oc-trong-backhand.md)
-- [SỰ THĂNG BẰNG ĐỘNG VÀ KHẢ NĂNG "PHỤC HỒI TRỌNG TÂM" TỨC THỜI](phan-3-su-thang-bang-dong-va-kha-nang-phuc-hoi-trong-tam-tuc-thoi.md)
-- [THÁNG THỨ HAI - CHUYỂN TRỌNG TÂM VÀ BỘ PHÁP (FOOTWORK)](phan-3-thang-thu-hai-chuyen-trong-tam-va-bo-phap-footwork.md)
 - [XÂY DỰNG "TÂM THẾ CHIẾN BINH" (THE WARRIOR MINDSET)](phan-3-xay-dung-tam-the-chien-binh-the-warrior-mindset.md)
 - [ĐỘ ĐÀN HỒI CỦA ĐỘNG MẠCH VÀ CUỘC CHIẾN CHỐNG XƠ VỨA](phan-3-do-dan-hoi-cua-dong-mach-va-cuoc-chien-chong-xo-vua.md)
 - [ỨNG DỤNG CỤ THỂ CHO HỘI CHỨNG RUỘT KÍCH THÍCH (IRRITABLE BOWEL SYNDROME - IBS)](phan-3-ung-dung-cu-the-cho-hoi-chung-ruot-kich-thich-irritable-bowel-syndrome-ib.md)
 
 ### 📖 Part 2 (23 articles)
 
-- [BIẾN THỂ CỦA "BÁM RỄ" TRONG VỊ TRÍ BẮT LƯỚI](phan-2-bien-the-cua-bam-re-trong-vi-tri-bat-luoi.md)
 - [CƠ CHẾ "BÔI TRƠN" KHỚP CỦA THÁI CỰC QUYỀN - KHOA HỌC VỀ CHUYỂN ĐỘNG XOÁY](phan-2-co-che-boi-tron-khop-cua-thai-cuc-quyen-khoa-hoc-ve-chuyen-dong-xoay.md)
 - [CƠ CHẾ "BƠM HỖ TRỢ" CỦA THÁI CỰC QUYỀN TRONG QUẢN LÝ CHẤT LỎNG](phan-2-co-che-bom-ho-tro-cua-thai-cuc-quyen-trong-quan-ly-chat-long.md)
 - [CƠ CHẾ "MASSAGE NỘI TẠNG" THÔNG QUA VẬN ĐỘNG XOÁY VÀ HƠI THỞ](phan-2-co-che-massage-noi-tang-thong-qua-van-dong-xoay-va-hoi-tho.md)
@@ -214,13 +171,9 @@ Use the search bar at the top of the page to find any article by keyword.
 - [GIAI ĐOẠN THỨC TỈNH - THÁNG THỨ NHẤT: ĐIỀU CHỈNH TRỤC CƠ THỂ VÀ HƠI THỞ](phan-2-giai-doan-thuc-tinh-thang-thu-nhat-dieu-chinh-truc-co-the-va-hoi-tho.md)
 - [GIAO TIẾP PHI NGÔN NGỮ - "NGÔN NGỮ THẦM LẶNG" TRONG ĐÁNH ĐÔI](phan-2-giao-tiep-phi-ngon-ngu-ngon-ngu-tham-lang-trong-danh-doi.md)
 - [GIẢI PHẪU HỌC VỀ HƠI THỞ - CƠ CHẾ VẬN HÀNH CỦA "CỖ MÁY" HÔ HẤP](phan-2-giai-phau-hoc-ve-hoi-tho-co-che-van-hanh-cua-co-may-ho-hap.md)
-- [KIỂM SOÁT HUYẾT ÁP - KHOA HỌC VỀ SỰ THẢ LỎNG VÀ CÂN BẰNG](phan-2-kiem-soat-huyet-ap-khoa-hoc-ve-su-tha-long-va-can-bang.md)
 - [LỰC XOẮN ỐC (SPIRAL FORCE) VÀ SỰ PHỐI HỢP GIỮA HÔNG VÀ VAI](phan-2-luc-xoan-oc-spiral-force-va-su-phoi-hop-giua-hong-va-vai.md)
-- [NGUYÊN LÝ "BÁM RỄ TÂM TRÍ" (MENTAL ROOTING) CỦA THÁI CỰC QUYỀN](phan-2-nguyen-ly-bam-re-tam-tri-mental-rooting-cua-thai-cuc-quyen.md)
 - [PHÂN TÍCH "NGÔN NGỮ CƠ THỂ" CỦA ĐỐI THỦ](phan-2-phan-tich-ngon-ngu-co-the-cua-doi-thu.md)
 - [QUY TRÌNH TUNG BÓNG VÀ SỰ PHỐI HỢP "TAY TRÁI - TAY PHẢI"](phan-2-quy-trinh-tung-bong-va-su-phoi-hop-tay-trai-tay-phai.md)
-- [QUẢN LÝ TRỌNG TÂM "HƯ - THỰC" TRONG CÁC PHA DI CHUYỂN ĐIỂN HÌNH](phan-2-quan-ly-trong-tam-hu-thuc-trong-cac-pha-di-chuyen-dien-hinh.md)
-- [QUẢN LÝ TRỌNG TÂM "HƯ - THỰC" TRONG DI CHUYỂN BACKHAND](phan-2-quan-ly-trong-tam-hu-thuc-trong-di-chuyen-backhand.md)
 - [SỨC MẠNH TỪ CHIỀU THỨC: TẬN DỤNG LỰC ĐẨY CHIỀU THỨC (VERTICAL FORCE)](phan-2-suc-manh-tu-chieu-thuc-tan-dung-luc-day-chieu-thuc-vertical-force.md)
 - [THÁI CỰC QUYỀN - CHIẾC CHÌA KHÓA GIẢI PHÓNG "BẪY KHÍ"](phan-2-thai-cuc-quyen-chiec-chia-khoa-giai-phong-bay-khi.md)
 - [THÁI CỰC QUYỀN - CÔNG CỤ TÁI LẬP TRÌNH GIẤC NGỦ](phan-2-thai-cuc-quyen-cong-cu-tai-lap-trinh-giac-ngu.md)
@@ -230,38 +183,12 @@ Use the search bar at the top of the page to find any article by keyword.
 
 ### 📖 Part 6 (25 articles)
 
-- [CHẾ ĐỘ DINH DƯỠNG HỖ TRỢ TIM MẠCH CHO NGƯỜI TẬP THÁI CỰC QUYỀN](phan-6-che-do-dinh-duong-ho-tro-tim-mach-cho-nguoi-tap-thai-cuc-quyen.md)
-- [LỘ TRÌNH RÈN LUYỆN BỘ CHÂN TRONG 1 NĂM - TỪ CƠ BẢN ĐẾN BẢN NĂNG](phan-6-lo-trinh-ren-luyen-bo-chan-trong-1-nam-tu-co-ban-den-ban-nang.md)
-- [LỘ TRÌNH RÈN LUYỆN KHẢ NĂNG ĐỌC TRẬN ĐẤU TRONG 6 THÁNG](phan-6-lo-trinh-ren-luyen-kha-nang-doc-tran-dau-trong-6-thang.md)
-- [LỘ TRÌNH RÈN LUYỆN TÂM LÝ THI ĐẤU CHO TAY VỢT TRONG 1 NĂM](phan-6-lo-trinh-ren-luyen-tam-ly-thi-dau-cho-tay-vot-trong-1-nam.md)
 - [LỘ TRÌNH XÂY DỰNG CƠ THỂ "KHÔNG CHẤN THƯƠNG" CHO TAY VỢT LÂU DÀI](phan-6-lo-trinh-xay-dung-co-the-khong-chan-thuong-cho-tay-vot-lau-dai.md)
 - [MỐI LIÊN HỆ GIỮA TÂM THỨC, GIẤC NGỦ VÀ PHỤC HỒI SIÊU TỐC](phan-6-moi-lien-he-giua-tam-thuc-giac-ngu-va-phuc-hoi-sieu-toc.md)
 - [PHÁC ĐỒ THỰC HÀNH KẾT HỢP DINH DƯỠNG ĐỂ GIẢM CÂN BỀN VỮNG](phan-6-phac-do-thuc-hanh-ket-hop-dinh-duong-de-giam-can-ben-vung.md)
-- [PHÂN TÍCH CÁC LỖI SAI THƯỜNG GẶP VÀ CÁCH CHỈNH SỬA THỰC TẾ](phan-6-phan-tich-cac-loi-sai-thuong-gap-va-cach-chinh-sua-thuc-te.md)
-- [PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH HOÀN THIỆN CÚ SMASH](phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-cu-smash.md)
-- [PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH HOÀN THIỆN KỸ NĂNG BẮT LƯỚI](phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-ky-nang-bat-luoi.md)
-- [PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH KHẮC PHỤC THỰC TẾ](phan-6-phan-tich-loi-sai-va-lo-trinh-khac-phuc-thuc-te.md)
-- [PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH LUYỆN TẬP](phan-6-phan-tich-loi-sai-va-lo-trinh-luyen-tap.md)
-- [THEO DÕI, ĐO LƯỜNG VÀ ĐIỀU CHỈNH BÀI TẬP DỰA TRÊN CHỈ SỐ ĐƯỜNG HUYẾT](phan-6-theo-doi-do-luong-va-dieu-chinh-bai-tap-dua-tren-chi-so-duong-huyet.md)
-- [THIẾT LẬP LỊCH TRÌNH VẬN ĐỘNG CHO DOANH NHÂN BẬN RỘN](phan-6-thiet-lap-lich-trinh-van-dong-cho-doanh-nhan-ban-ron.md)
-- [THIẾT LẬP LỊCH TRÌNH VẬN ĐỘNG CHO DOANH NHÂN BẬN RỘN](phan-6-thiet-lap-lich-trinh-van-dong-cho-doanh-nhan-ban-ron-2.md)
-- [TỔNG KẾT VÀ CHẾ ĐỘ DINH DƯỠNG KẾT HỢP TẬP LUYỆN](phan-6-tong-ket-va-che-do-dinh-duong-ket-hop-tap-luyen.md)
-- [TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN COPD](phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-copd.md)
-- [TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN SUY TIM](phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-suy-tim.md)
-- [TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN THẬN](phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-than.md)
-- [TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN ĐẶC BIỆT CHO BỆNH NHÂN PARKINSON](phan-6-tong-ket-va-cac-luu-y-an-toan-dac-biet-cho-benh-nhan-parkinson.md)
-- [TỔNG KẾT VÀ LƯU Ý AN TOÀN CHO BỆNH NHÂN GAN](phan-6-tong-ket-va-luu-y-an-toan-cho-benh-nhan-gan.md)
-- [TỔNG KẾT VÀ LỘ TRÌNH THOÁT KHỎI MỆT MỎI MẠN TÍNH](phan-6-tong-ket-va-lo-trinh-thoat-khoi-met-moi-man-tinh.md)
-- [TỔNG KẾT VÀ XÂY DỰNG LỐI SỐNG TỈNH THỨC (MINDFUL LIVING)](phan-6-tong-ket-va-xay-dung-loi-song-tinh-thuc-mindful-living.md)
-- [TỪ THÁNG THỨ BẢY ĐẾN CUỐI NĂM THỨ NHẤT - NÂNG CAO, TINH CHỈNH VÀ ĐƯA VÀO ĐỜI SỐNG](phan-6-tu-thang-thu-bay-den-cuoi-nam-thu-nhat-nang-cao-tinh-chinh-va-dua-vao-doi.md)
-- [ỨNG DỤNG HƠI THỞ TRONG TENNIS - TỐI ƯU HÓA HIỆU SUẤT VÀ PHỤC HỒI](phan-6-ung-dung-hoi-tho-trong-tennis-toi-uu-hoa-hieu-suat-va-phuc-hoi.md)
 
 ### 📖 Part 7 (4 articles)
 
-- [KẾT HỢP THÁI CỰC QUYỀN VỚI CHẾ ĐỘ DINH DƯỠNG CHO NGƯỜI TIỂU ĐƯỜNG](phan-7-ket-hop-thai-cuc-quyen-voi-che-do-dinh-duong-cho-nguoi-tieu-duong.md)
-- [SỰ ĐỒNG BỘ GIỮA HƠI THỞ VÀ CHUYỂN ĐỘNG (BREATH-MOVEMENT SYNCHRONIZATION) - NGHỆ THUẬT ĐIỀU PHỐI NĂNG LƯỢNG](phan-7-su-dong-bo-giua-hoi-tho-va-chuyen-dong-breath-movement-synchronization-ng.md)
-- [TỔNG KẾT LỘ TRÌNH RÈN LUYỆN TIM MẠCH CHO TỪNG ĐỘ TUỔI](phan-7-tong-ket-lo-trinh-ren-luyen-tim-mach-cho-tung-do-tuoi.md)
-- [TỔNG KẾT LỘ TRÌNH RÈN LUYỆN TÂM TRÍ - TỪ NGƯỜI MỚI ĐẾN BẬC THẦY](phan-7-tong-ket-lo-trinh-ren-luyen-tam-tri-tu-nguoi-moi-den-bac-thay.md)
 
 ### 📖 Other / unspecified (2 articles)
 
@@ -270,12 +197,9 @@ Use the search bar at the top of the page to find any article by keyword.
 
 ### 📖 Part 8 (2 articles)
 
-- [KHÍ CÔNG VÀ KHẢ NĂNG ĐÀO THẢI ĐỘC TỐ, TRẺ HÓA TẾ BÀO (ANTI-AGING)](phan-8-khi-cong-va-kha-nang-dao-thai-doc-to-tre-hoa-te-bao-anti-aging.md)
-- [TỔNG KẾT VÀ CÁC CÂU HỎI THƯỜNG GẶP (FAQ)](phan-8-tong-ket-va-cac-cau-hoi-thuong-gap-faq.md)
 
 ### 📖 Part 9 (1 articles)
 
-- [ỨNG DỤNG KHÍ CÔNG TRONG ĐIỀU TRỊ BỆNH LÝ HÔ HẤP VÀ TIM MẠCH](phan-9-ung-dung-khi-cong-trong-dieu-tri-benh-ly-ho-hap-va-tim-mach.md)
 
 ---
 
