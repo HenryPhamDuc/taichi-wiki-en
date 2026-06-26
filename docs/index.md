@@ -82,11 +82,4 @@ Explore the wiki as an interactive network — every node is an article, every e
 
     [:octicons-arrow-right-24: Open section](health/index.md)
 
--   :material-tennis:{ .lg .middle } **Tennis Applications**
-
-    ---
-
-    Taichi applied to tennis — balance, footwork, and focus
-
-
-</div>
+        </div>
