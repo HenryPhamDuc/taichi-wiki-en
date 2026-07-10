@@ -1,0 +1,30 @@
+name: Release (CalVer tag)
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Write version.json (single source of truth)
+        run: |
+          VERSION="${{ github.ref_name }}"
+          echo "{\"version\":\"$VERSION\",\"releasedAt\":\"$(date -u +%Y-%m-%d)\",\"repo\":\"${{ github.repository }}\"}" | jq . > version.json
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Release ${{ github.ref_name }}
+          generate_release_notes: true
+          files: version.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
